@@ -5,9 +5,6 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 640
 PlayResY: 360
-PlayDepth: 0
-Video Aspect Ratio: 0
-Last Style Storage: Padrões
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
