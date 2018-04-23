@@ -2,7 +2,7 @@
 ScriptType: v4.00+
 Collisions: Normal
 PlayResX: 640
-PlayResY: 480
+PlayResY: 360
 PlayDepth: 0
 Video Aspect Ratio: 0
 Last Style Storage: Padrões
@@ -14,8 +14,8 @@ Style: Notas-01,Arial,22,&H00FFFFFF,&H000000FF,&H14000000,&H00000000,-1,0,0,0,80
 Style: Notas-02,Arial,22,&H00FFFFFF,&H000000FF,&H96000000,&H00000000,0,-1,0,0,100,110,0,0,3,4,0,8,10,10,20,1
 Style: Types,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,110,0,0,1,1.5,0.5,2,10,10,20,1
 Style: Padrão,Arial,22,&H00FFFFFF,&H000000FF,&H23000000,&H96000000,-1,0,0,0,80,110,0,0,1,3,1,2,10,10,20,1
-Style: Abertura - Tradução,Arial Black,24,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,-1,0,0,75,180,0,0,1,2,0,2,10,10,20,1
-Style: Abertura - Romaji,Arial Black,26,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,0,0,0,75,150,0,0,1,3,0,8,10,10,10,1
+Style: Abertura - Tradução,Arial Black,20,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,-1,0,0,75,180,0,0,1,2,0,2,10,10,20,1
+Style: Abertura - Romaji,Arial Black,20,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,0,0,0,75,150,0,0,1,3,0,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
