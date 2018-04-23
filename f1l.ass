@@ -4,7 +4,7 @@ Collisions: Normal
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 640
-PlayResY: 360
+PlayResY: 480
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
