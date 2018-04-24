@@ -15,385 +15,385 @@ Style: Default,Arial,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100
 Style: Notas-01,Arial,20,&H00FFFFFF,&H000000FF,&H14000000,&H00000000,-1,0,0,0,80,110,0,0,1,0,1.5,8,10,10,20,1
 Style: Notas-02,Arial,20,&H00FFFFFF,&H000000FF,&H96000000,&H00000000,0,-1,0,0,100,110,0,0,3,4,0,8,10,10,20,1
 Style: Types,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,110,0,0,1,1.5,0.5,2,10,10,20,1
-Style: Padrão,Arial,20,&H00FFFFFF,&H000000FF,&H23000000,&H96000000,-1,0,0,0,80,110,0,0,1,3,1,2,10,10,20,1
-Style: Abertura - Tradução,Arial,20,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,-1,0,0,75,180,0,0,1,2,0,2,10,10,20,1
-Style: Abertura - Romaji,Arial,20,&H00FFFFFF,&H000000FF,&H02000000,&H96000000,0,0,0,0,75,150,0,0,1,3,0,8,10,10,10,1
+Style: Padrão,Tahoma,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: Abertura - Tradução,Bree Serif,22,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: Abertura - Romaji,Bree Serif,22,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:35.86,Padrão,,0000,0000,0000,,
-Comment: 0,0:00:00.00,0:00:35.86,Padrão,,0000,0000,0000,,
-Dialogue: 0,0:00:35.86,0:00:40.52,Padrão,,0000,0000,0000,,Son Goku, da próxima vez eu vou te derrotar, com certeza!
-Dialogue: 0,0:00:53.21,0:00:54.97,Padrão,,0000,0000,0000,,Quem está aí?!
-Dialogue: 0,0:01:07.19,0:01:08.66,Padrão,,0000,0000,0000,,Quem são vocês?!
-Dialogue: 0,0:01:09.49,0:01:11.32,Padrão,,0000,0000,0000,,Acabem com ele!
-Dialogue: 0,0:01:22.87,0:01:26.21,Padrão,,0000,0000,0000,,{\i1}Piccolo e Kami estão ligados pelo corpo e pela mente.{\i0}
-Dialogue: 0,0:01:26.21,0:01:29.37,Padrão,,0000,0000,0000,,{\i1}Agora o Kami está morto também.{\i0}
-Dialogue: 0,0:01:32.25,0:01:35.25,Padrão,,0000,0000,0000,,O Piccolo foi derrotado! Será obra do Son Goku?
-Dialogue: 0,0:01:35.25,0:01:37.38,Padrão,,0000,0000,0000,,Não, não pode ter sido...
-Dialogue: 0,0:01:38.22,0:01:41.35,Padrão,,0000,0000,0000,,Não pode ser...
-Dialogue: 0,0:01:54.90,0:02:00.21,Abertura - Romaji,,0000,0000,0000,,Hikaru kumo tsukinuke fly away
-Dialogue: 0,0:01:54.90,0:02:00.21,Abertura - Tradução,,0000,0000,0000,,Atravesse as nuvens brilhantes e voe para longe (para longe)
-Dialogue: 0,0:02:00.21,0:02:07.22,Abertura - Romaji,,0000,0000,0000,,Karada juu ni hirogaru panorama
-Dialogue: 0,0:02:00.21,0:02:07.22,Abertura - Tradução,,0000,0000,0000,,Como um panorama que se espalha por todo meu corpo
-Dialogue: 0,0:02:07.22,0:02:12.55,Abertura - Romaji,,0000,0000,0000,,Kao o kerareta chikyuu ga okotte
-Dialogue: 0,0:02:07.22,0:02:12.55,Abertura - Tradução,,0000,0000,0000,,A terra, levando um chute em sua face, se enfurece (enfurece)!
-Dialogue: 0,0:02:12.55,0:02:19.23,Abertura - Romaji,,0000,0000,0000,,Kazan o bakuhatsu saseru
-Dialogue: 0,0:02:12.55,0:02:19.23,Abertura - Tradução,,0000,0000,0000,,E faz um de seus vulcões explodir!
-Dialogue: 0,0:02:19.23,0:02:25.90,Abertura - Romaji,,0000,0000,0000,,Toketa koori no naka ni
-Dialogue: 0,0:02:19.23,0:02:25.90,Abertura - Tradução,,0000,0000,0000,,Se no meio do gelo descongelado,
-Dialogue: 0,0:02:25.90,0:02:34.91,Abertura - Romaji,,0000,0000,0000,,Kyouryuu ga itara tamanori shikomitai ne
-Dialogue: 0,0:02:25.90,0:02:34.91,Abertura - Tradução,,0000,0000,0000,,Eu encontrar um dinossauro, irei ensiná-lo a equilibrar uma bola.
-Dialogue: 0,0:02:34.91,0:02:38.58,Abertura - Romaji,,0000,0000,0000,,Cha-la head cha-la
-Dialogue: 0,0:02:34.91,0:02:38.58,Abertura - Tradução,,0000,0000,0000,,CHA-LA-HEAD-CHA-LA
-Dialogue: 0,0:02:38.58,0:02:47.62,Abertura - Romaji,,0000,0000,0000,,Nani ga okite mo kibun wa heno heno kappa
-Dialogue: 0,0:02:38.58,0:02:47.62,Abertura - Tradução,,0000,0000,0000,,Não importa o que aconteça, eu sinto que nada vai me incomodar,
-Dialogue: 0,0:02:47.62,0:02:50.96,Abertura - Romaji,,0000,0000,0000,,Cha-la head cha-la
-Dialogue: 0,0:02:47.62,0:02:50.96,Abertura - Tradução,,0000,0000,0000,,CHA-LA-HEAD-CHA-LA
-Dialogue: 0,0:02:50.96,0:02:56.97,Abertura - Romaji,,0000,0000,0000,,Mune ga pachi pachi suru hodo
-Dialogue: 0,0:02:50.96,0:02:56.97,Abertura - Tradução,,0000,0000,0000,,Não importa que o seu peito aperte, a Genki Dama vai voar!
-Dialogue: 0,0:02:56.97,0:03:00.24,Abertura - Romaji,,0000,0000,0000,,Cha-la head cha-la
-Dialogue: 0,0:02:56.97,0:03:00.24,Abertura - Tradução,,0000,0000,0000,,CHA-LA-HEAD-CHA-LA
-Dialogue: 0,0:03:00.24,0:03:09.24,Abertura - Romaji,,0000,0000,0000,,Atama karappo no hou ga yume tsumekomeru
-Dialogue: 0,0:03:00.24,0:03:09.24,Abertura - Tradução,,0000,0000,0000,,Quanto mais vazia for a sua cabeça, mais espaço ela terá para os seus sonhos,
-Dialogue: 0,0:03:09.24,0:03:12.58,Abertura - Romaji,,0000,0000,0000,,Cha-la head cha-la
-Dialogue: 0,0:03:09.24,0:03:12.58,Abertura - Tradução,,0000,0000,0000,,CHA-LA-HEAD-CHA-LA
-Dialogue: 0,0:03:12.58,0:03:19.92,Abertura - Romaji,,0000,0000,0000,,Egao ultra z de Kyou mo ai-yai-yai-yai-yai
-Dialogue: 0,0:03:12.58,0:03:19.92,Abertura - Tradução,,0000,0000,0000,,Com um sorriso no rosto e um Ultra-Z, hoje é dia de ai-yai-yai-yai-yai...
-Dialogue: 0,0:03:19.92,0:03:21.35,Abertura - Romaji,,0000,0000,0000,,Sparking!
-Dialogue: 0,0:03:19.92,0:03:21.35,Abertura - Tradução,,0000,0000,0000,,Brilhando!
-Dialogue: 0,0:03:42.18,0:03:44.18,Padrão,,0000,0000,0000,,A magicicada pode ter um período larval
-Dialogue: 0,0:03:44.18,0:03:51.32,Padrão,,0000,0000,0000,,de 17 ou 13 anos?
-Dialogue: 0,0:03:51.32,0:03:54.52,Padrão,,0000,0000,0000,,Então elas ficam no chão por 17 anos!
-Dialogue: 0,0:03:54.52,0:03:55.82,Padrão,,0000,0000,0000,,Deve ser difícil.
-Dialogue: 0,0:03:55.82,0:04:01.13,Padrão,,0000,0000,0000,,Gohan-{\i1}chan!{\i0} Hora de comer!
-Dialogue: 0,0:04:02.26,0:04:04.76,Padrão,,0000,0000,0000,,A mamãe está animada hoje.
-Dialogue: 0,0:04:10.64,0:04:14.18,Padrão,,0000,0000,0000,,Ei, Gohan!
-Dialogue: 0,0:04:14.18,0:04:16.31,Padrão,,0000,0000,0000,,É o vovô!
-Dialogue: 0,0:04:16.31,0:04:18.18,Padrão,,0000,0000,0000,,Paizinho!
-Dialogue: 0,0:04:18.18,0:04:20.65,Padrão,,0000,0000,0000,,Gohan, você está bem?
-Dialogue: 0,0:04:20.65,0:04:23.65,Padrão,,0000,0000,0000,,Você também parece ótimo, vovô!
-Dialogue: 0,0:04:23.65,0:04:25.32,Padrão,,0000,0000,0000,,Eu estou bem, eu estou bem!
-Dialogue: 0,0:04:25.32,0:04:27.19,Padrão,,0000,0000,0000,,Alguns presentes pra você!
-Dialogue: 0,0:04:27.19,0:04:28.66,Padrão,,0000,0000,0000,,Obrigado!
-Dialogue: 0,0:04:28.66,0:04:31.93,Padrão,,0000,0000,0000,,A Chichi disse que você gostaria de ganhar livros,
-Dialogue: 0,0:04:31.93,0:04:34.76,Padrão,,0000,0000,0000,,mas eles não são nada fáceis de carregar.
-Dialogue: 0,0:04:36.67,0:04:39.50,Padrão,,0000,0000,0000,,Paizinho, por que a brincadeira?
-Dialogue: 0,0:04:48.21,0:04:50.68,Padrão,,0000,0000,0000,,Paizinho? Qual o problema?
-Dialogue: 0,0:04:50.68,0:04:52.44,Padrão,,0000,0000,0000,,Vovô!
-Dialogue: 0,0:04:59.25,0:05:00.85,Padrão,,0000,0000,0000,,Paizinho!
-Dialogue: 0,0:05:03.33,0:05:04.55,Padrão,,0000,0000,0000,,Mamãe!
-Dialogue: 0,0:05:16.67,0:05:19.57,Padrão,,0000,0000,0000,,Quem é você?!
-Dialogue: 0,0:05:20.68,0:05:22.21,Padrão,,0000,0000,0000,,O que quer conosco?!
-Dialogue: 0,0:05:22.21,0:05:27.38,Padrão,,0000,0000,0000,,Eu vim pela Esfera do Dragão na cabeça desse garoto.
-Dialogue: 0,0:05:28.35,0:05:30.35,Padrão,,0000,0000,0000,,Gohan, vá para dentro de casa!
-Dialogue: 0,0:05:30.35,0:05:32.65,Padrão,,0000,0000,0000,,Mamãe!
-Dialogue: 0,0:05:33.69,0:05:36.49,Padrão,,0000,0000,0000,,- Mamãe!\N- Se apresse!
-Dialogue: 0,0:05:39.39,0:05:42.23,Padrão,,0000,0000,0000,,Mamãe!
-Dialogue: 0,0:05:53.68,0:05:55.17,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:06:13.46,0:06:15.43,Padrão,,0000,0000,0000,,Mamãe!
-Dialogue: 0,0:06:19.13,0:06:20.62,Padrão,,0000,0000,0000,,Chichi!
-Dialogue: 0,0:06:22.40,0:06:24.41,Padrão,,0000,0000,0000,,Mamãe!
-Dialogue: 0,0:06:24.41,0:06:26.14,Padrão,,0000,0000,0000,,G-Gohan...
-Dialogue: 0,0:06:26.14,0:06:29.44,Padrão,,0000,0000,0000,,Gohan... fuja...
-Dialogue: 0,0:06:43.29,0:06:45.32,Padrão,,0000,0000,0000,,Chichi!
-Dialogue: 0,0:06:47.30,0:06:49.16,Padrão,,0000,0000,0000,,O que aconteceu, Chichi?
-Dialogue: 0,0:06:50.77,0:06:56.10,Padrão,,0000,0000,0000,,Goku, o Gohan foi sequestrado...{\i1} {\i0}
-Dialogue: 0,0:06:56.10,0:06:59.31,Padrão,,0000,0000,0000,,Gohan? Quem levou o Gohan?!
-Dialogue: 0,0:06:59.31,0:07:00.78,Padrão,,0000,0000,0000,,Eu não sei.
-Dialogue: 0,0:07:00.78,0:07:04.11,Padrão,,0000,0000,0000,,Eles vieram pela Esfera do Dragão...
-Dialogue: 0,0:07:04.11,0:07:05.45,Padrão,,0000,0000,0000,,Esfera do Dragão?!
-Dialogue: 0,0:07:05.45,0:07:08.58,Padrão,,0000,0000,0000,,Para onde eles foram?! Chichi!
-Dialogue: 0,0:07:15.42,0:07:19.76,Padrão,,0000,0000,0000,,Com essa, nós já reunimos cinco, certo?
-Dialogue: 0,0:07:19.76,0:07:21.46,Padrão,,0000,0000,0000,,Sim, senhor!
-Dialogue: 0,0:07:22.30,0:07:24.73,Padrão,,0000,0000,0000,,Então faltam apenas duas.
-Dialogue: 0,0:07:26.30,0:07:29.27,Padrão,,0000,0000,0000,,Ginger, quando eu juntar todas as sete,
-Dialogue: 0,0:07:29.27,0:07:31.44,Padrão,,0000,0000,0000,,eu poderei invocar o Shen Long e pedir-lhe a vida eterna, certo?
-Dialogue: 0,0:07:31.44,0:07:32.44,Padrão,,0000,0000,0000,,Sim, senhor.
-Dialogue: 0,0:07:32.44,0:07:33.78,Padrão,,0000,0000,0000,,Mais duas, não é?
-Dialogue: 0,0:07:33.78,0:07:36.78,Padrão,,0000,0000,0000,,Quando descobrirmos onde estão essas duas,
-Dialogue: 0,0:07:36.78,0:07:39.15,Padrão,,0000,0000,0000,,o resto vai ser moleza.
-Dialogue: 0,0:07:39.15,0:07:44.62,Padrão,,0000,0000,0000,,Até mesmo o Kami vai morrer, mas eu restarei imortal.
-Dialogue: 0,0:07:44.62,0:07:48.52,Padrão,,0000,0000,0000,,Esse será o primeiro passo da minha vingança.
-Dialogue: 0,0:07:48.52,0:07:51.66,Padrão,,0000,0000,0000,,Chegou a hora em que eu irei levar todas as criaturas
-Dialogue: 0,0:07:51.66,0:07:56.36,Padrão,,0000,0000,0000,,da face da Terra ao desespero!
-Dialogue: 0,0:08:00.17,0:08:04.11,Padrão,,0000,0000,0000,,Eu quero ir para casa agora!
-Dialogue: 0,0:08:04.11,0:08:07.78,Padrão,,0000,0000,0000,,Cale a boca! Fique calado, ou nós não vamos te levar de volta!
-Dialogue: 0,0:08:07.78,0:08:10.25,Padrão,,0000,0000,0000,,O meu pai vai vir me salvar!
-Dialogue: 0,0:08:10.25,0:08:13.62,Padrão,,0000,0000,0000,,O meu pai é o Son Goku, a pessoa mais forte do planeta!
-Dialogue: 0,0:08:13.62,0:08:15.88,Padrão,,0000,0000,0000,,Como disse? Son Goku?
-Dialogue: 0,0:08:15.88,0:08:17.79,Padrão,,0000,0000,0000,,O mesmo Son Goku que derrotou
-Dialogue: 0,0:08:17.79,0:08:21.46,Padrão,,0000,0000,0000,,o Piccolo Daimao no Torneio Tenkaichi?
-Dialogue: 0,0:08:21.46,0:08:24.48,Padrão,,0000,0000,0000,,Isso mesmo! Eu sou o filho do Son Goku!
-Dialogue: 0,0:08:26.53,0:08:29.12,Padrão,,0000,0000,0000,,Você é muito chorão para ser filho dele.
-Dialogue: 0,0:08:32.83,0:08:36.37,Padrão,,0000,0000,0000,,E, quanto ao Piccolo, nós também o derrotamos.
-Dialogue: 0,0:08:36.37,0:08:38.37,Padrão,,0000,0000,0000,,Sim, e foi fácil!
-Dialogue: 0,0:08:38.37,0:08:40.67,Padrão,,0000,0000,0000,,Ele era um fracote!
-Dialogue: 0,0:08:48.38,0:08:52.55,Padrão,,0000,0000,0000,,{\i1}Não pode ser! Eu sinto um poder misterioso emanando dele!{\i0}
-Dialogue: 0,0:08:52.55,0:08:55.39,Padrão,,0000,0000,0000,,{\i1}Eu nunca senti algo assim!{\i0}
-Dialogue: 0,0:08:55.39,0:08:58.86,Padrão,,0000,0000,0000,,{\i1}Dependendo de como ele for criado, poderá se tornar de grande utilidade para mim.{\i0}
-Dialogue: 0,0:08:58.86,0:09:02.33,Padrão,,0000,0000,0000,,Eu já sei! Você vai se tornar um de meus servos!
-Dialogue: 0,0:09:02.33,0:09:03.46,Padrão,,0000,0000,0000,,Um servo?
-Dialogue: 0,0:09:04.80,0:09:09.83,Padrão,,0000,0000,0000,,Que sorte você tem! Não vai morrer!
-Dialogue: 0,0:09:11.37,0:09:14.84,Padrão,,0000,0000,0000,,Fique mais forte aqui, como todos os outros!
-Dialogue: 0,0:09:14.84,0:09:16.71,Padrão,,0000,0000,0000,,Mais forte?
-Dialogue: 0,0:09:19.85,0:09:22.85,Padrão,,0000,0000,0000,,Eles não estão atrás do Gohan.
-Dialogue: 0,0:09:22.85,0:09:24.51,Padrão,,0000,0000,0000,,Eles querem as Esferas do Dragão.
-Dialogue: 0,0:09:26.39,0:09:28.52,Padrão,,0000,0000,0000,,Já conseguiram reunir cinco delas.
-Dialogue: 0,0:09:28.52,0:09:30.39,Padrão,,0000,0000,0000,,Ele deve estar nesse lugar.
-Dialogue: 0,0:09:30.39,0:09:31.53,Padrão,,0000,0000,0000,,Aqui?
-Dialogue: 0,0:09:31.53,0:09:33.39,Padrão,,0000,0000,0000,,Isso, para o sul.
-Dialogue: 0,0:09:33.39,0:09:35.23,Padrão,,0000,0000,0000,,É perto do Mar Escarlate.
-Dialogue: 0,0:09:36.23,0:09:37.57,Padrão,,0000,0000,0000,,Eu vou pegar o Radar do Dragão emprestado!
-Dialogue: 0,0:09:37.57,0:09:38.87,Padrão,,0000,0000,0000,,Tudo bem.
-Dialogue: 0,0:09:38.87,0:09:43.54,Padrão,,0000,0000,0000,,Goku! Esses caras conseguiram derrotar o Gyumao e a Chichi com facilidade!
-Dialogue: 0,0:09:43.54,0:09:44.54,Padrão,,0000,0000,0000,,Tome cuidado!
-Dialogue: 0,0:09:44.54,0:09:45.53,Padrão,,0000,0000,0000,,Sim!
-Dialogue: 0,0:09:46.88,0:09:48.87,Padrão,,0000,0000,0000,,Son-{\i1}kun{\i0}, tome cuidado!
-Dialogue: 0,0:09:55.92,0:09:56.91,Padrão,,0000,0000,0000,,Goku...
-Dialogue: 0,0:09:58.92,0:10:00.62,Padrão,,0000,0000,0000,,Espera!
-Dialogue: 0,0:10:00.62,0:10:02.92,Padrão,,0000,0000,0000,,Não quero! Eu vou brincar!
-Dialogue: 0,0:10:04.76,0:10:09.75,Padrão,,0000,0000,0000,,Já basta! Por que eu tenho que ser babá desse moleque?!
-Dialogue: 0,0:10:13.94,0:10:15.27,Padrão,,0000,0000,0000,,Ora seu...
-Dialogue: 0,0:10:17.61,0:10:22.61,Padrão,,0000,0000,0000,,Eu estou com sede. E com fome também.
-Dialogue: 0,0:10:22.61,0:10:25.48,Padrão,,0000,0000,0000,,Pare! Você não pode comer isso!
-Dialogue: 0,0:10:25.48,0:10:28.28,Padrão,,0000,0000,0000,,Mas você comeu.
-Dialogue: 0,0:10:32.49,0:10:33.61,Padrão,,0000,0000,0000,,Que delícia!
-Dialogue: 0,0:10:36.19,0:10:37.53,Padrão,,0000,0000,0000,,Estava ótimo!
-Dialogue: 0,0:10:37.53,0:10:39.82,Padrão,,0000,0000,0000,,Quando crianças comem essas maçãs...
-Dialogue: 0,0:10:41.83,0:10:44.36,Padrão,,0000,0000,0000,,...elas ficam embebedadas...
-Dialogue: 0,0:10:50.21,0:10:51.67,Padrão,,0000,0000,0000,,Francamente...
-Dialogue: 0,0:10:59.21,0:11:01.48,Padrão,,0000,0000,0000,,Eu, vamos! Espere um pouco, ei!
-Dialogue: 0,0:11:02.82,0:11:09.78,Padrão,,0000,0000,0000,,{\an8\i1}Lá em cima, lá no céu, eu vi uma baleia nadando.{\i0}
-Dialogue: 0,0:11:10.63,0:11:17.55,Padrão,,0000,0000,0000,,{\an8\i1}Ela liberou o ar do topo da cabeça e isso se transformou em chuva.{\i0}
-Dialogue: 0,0:11:18.53,0:11:24.77,Padrão,,0000,0000,0000,,{\an8\i1}Uma nuvem com tro-tro-trovões veio junto. Opa, na verdade é um polvo!{\i0}
-Dialogue: 0,0:11:26.34,0:11:31.18,Padrão,,0000,0000,0000,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
-Dialogue: 0,0:11:31.18,0:11:33.47,Padrão,,0000,0000,0000,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
-Dialogue: 0,0:11:31.18,0:11:33.47,Padrão,,0000,0000,0000,,Eu já mandei você esperar!
-Dialogue: 0,0:11:33.48,0:11:34.12,Padrão,,0000,0000,0000,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
-Dialogue: 0,0:11:34.12,0:11:39.85,Padrão,,0000,0000,0000,,{\an8\i1}E então, um dinossauro se aproveitou e comeu o polvo.{\i0}
-Dialogue: 0,0:11:41.69,0:11:48.79,Padrão,,0000,0000,0000,,{\an8\i1}Tão bom, tão bom, eu não sei por quê, mas eu me sinto tão bem.{\i0}
-Dialogue: 0,0:11:49.63,0:11:56.73,Padrão,,0000,0000,0000,,{\an8\i1}Tão bom, tão bom, eu não sei por quê, mas eu me sinto tão bem.{\i0}
-Dialogue: 0,0:11:58.24,0:11:59.21,Padrão,,0000,0000,0000,,Ei!
-Dialogue: 0,0:12:01.21,0:12:02.68,Padrão,,0000,0000,0000,,{\an8\i1}E quando eu estou me sentindo bem, eu também fico mais esperto!{\i0\i1} {\i0}
-Dialogue: 0,0:12:01.21,0:12:02.68,Padrão,,0000,0000,0000,,Seja um bom garoto e fique parado!
-Dialogue: 0,0:12:02.68,0:12:04.98,Padrão,,0000,0000,0000,,{\an8\i1}E quando eu estou me sentindo bem, eu também fico mais esperto!{\i0}
-Dialogue: 0,0:12:04.98,0:12:05.85,Padrão,,0000,0000,0000,,{\an8\i1}Eu consigo ver outros mundos!{\i0}
-Dialogue: 0,0:12:05.85,0:12:09.22,Padrão,,0000,0000,0000,,Ele realmente não é uma criança qualquer.
-Dialogue: 0,0:12:09.22,0:12:19.69,Padrão,,0000,0000,0000,,{\an8\i1}Eu nem preciso estudar para ver outros mundos legais!{\i0}
-Dialogue: 0,0:12:19.69,0:12:24.15,Padrão,,0000,0000,0000,,{\an8\i1}Eu sou o maior gênio sob o sol!{\i0}
-Dialogue: 0,0:12:28.70,0:12:30.86,Padrão,,0000,0000,0000,,Francamente, que criança problemática!
-Dialogue: 0,0:12:36.24,0:12:40.34,Padrão,,0000,0000,0000,,Garlic Jr-{\i1}sama{\i0}, aqui estão as últimas duas!
-Dialogue: 0,0:12:46.29,0:12:52.66,Padrão,,0000,0000,0000,,Agora nós temos todas elas, certo? Então vamos fazer o Shen Long realizar meu pedido.
-Dialogue: 0,0:13:03.84,0:13:05.57,Padrão,,0000,0000,0000,,Lá está!
-Dialogue: 0,0:13:05.57,0:13:07.63,Padrão,,0000,0000,0000,,Apareça, dragão!
-Dialogue: 0,0:13:16.58,0:13:18.48,Padrão,,0000,0000,0000,,Eles estão invocando o Shen Long!
-Dialogue: 0,0:13:43.78,0:13:46.78,Padrão,,0000,0000,0000,,Falai vosso desejo.
-Dialogue: 0,0:13:46.78,0:13:51.31,Padrão,,0000,0000,0000,,Eu lhe concederei um único desejo.
-Dialogue: 0,0:13:53.32,0:13:55.79,Padrão,,0000,0000,0000,,Me dê a vida eterna!
-Dialogue: 0,0:13:55.79,0:13:58.78,Padrão,,0000,0000,0000,,Isso é simples.
-Dialogue: 0,0:14:21.32,0:14:27.81,Padrão,,0000,0000,0000,,Humanos miseráveis! A partir de agora, eu sou o Deus desse mundo!
-Dialogue: 0,0:14:28.79,0:14:34.60,Padrão,,0000,0000,0000,,Espíritos malignos, espreitando nas trevas, eu os liberto de suas correntes,
-Dialogue: 0,0:14:34.60,0:14:37.80,Padrão,,0000,0000,0000,,renasçam de sua prisão!
-Dialogue: 0,0:14:37.80,0:14:43.26,Padrão,,0000,0000,0000,,Façam o sangue chover por todo o mundo!
-Dialogue: 0,0:14:46.84,0:14:50.88,Padrão,,0000,0000,0000,,Eu agora irei dominar esse mundo, eternamente!
-Dialogue: 0,0:14:50.88,0:14:57.84,Padrão,,0000,0000,0000,,Humanos! Esse sofrimento vai continuar até cada um de vocês me obedecer!
-Dialogue: 0,0:15:01.79,0:15:06.66,Padrão,,0000,0000,0000,,Eu garanti vosso desejo.
-Dialogue: 0,0:15:06.66,0:15:11.56,Padrão,,0000,0000,0000,,Adeus!
-Dialogue: 0,0:15:27.35,0:15:31.85,Padrão,,0000,0000,0000,,Agora, eu não tenho mais nada a temer! Vou dar continuidade à vingança do meu pai,
-Dialogue: 0,0:15:31.85,0:15:35.79,Padrão,,0000,0000,0000,,matando todos os humanos que receberam a luz do Kami
-Dialogue: 0,0:15:35.79,0:15:41.16,Padrão,,0000,0000,0000,,e farei o que quiser com esse mundo!
-Dialogue: 0,0:15:45.40,0:15:47.89,Padrão,,0000,0000,0000,,Contemplem nosso Garlic Jr{\i1}-sama!{\i0}
-Dialogue: 0,0:15:51.41,0:15:53.88,Padrão,,0000,0000,0000,,Banzai! Banzai!
-Dialogue: 0,0:15:53.88,0:15:55.40,Padrão,,0000,0000,0000,,Devolvam o Gohan!
-Dialogue: 0,0:15:55.74,0:15:57.75,Padrão,,0000,0000,0000,,Devolvam o Gohan!
-Dialogue: 0,0:15:57.75,0:15:59.71,Padrão,,0000,0000,0000,,Devolvam o Gohan!
-Dialogue: 0,0:16:02.35,0:16:03.82,Padrão,,0000,0000,0000,,Você deve ser o Son Goku, certo?
-Dialogue: 0,0:16:03.82,0:16:05.95,Padrão,,0000,0000,0000,,Isso mesmo!
-Dialogue: 0,0:16:05.95,0:16:09.45,Padrão,,0000,0000,0000,,Vocês feriram o velhote Gyumao e a Chichi!
-Dialogue: 0,0:16:11.53,0:16:13.53,Padrão,,0000,0000,0000,,E nós vamos te ferir também!
-Dialogue: 0,0:16:13.53,0:16:14.52,Padrão,,0000,0000,0000,,Como?
-Dialogue: 0,0:16:26.87,0:16:28.74,Padrão,,0000,0000,0000,,Kami!?
-Dialogue: 0,0:16:29.24,0:16:31.58,Padrão,,0000,0000,0000,,Quer dizer que o Piccolo não morreu?
-Dialogue: 0,0:16:31.58,0:16:34.58,Padrão,,0000,0000,0000,,Kami-{\i1}sama{\i0}, não se meta nos meus assuntos!
-Dialogue: 0,0:16:34.58,0:16:37.57,Padrão,,0000,0000,0000,,Son Goku, você não muda nunca.
-Dialogue: 0,0:16:38.15,0:16:39.89,Padrão,,0000,0000,0000,,Bem-vindo, Kami.
-Dialogue: 0,0:16:39.89,0:16:41.99,Padrão,,0000,0000,0000,,Então é você, Garlic.
-Dialogue: 0,0:16:41.99,0:16:44.43,Padrão,,0000,0000,0000,,Você retornou após 300 anos, não foi?
-Dialogue: 0,0:16:44.43,0:16:49.93,Padrão,,0000,0000,0000,,Você está disposto a usar quaisquer meios para alcançar seus objetivos, assim como seu pai.
-Dialogue: 0,0:16:49.93,0:16:50.93,Padrão,,0000,0000,0000,,Como?
-Dialogue: 0,0:16:50.93,0:16:54.27,Padrão,,0000,0000,0000,,Como era o pai, é o filho.
-Dialogue: 0,0:16:54.27,0:16:57.47,Padrão,,0000,0000,0000,,De fato, o seu pai me enfrentou pelo título de Kami,
-Dialogue: 0,0:16:57.47,0:17:00.74,Padrão,,0000,0000,0000,,mas eu fui escolhido como o sucessor.
-Dialogue: 0,0:17:00.74,0:17:07.24,Padrão,,0000,0000,0000,,O Kami anterior viu através dos planos do Garlic.
-Dialogue: 0,0:17:12.75,0:17:16.86,Padrão,,0000,0000,0000,,Insatisfeito com sua decisão, o Garlic se rebelou contra o Kami,
-Dialogue: 0,0:17:16.86,0:17:22.80,Padrão,,0000,0000,0000,,e, como resultado, seu poder foi selado pelo Kami.
-Dialogue: 0,0:17:28.44,0:17:31.17,Padrão,,0000,0000,0000,,As suas palavras finais foram que, em 300 anos,
-Dialogue: 0,0:17:31.17,0:17:34.24,Padrão,,0000,0000,0000,,ele com certeza teria sua vingança.
-Dialogue: 0,0:17:34.24,0:17:36.58,Padrão,,0000,0000,0000,,Mas quem diria que a sua sede de vingança era tamanha
-Dialogue: 0,0:17:36.58,0:17:39.15,Padrão,,0000,0000,0000,,que ele passaria esse fardo para o próprio filho?
-Dialogue: 0,0:17:39.15,0:17:42.65,Padrão,,0000,0000,0000,,Se você não tivesse se tornado o Kami,
-Dialogue: 0,0:17:42.65,0:17:46.65,Padrão,,0000,0000,0000,,minha vingança não seria necessária.
-Dialogue: 0,0:17:46.65,0:17:48.16,Padrão,,0000,0000,0000,,Eu não tenho nada a ver com isso!
-Dialogue: 0,0:17:48.16,0:17:49.66,Padrão,,0000,0000,0000,,Onde está o Gohan?!
-Dialogue: 0,0:17:49.66,0:17:52.39,Padrão,,0000,0000,0000,,Aquele moleque nojento ainda está dormindo.
-Dialogue: 0,0:17:55.16,0:17:57.19,Padrão,,0000,0000,0000,,Lá dentro?
-Dialogue: 0,0:18:01.10,0:18:02.59,Padrão,,0000,0000,0000,,Nós não vamos deixar!
-Dialogue: 0,0:18:20.45,0:18:21.75,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:18:25.19,0:18:30.16,Padrão,,0000,0000,0000,,Se você quiser subir essas escadas, vai ter que nos derrotar primeiro!
-Dialogue: 0,0:18:30.16,0:18:33.33,Padrão,,0000,0000,0000,,Ginger, um dos Três Protetores do Garlic.
-Dialogue: 0,0:18:33.33,0:18:35.50,Padrão,,0000,0000,0000,,Nikki, igualmente.
-Dialogue: 0,0:18:35.50,0:18:37.73,Padrão,,0000,0000,0000,,Sansho, eu também.
-Dialogue: 0,0:18:59.53,0:19:00.79,Padrão,,0000,0000,0000,,Certo, venham!
-Dialogue: 0,0:19:02.80,0:19:04.43,Padrão,,0000,0000,0000,,Shogayaki!!
-Dialogue: 0,0:19:04.43,0:19:06.10,Padrão,,0000,0000,0000,,Nodoame!!
-Dialogue: 0,0:19:06.10,0:19:07.73,Padrão,,0000,0000,0000,,Unaju!!
-Dialogue: 0,0:19:47.57,0:19:51.68,Padrão,,0000,0000,0000,,Nada mal. Vocês ficaram maiores e também aumentaram a velocidade!
-Dialogue: 0,0:19:51.68,0:19:53.37,Padrão,,0000,0000,0000,,Me sigam!
-Dialogue: 0,0:19:59.92,0:20:02.92,Padrão,,0000,0000,0000,,Você acha que o Kami vai morrer tão facilmente?
-Dialogue: 0,0:20:02.92,0:20:07.39,Padrão,,0000,0000,0000,,Eu ganhei a vida eterna do Shen Long.
-Dialogue: 0,0:20:07.39,0:20:10.52,Padrão,,0000,0000,0000,,Eu não posso ser derrotado.
-Dialogue: 0,0:20:10.93,0:20:13.92,Padrão,,0000,0000,0000,,Seu tolo arrogante!
-Dialogue: 0,0:20:17.30,0:20:20.17,Padrão,,0000,0000,0000,,Essa técnica não vai funcionar comigo!
-Dialogue: 0,0:20:36.66,0:20:38.62,Padrão,,0000,0000,0000,,Cadê o Gohan?!
-Dialogue: 0,0:20:50.20,0:20:51.33,Padrão,,0000,0000,0000,,- O quê?\N- O quê?
-Dialogue: 0,0:20:59.68,0:21:01.15,Padrão,,0000,0000,0000,,Kuririn!
-Dialogue: 0,0:21:01.62,0:21:03.74,Padrão,,0000,0000,0000,,Você está bem descuidado, Goku!
-Dialogue: 0,0:21:09.16,0:21:11.22,Padrão,,0000,0000,0000,,Mas, com certeza, tem mais alguém...
-Dialogue: 0,0:21:11.22,0:21:14.22,Padrão,,0000,0000,0000,,Son! Não se esqueça que eu estou aqui também!
-Dialogue: 0,0:21:20.73,0:21:21.67,Padrão,,0000,0000,0000,,Piccolo!
-Dialogue: 0,0:21:21.67,0:21:22.86,Padrão,,0000,0000,0000,,Piccolo!
-Dialogue: 0,0:21:25.67,0:21:27.33,Padrão,,0000,0000,0000,,O que você está fazendo aqui?
-Dialogue: 0,0:21:31.34,0:21:35.51,Padrão,,0000,0000,0000,,Eu não vim aqui te ajudar. Eu devo uma coisa a essas caras.
-Dialogue: 0,0:22:00.47,0:22:02.34,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:22:02.34,0:22:03.50,Padrão,,0000,0000,0000,,Essa não!
-Dialogue: 0,0:22:33.24,0:22:34.40,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:22:37.24,0:22:38.37,Padrão,,0000,0000,0000,,Não tão rápido!
-Dialogue: 0,0:22:39.28,0:22:40.75,Padrão,,0000,0000,0000,,Kuririn, tome conta do Gohan!
-Dialogue: 0,0:22:40.75,0:22:41.84,Padrão,,0000,0000,0000,,Pode deixar!
-Dialogue: 0,0:22:58.77,0:23:00.36,Padrão,,0000,0000,0000,,Eu não vou deixar!
-Dialogue: 0,0:23:09.54,0:23:11.53,Padrão,,0000,0000,0000,,Eu vou retribuir o favor.
-Dialogue: 0,0:23:28.76,0:23:32.77,Padrão,,0000,0000,0000,,Vocês não podem me enfrentar se não estiverem os três juntos?
-Dialogue: 0,0:23:32.77,0:23:36.93,Padrão,,0000,0000,0000,,Só pode ser brincadeira! Eu sou mais que o suficiente para cuidar de você!
-Dialogue: 0,0:23:42.78,0:23:44.61,Padrão,,0000,0000,0000,,Esse é todo o seu poder?!
-Dialogue: 0,0:24:07.77,0:24:09.60,Padrão,,0000,0000,0000,,Você é um monstro!
-Dialogue: 0,0:24:12.77,0:24:14.76,Padrão,,0000,0000,0000,,Vocês é que são insignificantes.
-Dialogue: 0,0:24:37.16,0:24:41.50,Padrão,,0000,0000,0000,,Depois disso, eu vou criar o meu mundo das trevas.
-Dialogue: 0,0:24:42.64,0:24:44.63,Padrão,,0000,0000,0000,,Você só precisa relaxar e ir para o inferno.
-Dialogue: 0,0:24:55.55,0:24:58.18,Padrão,,0000,0000,0000,,Ora seu...
-Dialogue: 0,0:25:37.86,0:25:39.38,Padrão,,0000,0000,0000,,Cresça, Nyoi-bo!
-Dialogue: 0,0:26:02.48,0:26:04.71,Padrão,,0000,0000,0000,,Kamehame...
-Dialogue: 0,0:26:07.35,0:26:08.65,Padrão,,0000,0000,0000,,{\i1}Ha!!{\i0}
-Dialogue: 0,0:26:32.41,0:26:34.88,Padrão,,0000,0000,0000,,O único destino que espera velhos guerreiros é desaparecer!
-Dialogue: 0,0:26:34.88,0:26:37.55,Padrão,,0000,0000,0000,,Que essa seja uma lição para você, vinda do meu pai!
-Dialogue: 0,0:26:37.55,0:26:39.88,Padrão,,0000,0000,0000,,E agora, é o seu fim!
-Dialogue: 0,0:26:47.43,0:26:51.73,Padrão,,0000,0000,0000,,Eu ainda sou o Deus desse mundo. Eu sei o tipo de misérias
-Dialogue: 0,0:26:51.73,0:26:55.94,Padrão,,0000,0000,0000,,que cairão sobre esse mundo se você dominá-lo.
-Dialogue: 0,0:26:55.94,0:26:59.46,Padrão,,0000,0000,0000,,Mesmo que custe a minha vida, eu não deixarei que faça o que quiser!
-Dialogue: 0,0:27:04.54,0:27:08.41,Padrão,,0000,0000,0000,,Seu tolo. Pretende matar nós dois?
-Dialogue: 0,0:27:08.41,0:27:09.55,Padrão,,0000,0000,0000,,Isso mesmo.
-Dialogue: 0,0:27:09.55,0:27:12.81,Padrão,,0000,0000,0000,,É isso que eu posso fazer no fim!
-Dialogue: 0,0:27:15.56,0:27:18.42,Padrão,,0000,0000,0000,,Você pode morrer, mas eu não vou!
-Dialogue: 0,0:27:19.89,0:27:22.59,Padrão,,0000,0000,0000,,Você não pode morrer, é verdade...
-Dialogue: 0,0:27:24.56,0:27:29.47,Padrão,,0000,0000,0000,,...mas, mesmo que a sua vida continue, se você não puder fazer nada,
-Dialogue: 0,0:27:29.47,0:27:31.57,Padrão,,0000,0000,0000,,vai ser o mesmo que o inferno para você.
-Dialogue: 0,0:27:31.57,0:27:33.90,Padrão,,0000,0000,0000,,Eu vou deixá-lo provar a dor do inferno.
-Dialogue: 0,0:27:35.64,0:27:37.30,Padrão,,0000,0000,0000,,Piccolo!
-Dialogue: 0,0:27:43.32,0:27:45.31,Padrão,,0000,0000,0000,,Kuririn! Tome conta do Gohan!
-Dialogue: 0,0:27:46.49,0:27:47.78,Padrão,,0000,0000,0000,,Pode deixar!
-Dialogue: 0,0:27:51.49,0:27:54.63,Padrão,,0000,0000,0000,,É uma pena, Son Goku, Piccolo.
-Dialogue: 0,0:27:54.63,0:27:56.66,Padrão,,0000,0000,0000,,Eu não esperava que homens como vocês
-Dialogue: 0,0:27:56.66,0:27:59.50,Padrão,,0000,0000,0000,,viessem ajudar esse homem velho e abatido.
-Dialogue: 0,0:28:09.44,0:28:11.60,Padrão,,0000,0000,0000,,Eu sinto um poder incrível...
-Dialogue: 0,0:28:32.17,0:28:33.63,Padrão,,0000,0000,0000,,Tomem isso!
-Dialogue: 0,0:28:39.64,0:28:40.63,Padrão,,0000,0000,0000,,Droga...
-Dialogue: 0,0:28:43.18,0:28:45.17,Padrão,,0000,0000,0000,,Kami-{\i1}sama{\i0}, fique observando daqui.
-Dialogue: 0,0:28:45.81,0:28:48.34,Padrão,,0000,0000,0000,,Eu conto com você, Goku!
-Dialogue: 0,0:29:03.50,0:29:04.79,Padrão,,0000,0000,0000,,Piccolo! Saia da frente!
-Dialogue: 0,0:30:06.79,0:30:07.78,Padrão,,0000,0000,0000,,Maldição!
-Dialogue: 0,0:30:30.72,0:30:33.69,Padrão,,0000,0000,0000,,Isso é tudo que os dois juntos podem fazer?
-Dialogue: 0,0:30:33.69,0:30:35.79,Padrão,,0000,0000,0000,,Droga, ele está muito poderoso!
-Dialogue: 0,0:30:35.79,0:30:37.92,Padrão,,0000,0000,0000,,Se não tomarmos cuidado, será o nosso fim.
-Dialogue: 0,0:30:46.90,0:30:49.84,Padrão,,0000,0000,0000,,Você vai tirar essas coisas? Ele é um inimigo poderoso
-Dialogue: 0,0:30:49.84,0:30:52.70,Padrão,,0000,0000,0000,,para alguém que não consegue usar todos os seus poderes a sério.
-Dialogue: 0,0:30:56.68,0:30:59.34,Padrão,,0000,0000,0000,,Piccolo, você também está usando pesos?
-Dialogue: 0,0:30:59.85,0:31:03.68,Padrão,,0000,0000,0000,,Você não é o único que está treinando.
-Dialogue: 0,0:31:03.68,0:31:06.82,Padrão,,0000,0000,0000,,Quem nos imaginaria lutando juntos?
-Dialogue: 0,0:31:06.82,0:31:11.31,Padrão,,0000,0000,0000,,Quando nós o derrotarmos... você será o próximo!
-Dialogue: 0,0:32:05.18,0:32:06.14,Padrão,,0000,0000,0000,,Piccolo...
-Dialogue: 0,0:32:09.88,0:32:12.21,Padrão,,0000,0000,0000,,Piccolo, você...
-Dialogue: 0,0:32:13.15,0:32:14.89,Padrão,,0000,0000,0000,,Você fica fora disso!
-Dialogue: 0,0:32:14.89,0:32:17.88,Padrão,,0000,0000,0000,,Son, agora é a nossa hora de acertar as contas!
-Dialogue: 0,0:32:20.59,0:32:24.43,Padrão,,0000,0000,0000,,Parece que não temos escolha, temos?
-Dialogue: 0,0:32:34.84,0:32:37.57,Padrão,,0000,0000,0000,,Eu já disse! Eu não vou morrer!
-Dialogue: 0,0:33:21.89,0:33:23.25,Padrão,,0000,0000,0000,,Piccolo!
-Dialogue: 0,0:33:34.87,0:33:37.67,Padrão,,0000,0000,0000,,Onde está o filho do Goku?!
-Dialogue: 0,0:33:37.67,0:33:39.83,Padrão,,0000,0000,0000,,Não me diga que ele passou por ali?!
-Dialogue: 0,0:33:41.37,0:33:43.21,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:33:52.72,0:33:55.55,Padrão,,0000,0000,0000,,Maldito! Você se acha esperto?!
-Dialogue: 0,0:33:59.69,0:34:05.13,Padrão,,0000,0000,0000,,Que tudo seja sugado para a Zona Morta que eu criei!
-Dialogue: 0,0:34:05.23,0:34:07.70,Padrão,,0000,0000,0000,,Nem sequer a luz pode penetrá-la!
-Dialogue: 0,0:34:07.70,0:34:09.54,Padrão,,0000,0000,0000,,Vocês vão ficar presos nesse inferno de trevas,
-Dialogue: 0,0:34:09.54,0:34:12.37,Padrão,,0000,0000,0000,,corpo e espírito, até morrerem!
-Dialogue: 0,0:34:16.24,0:34:17.57,Padrão,,0000,0000,0000,,{Yow!}
-Dialogue: 0,0:34:40.93,0:34:42.46,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:34:51.78,0:34:52.77,Padrão,,0000,0000,0000,,O quê?
-Dialogue: 0,0:35:00.79,0:35:02.45,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:35:05.39,0:35:09.33,Padrão,,0000,0000,0000,,Aquele moleque! Seu poder vai além do meu!
-Dialogue: 0,0:35:12.36,0:35:17.46,Padrão,,0000,0000,0000,,Que poder é esse?! Ele realmente não é uma criança comum!
-Dialogue: 0,0:35:23.88,0:35:26.87,Padrão,,0000,0000,0000,,Eu vou usar todo o meu poder!
-Dialogue: 0,0:36:03.22,0:36:04.55,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:36:07.55,0:36:09.25,Padrão,,0000,0000,0000,,Goku!
-Dialogue: 0,0:36:09.49,0:36:11.82,Padrão,,0000,0000,0000,,Papai!
-Dialogue: 0,0:36:19.27,0:36:24.70,Padrão,,0000,0000,0000,,Eu não vou morrer! Eu obtive a vida eterna!
-Dialogue: 0,0:37:24.43,0:37:26.80,Padrão,,0000,0000,0000,,K- Kami-{\i1}sama{\i0}, o que aconteceu com o Garlic Jr.?
-Dialogue: 0,0:37:26.80,0:37:31.64,Padrão,,0000,0000,0000,,Ele caiu no inferno que ele mesmo criou.
-Dialogue: 0,0:37:31.64,0:37:38.34,Padrão,,0000,0000,0000,,O Garlic deve continuar vivendo lá para sempre.
-Dialogue: 0,0:37:38.34,0:37:42.87,Padrão,,0000,0000,0000,,Ele deve estar se arrependendo de ter a vida eterna.
-Dialogue: 0,0:37:52.36,0:37:53.85,Padrão,,0000,0000,0000,,Gohan!
-Dialogue: 0,0:37:54.69,0:37:59.53,Padrão,,0000,0000,0000,,Papai, o senhor realmente veio me salvar!
-Dialogue: 0,0:38:03.17,0:38:05.17,Padrão,,0000,0000,0000,,Gohan, você não se lembra?
-Dialogue: 0,0:38:05.17,0:38:08.33,Padrão,,0000,0000,0000,,O meu pai é mesmo a pessoa mais forte do mundo.
-Dialogue: 0,0:38:17.68,0:38:20.62,Padrão,,0000,0000,0000,,Gohan, foi uma experiência assustadora, não foi?
-Dialogue: 0,0:38:20.62,0:38:22.35,Padrão,,0000,0000,0000,,Venha, vamos para a casa, para a sua mãe.
-Dialogue: 0,0:38:43.24,0:38:49.24,Padrão,,0000,0000,0000,,Son Goku, um dia nós vamos acertar as contas.
-Dialogue: 0,0:38:50.72,0:38:56.86,Padrão,,0000,0000,0000,,{\i1}Os planos do Garlic Jr. chegaram ao fim, como um sonho dentro de outro sonho,{\i0}
-Dialogue: 0,0:38:56.86,0:38:59.43,Padrão,,0000,0000,0000,,{\i1}graças ao poder do Goku e dos outros.{\i0}
-Dialogue: 0,0:38:59.43,0:39:03.40,Padrão,,0000,0000,0000,,{\i1}Goku estava pensando se contaria ou não à Chichi sobre como{\i0}
-Dialogue: 0,0:39:03.40,0:39:08.09,Padrão,,0000,0000,0000,,{\i1}seu filho o salvou...{\i0}
-Dialogue: 0,0:39:12.24,0:39:14.83,Padrão,,0000,0000,0000,,{\i1}A Chichi não acreditaria mesmo.{\i0}
-Dialogue: 0,0:39:15.47,0:39:18.44,Padrão,,0000,0000,0000,,{\i1}Eu acho que vou contar ao Gohan quando ele crescer.{\i0}
-Dialogue: 0,0:39:45.77,0:39:49.78,Abertura - Tradução,,0000,0000,0000,,{\i1}Lá vêm eles, monstros com cor de maçã.{\i0}
-Dialogue: 0,0:39:45.77,0:39:49.78,Abertura - Romaji,,0000,0000,0000,,Kakete kuru yo appuru-iro monsutaa
-Dialogue: 0,0:39:49.78,0:39:55.78,Abertura - Tradução,,0000,0000,0000,,{\i1}Eles vêm voando, alienígenas com cheiro de castanhas.{\i0}
-Dialogue: 0,0:39:49.78,0:39:55.78,Abertura - Romaji,,0000,0000,0000,,Tonde kuru yo nattsu no kaori eirian
-Dialogue: 0,0:39:55.78,0:39:58.25,Abertura - Tradução,,0000,0000,0000,,{\i1}É tão emocionante conhecê-los.{\i0}
-Dialogue: 0,0:39:55.78,0:39:58.25,Abertura - Romaji,,0000,0000,0000,,Deatte dokkin-dokkin
-Dialogue: 0,0:40:01.45,0:40:06.86,Abertura - Tradução,,0000,0000,0000,,{\i1}Brilha, brilha, a galáxia é como uma chuva de pipoca!{\i0}
-Dialogue: 0,0:40:01.45,0:40:06.86,Abertura - Romaji,,0000,0000,0000,,Pika-pika ginga wa poppukoon shawaa
-Dialogue: 0,0:40:08.79,0:40:13.33,Abertura - Tradução,,0000,0000,0000,,{\i1}Diga "tchau-tchau" para o passado (Gohan),{\i0}
-Dialogue: 0,0:40:08.79,0:40:13.33,Abertura - Romaji,,0000,0000,0000,,Kinou ni bai-bai-bai (go - ha - n)
-Dialogue: 0,0:40:13.33,0:40:17.34,Abertura - Tradução,,0000,0000,0000,,{\i1}Mistério (em todos lugares),{\i0}
-Dialogue: 0,0:40:13.33,0:40:17.34,Abertura - Romaji,,0000,0000,0000,,Fu - shi - gi (ip - pa - i)
-Dialogue: 0,0:40:17.34,0:40:20.47,Abertura - Tradução,,0000,0000,0000,,{\i1}Reúna a sua energia, (pode usar substitutos),{\i0}
-Dialogue: 0,0:40:17.34,0:40:20.47,Abertura - Romaji,,0000,0000,0000,,Chikara wo komete (okawari OK)
-Dialogue: 0,0:40:20.47,0:40:23.60,Abertura - Tradução,,0000,0000,0000,,{\i1}Venha aqui, lai, lai, lai!{\i0}
-Dialogue: 0,0:40:20.47,0:40:23.60,Abertura - Romaji,,0000,0000,0000,,Kochira e lai-lai-lai
-Dialogue: 0,0:40:25.38,0:40:30.84,Abertura - Tradução,,0000,0000,0000,,{\i1}O poder MÁXIMO milagroso!{\i0}
-Dialogue: 0,0:40:25.38,0:40:30.84,Abertura - Romaji,,0000,0000,0000,,Woh... Mirakuru ZENKAI pawaa!
-Dialogue: 0,0:40:32.85,0:40:34.85,Abertura - Tradução,,0000,0000,0000,,{\i1}Uma Kinto Un faminta,{\i0}
-Dialogue: 0,0:40:32.85,0:40:34.85,Abertura - Romaji,,0000,0000,0000,,Haraheri wanpaku Kinto-Un
-Dialogue: 0,0:40:34.85,0:40:36.86,Abertura - Tradução,,0000,0000,0000,,{\i1}Uma montanha de horizontes,{\i0}
-Dialogue: 0,0:40:34.85,0:40:36.86,Abertura - Romaji,,0000,0000,0000,,Yama hodo takusan suiheisen
-Dialogue: 0,0:40:36.86,0:40:38.86,Abertura - Tradução,,0000,0000,0000,,{\i1}Eles se encontram, eles se separam, eles se encontram, eles se separam,{\i0}
-Dialogue: 0,0:40:36.86,0:40:38.86,Abertura - Romaji,,0000,0000,0000,,Deatte wakarete deatte wakarete
-Dialogue: 0,0:40:38.86,0:40:40.86,Abertura - Tradução,,0000,0000,0000,,{\i1}Essa não!{\i0}
-Dialogue: 0,0:40:38.86,0:40:40.86,Abertura - Romaji,,0000,0000,0000,,Ta - i - he - n
-Dialogue: 0,0:40:40.86,0:40:46.53,Abertura - Tradução,,0000,0000,0000,,{\i1}Já basta! Não é fácil nem para Deus.{\i0}
-Dialogue: 0,0:40:40.86,0:40:46.53,Abertura - Romaji,,0000,0000,0000,,Ah mou Kami-Sama mo tsurai yo ne!
-Dialogue: 0,0:40:46.53,0:40:48.53,Abertura - Tradução,,0000,0000,0000,,{\i1}Sinto muito.{\i0}
-Dialogue: 0,0:40:46.53,0:40:48.53,Abertura - Romaji,,0000,0000,0000,,{\i1}Gomen{\i0}
-Dialogue: 0,0:40:48.53,0:40:54.30,Abertura - Tradução,,0000,0000,0000,,{\i1}Poder MÁXIMO totalmente recuperado!{\i0}
-Dialogue: 0,0:40:48.53,0:40:54.30,Abertura - Romaji,,0000,0000,0000,,Woh... Manpuku ZENKAI pawaa!
-Dialogue: 0,0:40:56.54,0:41:02.41,Abertura - Tradução,,0000,0000,0000,,{\i1}Vamos nessa, super poder MÁXIMO!{\i0}
-Dialogue: 0,0:40:56.54,0:41:02.41,Abertura - Romaji,,0000,0000,0000,,Dete koi tobikiri ZENKAI pawaa!
+Comment: 0,0:00:00.00,0:00:35.86,Padrão,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:35.86,Padrão,,0,0,0,,
+Dialogue: 0,0:00:35.86,0:00:40.52,Padrão,,0,0,0,,Son Goku, da próxima vez eu vou te derrotar, com certeza!
+Dialogue: 0,0:00:53.21,0:00:54.97,Padrão,,0,0,0,,Quem está aí?!
+Dialogue: 0,0:01:07.19,0:01:08.66,Padrão,,0,0,0,,Quem são vocês?!
+Dialogue: 0,0:01:09.49,0:01:11.32,Padrão,,0,0,0,,Acabem com ele!
+Dialogue: 0,0:01:22.87,0:01:26.21,Padrão,,0,0,0,,{\i1}Piccolo e Kami estão ligados pelo corpo e pela mente.{\i0}
+Dialogue: 0,0:01:26.21,0:01:29.37,Padrão,,0,0,0,,{\i1}Agora o Kami está morto também.{\i0}
+Dialogue: 0,0:01:32.25,0:01:35.25,Padrão,,0,0,0,,O Piccolo foi derrotado! Será obra do Son Goku?
+Dialogue: 0,0:01:35.25,0:01:37.38,Padrão,,0,0,0,,Não, não pode ter sido...
+Dialogue: 0,0:01:38.22,0:01:41.35,Padrão,,0,0,0,,Não pode ser...
+Dialogue: 0,0:01:54.90,0:02:00.21,Abertura - Romaji,,0,0,0,,Hikaru kumo tsukinuke fly away
+Dialogue: 0,0:01:54.90,0:02:00.21,Abertura - Tradução,,0,0,0,,Atravesse as nuvens brilhantes e voe para longe (para longe)
+Dialogue: 0,0:02:00.21,0:02:07.22,Abertura - Romaji,,0,0,0,,Karada juu ni hirogaru panorama
+Dialogue: 0,0:02:00.21,0:02:07.22,Abertura - Tradução,,0,0,0,,Como um panorama que se espalha por todo meu corpo
+Dialogue: 0,0:02:07.22,0:02:12.55,Abertura - Romaji,,0,0,0,,Kao o kerareta chikyuu ga okotte
+Dialogue: 0,0:02:07.22,0:02:12.55,Abertura - Tradução,,0,0,0,,A terra, levando um chute em sua face, se enfurece (enfurece)!
+Dialogue: 0,0:02:12.55,0:02:19.23,Abertura - Romaji,,0,0,0,,Kazan o bakuhatsu saseru
+Dialogue: 0,0:02:12.55,0:02:19.23,Abertura - Tradução,,0,0,0,,E faz um de seus vulcões explodir!
+Dialogue: 0,0:02:19.23,0:02:25.90,Abertura - Romaji,,0,0,0,,Toketa koori no naka ni
+Dialogue: 0,0:02:19.23,0:02:25.90,Abertura - Tradução,,0,0,0,,Se no meio do gelo descongelado,
+Dialogue: 0,0:02:25.90,0:02:34.91,Abertura - Romaji,,0,0,0,,Kyouryuu ga itara tamanori shikomitai ne
+Dialogue: 0,0:02:25.90,0:02:34.91,Abertura - Tradução,,0,0,0,,Eu encontrar um dinossauro, irei ensiná-lo a equilibrar uma bola.
+Dialogue: 0,0:02:34.91,0:02:38.58,Abertura - Romaji,,0,0,0,,Cha-la head cha-la
+Dialogue: 0,0:02:34.91,0:02:38.58,Abertura - Tradução,,0,0,0,,CHA-LA-HEAD-CHA-LA
+Dialogue: 0,0:02:38.58,0:02:47.62,Abertura - Romaji,,0,0,0,,Nani ga okite mo kibun wa heno heno kappa
+Dialogue: 0,0:02:38.58,0:02:47.62,Abertura - Tradução,,0,0,0,,Não importa o que aconteça, eu sinto que nada vai me incomodar,
+Dialogue: 0,0:02:47.62,0:02:50.96,Abertura - Romaji,,0,0,0,,Cha-la head cha-la
+Dialogue: 0,0:02:47.62,0:02:50.96,Abertura - Tradução,,0,0,0,,CHA-LA-HEAD-CHA-LA
+Dialogue: 0,0:02:50.96,0:02:56.97,Abertura - Romaji,,0,0,0,,Mune ga pachi pachi suru hodo
+Dialogue: 0,0:02:50.96,0:02:56.97,Abertura - Tradução,,0,0,0,,Não importa que o seu peito aperte, a Genki Dama vai voar!
+Dialogue: 0,0:02:56.97,0:03:00.24,Abertura - Romaji,,0,0,0,,Cha-la head cha-la
+Dialogue: 0,0:02:56.97,0:03:00.24,Abertura - Tradução,,0,0,0,,CHA-LA-HEAD-CHA-LA
+Dialogue: 0,0:03:00.24,0:03:09.24,Abertura - Romaji,,0,0,0,,Atama karappo no hou ga yume tsumekomeru
+Dialogue: 0,0:03:00.24,0:03:09.24,Abertura - Tradução,,0,0,0,,Quanto mais vazia for a sua cabeça, mais espaço ela terá para os seus sonhos,
+Dialogue: 0,0:03:09.24,0:03:12.58,Abertura - Romaji,,0,0,0,,Cha-la head cha-la
+Dialogue: 0,0:03:09.24,0:03:12.58,Abertura - Tradução,,0,0,0,,CHA-LA-HEAD-CHA-LA
+Dialogue: 0,0:03:12.58,0:03:19.92,Abertura - Romaji,,0,0,0,,Egao ultra z de Kyou mo ai-yai-yai-yai-yai
+Dialogue: 0,0:03:12.58,0:03:19.92,Abertura - Tradução,,0,0,0,,Com um sorriso no rosto e um Ultra-Z, hoje é dia de ai-yai-yai-yai-yai...
+Dialogue: 0,0:03:19.92,0:03:21.35,Abertura - Romaji,,0,0,0,,Sparking!
+Dialogue: 0,0:03:19.92,0:03:21.35,Abertura - Tradução,,0,0,0,,Brilhando!
+Dialogue: 0,0:03:42.18,0:03:44.18,Padrão,,0,0,0,,A magicicada pode ter um período larval
+Dialogue: 0,0:03:44.18,0:03:51.32,Padrão,,0,0,0,,de 17 ou 13 anos?
+Dialogue: 0,0:03:51.32,0:03:54.52,Padrão,,0,0,0,,Então elas ficam no chão por 17 anos!
+Dialogue: 0,0:03:54.52,0:03:55.82,Padrão,,0,0,0,,Deve ser difícil.
+Dialogue: 0,0:03:55.82,0:04:01.13,Padrão,,0,0,0,,Gohan-{\i1}chan!{\i0} Hora de comer!
+Dialogue: 0,0:04:02.26,0:04:04.76,Padrão,,0,0,0,,A mamãe está animada hoje.
+Dialogue: 0,0:04:10.64,0:04:14.18,Padrão,,0,0,0,,Ei, Gohan!
+Dialogue: 0,0:04:14.18,0:04:16.31,Padrão,,0,0,0,,É o vovô!
+Dialogue: 0,0:04:16.31,0:04:18.18,Padrão,,0,0,0,,Paizinho!
+Dialogue: 0,0:04:18.18,0:04:20.65,Padrão,,0,0,0,,Gohan, você está bem?
+Dialogue: 0,0:04:20.65,0:04:23.65,Padrão,,0,0,0,,Você também parece ótimo, vovô!
+Dialogue: 0,0:04:23.65,0:04:25.32,Padrão,,0,0,0,,Eu estou bem, eu estou bem!
+Dialogue: 0,0:04:25.32,0:04:27.19,Padrão,,0,0,0,,Alguns presentes pra você!
+Dialogue: 0,0:04:27.19,0:04:28.66,Padrão,,0,0,0,,Obrigado!
+Dialogue: 0,0:04:28.66,0:04:31.93,Padrão,,0,0,0,,A Chichi disse que você gostaria de ganhar livros,
+Dialogue: 0,0:04:31.93,0:04:34.76,Padrão,,0,0,0,,mas eles não são nada fáceis de carregar.
+Dialogue: 0,0:04:36.67,0:04:39.50,Padrão,,0,0,0,,Paizinho, por que a brincadeira?
+Dialogue: 0,0:04:48.21,0:04:50.68,Padrão,,0,0,0,,Paizinho? Qual o problema?
+Dialogue: 0,0:04:50.68,0:04:52.44,Padrão,,0,0,0,,Vovô!
+Dialogue: 0,0:04:59.25,0:05:00.85,Padrão,,0,0,0,,Paizinho!
+Dialogue: 0,0:05:03.33,0:05:04.55,Padrão,,0,0,0,,Mamãe!
+Dialogue: 0,0:05:16.67,0:05:19.57,Padrão,,0,0,0,,Quem é você?!
+Dialogue: 0,0:05:20.68,0:05:22.21,Padrão,,0,0,0,,O que quer conosco?!
+Dialogue: 0,0:05:22.21,0:05:27.38,Padrão,,0,0,0,,Eu vim pela Esfera do Dragão na cabeça desse garoto.
+Dialogue: 0,0:05:28.35,0:05:30.35,Padrão,,0,0,0,,Gohan, vá para dentro de casa!
+Dialogue: 0,0:05:30.35,0:05:32.65,Padrão,,0,0,0,,Mamãe!
+Dialogue: 0,0:05:33.69,0:05:36.49,Padrão,,0,0,0,,- Mamãe!\N- Se apresse!
+Dialogue: 0,0:05:39.39,0:05:42.23,Padrão,,0,0,0,,Mamãe!
+Dialogue: 0,0:05:53.68,0:05:55.17,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:06:13.46,0:06:15.43,Padrão,,0,0,0,,Mamãe!
+Dialogue: 0,0:06:19.13,0:06:20.62,Padrão,,0,0,0,,Chichi!
+Dialogue: 0,0:06:22.40,0:06:24.41,Padrão,,0,0,0,,Mamãe!
+Dialogue: 0,0:06:24.41,0:06:26.14,Padrão,,0,0,0,,G-Gohan...
+Dialogue: 0,0:06:26.14,0:06:29.44,Padrão,,0,0,0,,Gohan... fuja...
+Dialogue: 0,0:06:43.29,0:06:45.32,Padrão,,0,0,0,,Chichi!
+Dialogue: 0,0:06:47.30,0:06:49.16,Padrão,,0,0,0,,O que aconteceu, Chichi?
+Dialogue: 0,0:06:50.77,0:06:56.10,Padrão,,0,0,0,,Goku, o Gohan foi sequestrado...{\i1} {\i0}
+Dialogue: 0,0:06:56.10,0:06:59.31,Padrão,,0,0,0,,Gohan? Quem levou o Gohan?!
+Dialogue: 0,0:06:59.31,0:07:00.78,Padrão,,0,0,0,,Eu não sei.
+Dialogue: 0,0:07:00.78,0:07:04.11,Padrão,,0,0,0,,Eles vieram pela Esfera do Dragão...
+Dialogue: 0,0:07:04.11,0:07:05.45,Padrão,,0,0,0,,Esfera do Dragão?!
+Dialogue: 0,0:07:05.45,0:07:08.58,Padrão,,0,0,0,,Para onde eles foram?! Chichi!
+Dialogue: 0,0:07:15.42,0:07:19.76,Padrão,,0,0,0,,Com essa, nós já reunimos cinco, certo?
+Dialogue: 0,0:07:19.76,0:07:21.46,Padrão,,0,0,0,,Sim, senhor!
+Dialogue: 0,0:07:22.30,0:07:24.73,Padrão,,0,0,0,,Então faltam apenas duas.
+Dialogue: 0,0:07:26.30,0:07:29.27,Padrão,,0,0,0,,Ginger, quando eu juntar todas as sete,
+Dialogue: 0,0:07:29.27,0:07:31.44,Padrão,,0,0,0,,eu poderei invocar o Shen Long e pedir-lhe a vida eterna, certo?
+Dialogue: 0,0:07:31.44,0:07:32.44,Padrão,,0,0,0,,Sim, senhor.
+Dialogue: 0,0:07:32.44,0:07:33.78,Padrão,,0,0,0,,Mais duas, não é?
+Dialogue: 0,0:07:33.78,0:07:36.78,Padrão,,0,0,0,,Quando descobrirmos onde estão essas duas,
+Dialogue: 0,0:07:36.78,0:07:39.15,Padrão,,0,0,0,,o resto vai ser moleza.
+Dialogue: 0,0:07:39.15,0:07:44.62,Padrão,,0,0,0,,Até mesmo o Kami vai morrer, mas eu restarei imortal.
+Dialogue: 0,0:07:44.62,0:07:48.52,Padrão,,0,0,0,,Esse será o primeiro passo da minha vingança.
+Dialogue: 0,0:07:48.52,0:07:51.66,Padrão,,0,0,0,,Chegou a hora em que eu irei levar todas as criaturas
+Dialogue: 0,0:07:51.66,0:07:56.36,Padrão,,0,0,0,,da face da Terra ao desespero!
+Dialogue: 0,0:08:00.17,0:08:04.11,Padrão,,0,0,0,,Eu quero ir para casa agora!
+Dialogue: 0,0:08:04.11,0:08:07.78,Padrão,,0,0,0,,Cale a boca! Fique calado, ou nós não vamos te levar de volta!
+Dialogue: 0,0:08:07.78,0:08:10.25,Padrão,,0,0,0,,O meu pai vai vir me salvar!
+Dialogue: 0,0:08:10.25,0:08:13.62,Padrão,,0,0,0,,O meu pai é o Son Goku, a pessoa mais forte do planeta!
+Dialogue: 0,0:08:13.62,0:08:15.88,Padrão,,0,0,0,,Como disse? Son Goku?
+Dialogue: 0,0:08:15.88,0:08:17.79,Padrão,,0,0,0,,O mesmo Son Goku que derrotou
+Dialogue: 0,0:08:17.79,0:08:21.46,Padrão,,0,0,0,,o Piccolo Daimao no Torneio Tenkaichi?
+Dialogue: 0,0:08:21.46,0:08:24.48,Padrão,,0,0,0,,Isso mesmo! Eu sou o filho do Son Goku!
+Dialogue: 0,0:08:26.53,0:08:29.12,Padrão,,0,0,0,,Você é muito chorão para ser filho dele.
+Dialogue: 0,0:08:32.83,0:08:36.37,Padrão,,0,0,0,,E, quanto ao Piccolo, nós também o derrotamos.
+Dialogue: 0,0:08:36.37,0:08:38.37,Padrão,,0,0,0,,Sim, e foi fácil!
+Dialogue: 0,0:08:38.37,0:08:40.67,Padrão,,0,0,0,,Ele era um fracote!
+Dialogue: 0,0:08:48.38,0:08:52.55,Padrão,,0,0,0,,{\i1}Não pode ser! Eu sinto um poder misterioso emanando dele!{\i0}
+Dialogue: 0,0:08:52.55,0:08:55.39,Padrão,,0,0,0,,{\i1}Eu nunca senti algo assim!{\i0}
+Dialogue: 0,0:08:55.39,0:08:58.86,Padrão,,0,0,0,,{\i1}Dependendo de como ele for criado, poderá se tornar de grande utilidade para mim.{\i0}
+Dialogue: 0,0:08:58.86,0:09:02.33,Padrão,,0,0,0,,Eu já sei! Você vai se tornar um de meus servos!
+Dialogue: 0,0:09:02.33,0:09:03.46,Padrão,,0,0,0,,Um servo?
+Dialogue: 0,0:09:04.80,0:09:09.83,Padrão,,0,0,0,,Que sorte você tem! Não vai morrer!
+Dialogue: 0,0:09:11.37,0:09:14.84,Padrão,,0,0,0,,Fique mais forte aqui, como todos os outros!
+Dialogue: 0,0:09:14.84,0:09:16.71,Padrão,,0,0,0,,Mais forte?
+Dialogue: 0,0:09:19.85,0:09:22.85,Padrão,,0,0,0,,Eles não estão atrás do Gohan.
+Dialogue: 0,0:09:22.85,0:09:24.51,Padrão,,0,0,0,,Eles querem as Esferas do Dragão.
+Dialogue: 0,0:09:26.39,0:09:28.52,Padrão,,0,0,0,,Já conseguiram reunir cinco delas.
+Dialogue: 0,0:09:28.52,0:09:30.39,Padrão,,0,0,0,,Ele deve estar nesse lugar.
+Dialogue: 0,0:09:30.39,0:09:31.53,Padrão,,0,0,0,,Aqui?
+Dialogue: 0,0:09:31.53,0:09:33.39,Padrão,,0,0,0,,Isso, para o sul.
+Dialogue: 0,0:09:33.39,0:09:35.23,Padrão,,0,0,0,,É perto do Mar Escarlate.
+Dialogue: 0,0:09:36.23,0:09:37.57,Padrão,,0,0,0,,Eu vou pegar o Radar do Dragão emprestado!
+Dialogue: 0,0:09:37.57,0:09:38.87,Padrão,,0,0,0,,Tudo bem.
+Dialogue: 0,0:09:38.87,0:09:43.54,Padrão,,0,0,0,,Goku! Esses caras conseguiram derrotar o Gyumao e a Chichi com facilidade!
+Dialogue: 0,0:09:43.54,0:09:44.54,Padrão,,0,0,0,,Tome cuidado!
+Dialogue: 0,0:09:44.54,0:09:45.53,Padrão,,0,0,0,,Sim!
+Dialogue: 0,0:09:46.88,0:09:48.87,Padrão,,0,0,0,,Son-{\i1}kun{\i0}, tome cuidado!
+Dialogue: 0,0:09:55.92,0:09:56.91,Padrão,,0,0,0,,Goku...
+Dialogue: 0,0:09:58.92,0:10:00.62,Padrão,,0,0,0,,Espera!
+Dialogue: 0,0:10:00.62,0:10:02.92,Padrão,,0,0,0,,Não quero! Eu vou brincar!
+Dialogue: 0,0:10:04.76,0:10:09.75,Padrão,,0,0,0,,Já basta! Por que eu tenho que ser babá desse moleque?!
+Dialogue: 0,0:10:13.94,0:10:15.27,Padrão,,0,0,0,,Ora seu...
+Dialogue: 0,0:10:17.61,0:10:22.61,Padrão,,0,0,0,,Eu estou com sede. E com fome também.
+Dialogue: 0,0:10:22.61,0:10:25.48,Padrão,,0,0,0,,Pare! Você não pode comer isso!
+Dialogue: 0,0:10:25.48,0:10:28.28,Padrão,,0,0,0,,Mas você comeu.
+Dialogue: 0,0:10:32.49,0:10:33.61,Padrão,,0,0,0,,Que delícia!
+Dialogue: 0,0:10:36.19,0:10:37.53,Padrão,,0,0,0,,Estava ótimo!
+Dialogue: 0,0:10:37.53,0:10:39.82,Padrão,,0,0,0,,Quando crianças comem essas maçãs...
+Dialogue: 0,0:10:41.83,0:10:44.36,Padrão,,0,0,0,,...elas ficam embebedadas...
+Dialogue: 0,0:10:50.21,0:10:51.67,Padrão,,0,0,0,,Francamente...
+Dialogue: 0,0:10:59.21,0:11:01.48,Padrão,,0,0,0,,Eu, vamos! Espere um pouco, ei!
+Dialogue: 0,0:11:02.82,0:11:09.78,Padrão,,0,0,0,,{\an8\i1}Lá em cima, lá no céu, eu vi uma baleia nadando.{\i0}
+Dialogue: 0,0:11:10.63,0:11:17.55,Padrão,,0,0,0,,{\an8\i1}Ela liberou o ar do topo da cabeça e isso se transformou em chuva.{\i0}
+Dialogue: 0,0:11:18.53,0:11:24.77,Padrão,,0,0,0,,{\an8\i1}Uma nuvem com tro-tro-trovões veio junto. Opa, na verdade é um polvo!{\i0}
+Dialogue: 0,0:11:26.34,0:11:31.18,Padrão,,0,0,0,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
+Dialogue: 0,0:11:31.18,0:11:33.47,Padrão,,0,0,0,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
+Dialogue: 0,0:11:31.18,0:11:33.47,Padrão,,0,0,0,,Eu já mandei você esperar!
+Dialogue: 0,0:11:33.48,0:11:34.12,Padrão,,0,0,0,,{\an8\i1}O sol ficou tão surpreso que queimou tudo!{\i0}
+Dialogue: 0,0:11:34.12,0:11:39.85,Padrão,,0,0,0,,{\an8\i1}E então, um dinossauro se aproveitou e comeu o polvo.{\i0}
+Dialogue: 0,0:11:41.69,0:11:48.79,Padrão,,0,0,0,,{\an8\i1}Tão bom, tão bom, eu não sei por quê, mas eu me sinto tão bem.{\i0}
+Dialogue: 0,0:11:49.63,0:11:56.73,Padrão,,0,0,0,,{\an8\i1}Tão bom, tão bom, eu não sei por quê, mas eu me sinto tão bem.{\i0}
+Dialogue: 0,0:11:58.24,0:11:59.21,Padrão,,0,0,0,,Ei!
+Dialogue: 0,0:12:01.21,0:12:02.68,Padrão,,0,0,0,,{\an8\i1}E quando eu estou me sentindo bem, eu também fico mais esperto!{\i0\i1} {\i0}
+Dialogue: 0,0:12:01.21,0:12:02.68,Padrão,,0,0,0,,Seja um bom garoto e fique parado!
+Dialogue: 0,0:12:02.68,0:12:04.98,Padrão,,0,0,0,,{\an8\i1}E quando eu estou me sentindo bem, eu também fico mais esperto!{\i0}
+Dialogue: 0,0:12:04.98,0:12:05.85,Padrão,,0,0,0,,{\an8\i1}Eu consigo ver outros mundos!{\i0}
+Dialogue: 0,0:12:05.85,0:12:09.22,Padrão,,0,0,0,,Ele realmente não é uma criança qualquer.
+Dialogue: 0,0:12:09.22,0:12:19.69,Padrão,,0,0,0,,{\an8\i1}Eu nem preciso estudar para ver outros mundos legais!{\i0}
+Dialogue: 0,0:12:19.69,0:12:24.15,Padrão,,0,0,0,,{\an8\i1}Eu sou o maior gênio sob o sol!{\i0}
+Dialogue: 0,0:12:28.70,0:12:30.86,Padrão,,0,0,0,,Francamente, que criança problemática!
+Dialogue: 0,0:12:36.24,0:12:40.34,Padrão,,0,0,0,,Garlic Jr-{\i1}sama{\i0}, aqui estão as últimas duas!
+Dialogue: 0,0:12:46.29,0:12:52.66,Padrão,,0,0,0,,Agora nós temos todas elas, certo? Então vamos fazer o Shen Long realizar meu pedido.
+Dialogue: 0,0:13:03.84,0:13:05.57,Padrão,,0,0,0,,Lá está!
+Dialogue: 0,0:13:05.57,0:13:07.63,Padrão,,0,0,0,,Apareça, dragão!
+Dialogue: 0,0:13:16.58,0:13:18.48,Padrão,,0,0,0,,Eles estão invocando o Shen Long!
+Dialogue: 0,0:13:43.78,0:13:46.78,Padrão,,0,0,0,,Falai vosso desejo.
+Dialogue: 0,0:13:46.78,0:13:51.31,Padrão,,0,0,0,,Eu lhe concederei um único desejo.
+Dialogue: 0,0:13:53.32,0:13:55.79,Padrão,,0,0,0,,Me dê a vida eterna!
+Dialogue: 0,0:13:55.79,0:13:58.78,Padrão,,0,0,0,,Isso é simples.
+Dialogue: 0,0:14:21.32,0:14:27.81,Padrão,,0,0,0,,Humanos miseráveis! A partir de agora, eu sou o Deus desse mundo!
+Dialogue: 0,0:14:28.79,0:14:34.60,Padrão,,0,0,0,,Espíritos malignos, espreitando nas trevas, eu os liberto de suas correntes,
+Dialogue: 0,0:14:34.60,0:14:37.80,Padrão,,0,0,0,,renasçam de sua prisão!
+Dialogue: 0,0:14:37.80,0:14:43.26,Padrão,,0,0,0,,Façam o sangue chover por todo o mundo!
+Dialogue: 0,0:14:46.84,0:14:50.88,Padrão,,0,0,0,,Eu agora irei dominar esse mundo, eternamente!
+Dialogue: 0,0:14:50.88,0:14:57.84,Padrão,,0,0,0,,Humanos! Esse sofrimento vai continuar até cada um de vocês me obedecer!
+Dialogue: 0,0:15:01.79,0:15:06.66,Padrão,,0,0,0,,Eu garanti vosso desejo.
+Dialogue: 0,0:15:06.66,0:15:11.56,Padrão,,0,0,0,,Adeus!
+Dialogue: 0,0:15:27.35,0:15:31.85,Padrão,,0,0,0,,Agora, eu não tenho mais nada a temer! Vou dar continuidade à vingança do meu pai,
+Dialogue: 0,0:15:31.85,0:15:35.79,Padrão,,0,0,0,,matando todos os humanos que receberam a luz do Kami
+Dialogue: 0,0:15:35.79,0:15:41.16,Padrão,,0,0,0,,e farei o que quiser com esse mundo!
+Dialogue: 0,0:15:45.40,0:15:47.89,Padrão,,0,0,0,,Contemplem nosso Garlic Jr{\i1}-sama!{\i0}
+Dialogue: 0,0:15:51.41,0:15:53.88,Padrão,,0,0,0,,Banzai! Banzai!
+Dialogue: 0,0:15:53.88,0:15:55.40,Padrão,,0,0,0,,Devolvam o Gohan!
+Dialogue: 0,0:15:55.74,0:15:57.75,Padrão,,0,0,0,,Devolvam o Gohan!
+Dialogue: 0,0:15:57.75,0:15:59.71,Padrão,,0,0,0,,Devolvam o Gohan!
+Dialogue: 0,0:16:02.35,0:16:03.82,Padrão,,0,0,0,,Você deve ser o Son Goku, certo?
+Dialogue: 0,0:16:03.82,0:16:05.95,Padrão,,0,0,0,,Isso mesmo!
+Dialogue: 0,0:16:05.95,0:16:09.45,Padrão,,0,0,0,,Vocês feriram o velhote Gyumao e a Chichi!
+Dialogue: 0,0:16:11.53,0:16:13.53,Padrão,,0,0,0,,E nós vamos te ferir também!
+Dialogue: 0,0:16:13.53,0:16:14.52,Padrão,,0,0,0,,Como?
+Dialogue: 0,0:16:26.87,0:16:28.74,Padrão,,0,0,0,,Kami!?
+Dialogue: 0,0:16:29.24,0:16:31.58,Padrão,,0,0,0,,Quer dizer que o Piccolo não morreu?
+Dialogue: 0,0:16:31.58,0:16:34.58,Padrão,,0,0,0,,Kami-{\i1}sama{\i0}, não se meta nos meus assuntos!
+Dialogue: 0,0:16:34.58,0:16:37.57,Padrão,,0,0,0,,Son Goku, você não muda nunca.
+Dialogue: 0,0:16:38.15,0:16:39.89,Padrão,,0,0,0,,Bem-vindo, Kami.
+Dialogue: 0,0:16:39.89,0:16:41.99,Padrão,,0,0,0,,Então é você, Garlic.
+Dialogue: 0,0:16:41.99,0:16:44.43,Padrão,,0,0,0,,Você retornou após 300 anos, não foi?
+Dialogue: 0,0:16:44.43,0:16:49.93,Padrão,,0,0,0,,Você está disposto a usar quaisquer meios para alcançar seus objetivos, assim como seu pai.
+Dialogue: 0,0:16:49.93,0:16:50.93,Padrão,,0,0,0,,Como?
+Dialogue: 0,0:16:50.93,0:16:54.27,Padrão,,0,0,0,,Como era o pai, é o filho.
+Dialogue: 0,0:16:54.27,0:16:57.47,Padrão,,0,0,0,,De fato, o seu pai me enfrentou pelo título de Kami,
+Dialogue: 0,0:16:57.47,0:17:00.74,Padrão,,0,0,0,,mas eu fui escolhido como o sucessor.
+Dialogue: 0,0:17:00.74,0:17:07.24,Padrão,,0,0,0,,O Kami anterior viu através dos planos do Garlic.
+Dialogue: 0,0:17:12.75,0:17:16.86,Padrão,,0,0,0,,Insatisfeito com sua decisão, o Garlic se rebelou contra o Kami,
+Dialogue: 0,0:17:16.86,0:17:22.80,Padrão,,0,0,0,,e, como resultado, seu poder foi selado pelo Kami.
+Dialogue: 0,0:17:28.44,0:17:31.17,Padrão,,0,0,0,,As suas palavras finais foram que, em 300 anos,
+Dialogue: 0,0:17:31.17,0:17:34.24,Padrão,,0,0,0,,ele com certeza teria sua vingança.
+Dialogue: 0,0:17:34.24,0:17:36.58,Padrão,,0,0,0,,Mas quem diria que a sua sede de vingança era tamanha
+Dialogue: 0,0:17:36.58,0:17:39.15,Padrão,,0,0,0,,que ele passaria esse fardo para o próprio filho?
+Dialogue: 0,0:17:39.15,0:17:42.65,Padrão,,0,0,0,,Se você não tivesse se tornado o Kami,
+Dialogue: 0,0:17:42.65,0:17:46.65,Padrão,,0,0,0,,minha vingança não seria necessária.
+Dialogue: 0,0:17:46.65,0:17:48.16,Padrão,,0,0,0,,Eu não tenho nada a ver com isso!
+Dialogue: 0,0:17:48.16,0:17:49.66,Padrão,,0,0,0,,Onde está o Gohan?!
+Dialogue: 0,0:17:49.66,0:17:52.39,Padrão,,0,0,0,,Aquele moleque nojento ainda está dormindo.
+Dialogue: 0,0:17:55.16,0:17:57.19,Padrão,,0,0,0,,Lá dentro?
+Dialogue: 0,0:18:01.10,0:18:02.59,Padrão,,0,0,0,,Nós não vamos deixar!
+Dialogue: 0,0:18:20.45,0:18:21.75,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:18:25.19,0:18:30.16,Padrão,,0,0,0,,Se você quiser subir essas escadas, vai ter que nos derrotar primeiro!
+Dialogue: 0,0:18:30.16,0:18:33.33,Padrão,,0,0,0,,Ginger, um dos Três Protetores do Garlic.
+Dialogue: 0,0:18:33.33,0:18:35.50,Padrão,,0,0,0,,Nikki, igualmente.
+Dialogue: 0,0:18:35.50,0:18:37.73,Padrão,,0,0,0,,Sansho, eu também.
+Dialogue: 0,0:18:59.53,0:19:00.79,Padrão,,0,0,0,,Certo, venham!
+Dialogue: 0,0:19:02.80,0:19:04.43,Padrão,,0,0,0,,Shogayaki!!
+Dialogue: 0,0:19:04.43,0:19:06.10,Padrão,,0,0,0,,Nodoame!!
+Dialogue: 0,0:19:06.10,0:19:07.73,Padrão,,0,0,0,,Unaju!!
+Dialogue: 0,0:19:47.57,0:19:51.68,Padrão,,0,0,0,,Nada mal. Vocês ficaram maiores e também aumentaram a velocidade!
+Dialogue: 0,0:19:51.68,0:19:53.37,Padrão,,0,0,0,,Me sigam!
+Dialogue: 0,0:19:59.92,0:20:02.92,Padrão,,0,0,0,,Você acha que o Kami vai morrer tão facilmente?
+Dialogue: 0,0:20:02.92,0:20:07.39,Padrão,,0,0,0,,Eu ganhei a vida eterna do Shen Long.
+Dialogue: 0,0:20:07.39,0:20:10.52,Padrão,,0,0,0,,Eu não posso ser derrotado.
+Dialogue: 0,0:20:10.93,0:20:13.92,Padrão,,0,0,0,,Seu tolo arrogante!
+Dialogue: 0,0:20:17.30,0:20:20.17,Padrão,,0,0,0,,Essa técnica não vai funcionar comigo!
+Dialogue: 0,0:20:36.66,0:20:38.62,Padrão,,0,0,0,,Cadê o Gohan?!
+Dialogue: 0,0:20:50.20,0:20:51.33,Padrão,,0,0,0,,- O quê?\N- O quê?
+Dialogue: 0,0:20:59.68,0:21:01.15,Padrão,,0,0,0,,Kuririn!
+Dialogue: 0,0:21:01.62,0:21:03.74,Padrão,,0,0,0,,Você está bem descuidado, Goku!
+Dialogue: 0,0:21:09.16,0:21:11.22,Padrão,,0,0,0,,Mas, com certeza, tem mais alguém...
+Dialogue: 0,0:21:11.22,0:21:14.22,Padrão,,0,0,0,,Son! Não se esqueça que eu estou aqui também!
+Dialogue: 0,0:21:20.73,0:21:21.67,Padrão,,0,0,0,,Piccolo!
+Dialogue: 0,0:21:21.67,0:21:22.86,Padrão,,0,0,0,,Piccolo!
+Dialogue: 0,0:21:25.67,0:21:27.33,Padrão,,0,0,0,,O que você está fazendo aqui?
+Dialogue: 0,0:21:31.34,0:21:35.51,Padrão,,0,0,0,,Eu não vim aqui te ajudar. Eu devo uma coisa a essas caras.
+Dialogue: 0,0:22:00.47,0:22:02.34,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:22:02.34,0:22:03.50,Padrão,,0,0,0,,Essa não!
+Dialogue: 0,0:22:33.24,0:22:34.40,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:22:37.24,0:22:38.37,Padrão,,0,0,0,,Não tão rápido!
+Dialogue: 0,0:22:39.28,0:22:40.75,Padrão,,0,0,0,,Kuririn, tome conta do Gohan!
+Dialogue: 0,0:22:40.75,0:22:41.84,Padrão,,0,0,0,,Pode deixar!
+Dialogue: 0,0:22:58.77,0:23:00.36,Padrão,,0,0,0,,Eu não vou deixar!
+Dialogue: 0,0:23:09.54,0:23:11.53,Padrão,,0,0,0,,Eu vou retribuir o favor.
+Dialogue: 0,0:23:28.76,0:23:32.77,Padrão,,0,0,0,,Vocês não podem me enfrentar se não estiverem os três juntos?
+Dialogue: 0,0:23:32.77,0:23:36.93,Padrão,,0,0,0,,Só pode ser brincadeira! Eu sou mais que o suficiente para cuidar de você!
+Dialogue: 0,0:23:42.78,0:23:44.61,Padrão,,0,0,0,,Esse é todo o seu poder?!
+Dialogue: 0,0:24:07.77,0:24:09.60,Padrão,,0,0,0,,Você é um monstro!
+Dialogue: 0,0:24:12.77,0:24:14.76,Padrão,,0,0,0,,Vocês é que são insignificantes.
+Dialogue: 0,0:24:37.16,0:24:41.50,Padrão,,0,0,0,,Depois disso, eu vou criar o meu mundo das trevas.
+Dialogue: 0,0:24:42.64,0:24:44.63,Padrão,,0,0,0,,Você só precisa relaxar e ir para o inferno.
+Dialogue: 0,0:24:55.55,0:24:58.18,Padrão,,0,0,0,,Ora seu...
+Dialogue: 0,0:25:37.86,0:25:39.38,Padrão,,0,0,0,,Cresça, Nyoi-bo!
+Dialogue: 0,0:26:02.48,0:26:04.71,Padrão,,0,0,0,,Kamehame...
+Dialogue: 0,0:26:07.35,0:26:08.65,Padrão,,0,0,0,,{\i1}Ha!!{\i0}
+Dialogue: 0,0:26:32.41,0:26:34.88,Padrão,,0,0,0,,O único destino que espera velhos guerreiros é desaparecer!
+Dialogue: 0,0:26:34.88,0:26:37.55,Padrão,,0,0,0,,Que essa seja uma lição para você, vinda do meu pai!
+Dialogue: 0,0:26:37.55,0:26:39.88,Padrão,,0,0,0,,E agora, é o seu fim!
+Dialogue: 0,0:26:47.43,0:26:51.73,Padrão,,0,0,0,,Eu ainda sou o Deus desse mundo. Eu sei o tipo de misérias
+Dialogue: 0,0:26:51.73,0:26:55.94,Padrão,,0,0,0,,que cairão sobre esse mundo se você dominá-lo.
+Dialogue: 0,0:26:55.94,0:26:59.46,Padrão,,0,0,0,,Mesmo que custe a minha vida, eu não deixarei que faça o que quiser!
+Dialogue: 0,0:27:04.54,0:27:08.41,Padrão,,0,0,0,,Seu tolo. Pretende matar nós dois?
+Dialogue: 0,0:27:08.41,0:27:09.55,Padrão,,0,0,0,,Isso mesmo.
+Dialogue: 0,0:27:09.55,0:27:12.81,Padrão,,0,0,0,,É isso que eu posso fazer no fim!
+Dialogue: 0,0:27:15.56,0:27:18.42,Padrão,,0,0,0,,Você pode morrer, mas eu não vou!
+Dialogue: 0,0:27:19.89,0:27:22.59,Padrão,,0,0,0,,Você não pode morrer, é verdade...
+Dialogue: 0,0:27:24.56,0:27:29.47,Padrão,,0,0,0,,...mas, mesmo que a sua vida continue, se você não puder fazer nada,
+Dialogue: 0,0:27:29.47,0:27:31.57,Padrão,,0,0,0,,vai ser o mesmo que o inferno para você.
+Dialogue: 0,0:27:31.57,0:27:33.90,Padrão,,0,0,0,,Eu vou deixá-lo provar a dor do inferno.
+Dialogue: 0,0:27:35.64,0:27:37.30,Padrão,,0,0,0,,Piccolo!
+Dialogue: 0,0:27:43.32,0:27:45.31,Padrão,,0,0,0,,Kuririn! Tome conta do Gohan!
+Dialogue: 0,0:27:46.49,0:27:47.78,Padrão,,0,0,0,,Pode deixar!
+Dialogue: 0,0:27:51.49,0:27:54.63,Padrão,,0,0,0,,É uma pena, Son Goku, Piccolo.
+Dialogue: 0,0:27:54.63,0:27:56.66,Padrão,,0,0,0,,Eu não esperava que homens como vocês
+Dialogue: 0,0:27:56.66,0:27:59.50,Padrão,,0,0,0,,viessem ajudar esse homem velho e abatido.
+Dialogue: 0,0:28:09.44,0:28:11.60,Padrão,,0,0,0,,Eu sinto um poder incrível...
+Dialogue: 0,0:28:32.17,0:28:33.63,Padrão,,0,0,0,,Tomem isso!
+Dialogue: 0,0:28:39.64,0:28:40.63,Padrão,,0,0,0,,Droga...
+Dialogue: 0,0:28:43.18,0:28:45.17,Padrão,,0,0,0,,Kami-{\i1}sama{\i0}, fique observando daqui.
+Dialogue: 0,0:28:45.81,0:28:48.34,Padrão,,0,0,0,,Eu conto com você, Goku!
+Dialogue: 0,0:29:03.50,0:29:04.79,Padrão,,0,0,0,,Piccolo! Saia da frente!
+Dialogue: 0,0:30:06.79,0:30:07.78,Padrão,,0,0,0,,Maldição!
+Dialogue: 0,0:30:30.72,0:30:33.69,Padrão,,0,0,0,,Isso é tudo que os dois juntos podem fazer?
+Dialogue: 0,0:30:33.69,0:30:35.79,Padrão,,0,0,0,,Droga, ele está muito poderoso!
+Dialogue: 0,0:30:35.79,0:30:37.92,Padrão,,0,0,0,,Se não tomarmos cuidado, será o nosso fim.
+Dialogue: 0,0:30:46.90,0:30:49.84,Padrão,,0,0,0,,Você vai tirar essas coisas? Ele é um inimigo poderoso
+Dialogue: 0,0:30:49.84,0:30:52.70,Padrão,,0,0,0,,para alguém que não consegue usar todos os seus poderes a sério.
+Dialogue: 0,0:30:56.68,0:30:59.34,Padrão,,0,0,0,,Piccolo, você também está usando pesos?
+Dialogue: 0,0:30:59.85,0:31:03.68,Padrão,,0,0,0,,Você não é o único que está treinando.
+Dialogue: 0,0:31:03.68,0:31:06.82,Padrão,,0,0,0,,Quem nos imaginaria lutando juntos?
+Dialogue: 0,0:31:06.82,0:31:11.31,Padrão,,0,0,0,,Quando nós o derrotarmos... você será o próximo!
+Dialogue: 0,0:32:05.18,0:32:06.14,Padrão,,0,0,0,,Piccolo...
+Dialogue: 0,0:32:09.88,0:32:12.21,Padrão,,0,0,0,,Piccolo, você...
+Dialogue: 0,0:32:13.15,0:32:14.89,Padrão,,0,0,0,,Você fica fora disso!
+Dialogue: 0,0:32:14.89,0:32:17.88,Padrão,,0,0,0,,Son, agora é a nossa hora de acertar as contas!
+Dialogue: 0,0:32:20.59,0:32:24.43,Padrão,,0,0,0,,Parece que não temos escolha, temos?
+Dialogue: 0,0:32:34.84,0:32:37.57,Padrão,,0,0,0,,Eu já disse! Eu não vou morrer!
+Dialogue: 0,0:33:21.89,0:33:23.25,Padrão,,0,0,0,,Piccolo!
+Dialogue: 0,0:33:34.87,0:33:37.67,Padrão,,0,0,0,,Onde está o filho do Goku?!
+Dialogue: 0,0:33:37.67,0:33:39.83,Padrão,,0,0,0,,Não me diga que ele passou por ali?!
+Dialogue: 0,0:33:41.37,0:33:43.21,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:33:52.72,0:33:55.55,Padrão,,0,0,0,,Maldito! Você se acha esperto?!
+Dialogue: 0,0:33:59.69,0:34:05.13,Padrão,,0,0,0,,Que tudo seja sugado para a Zona Morta que eu criei!
+Dialogue: 0,0:34:05.23,0:34:07.70,Padrão,,0,0,0,,Nem sequer a luz pode penetrá-la!
+Dialogue: 0,0:34:07.70,0:34:09.54,Padrão,,0,0,0,,Vocês vão ficar presos nesse inferno de trevas,
+Dialogue: 0,0:34:09.54,0:34:12.37,Padrão,,0,0,0,,corpo e espírito, até morrerem!
+Dialogue: 0,0:34:16.24,0:34:17.57,Padrão,,0,0,0,,{Yow!}
+Dialogue: 0,0:34:40.93,0:34:42.46,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:34:51.78,0:34:52.77,Padrão,,0,0,0,,O quê?
+Dialogue: 0,0:35:00.79,0:35:02.45,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:35:05.39,0:35:09.33,Padrão,,0,0,0,,Aquele moleque! Seu poder vai além do meu!
+Dialogue: 0,0:35:12.36,0:35:17.46,Padrão,,0,0,0,,Que poder é esse?! Ele realmente não é uma criança comum!
+Dialogue: 0,0:35:23.88,0:35:26.87,Padrão,,0,0,0,,Eu vou usar todo o meu poder!
+Dialogue: 0,0:36:03.22,0:36:04.55,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:36:07.55,0:36:09.25,Padrão,,0,0,0,,Goku!
+Dialogue: 0,0:36:09.49,0:36:11.82,Padrão,,0,0,0,,Papai!
+Dialogue: 0,0:36:19.27,0:36:24.70,Padrão,,0,0,0,,Eu não vou morrer! Eu obtive a vida eterna!
+Dialogue: 0,0:37:24.43,0:37:26.80,Padrão,,0,0,0,,K- Kami-{\i1}sama{\i0}, o que aconteceu com o Garlic Jr.?
+Dialogue: 0,0:37:26.80,0:37:31.64,Padrão,,0,0,0,,Ele caiu no inferno que ele mesmo criou.
+Dialogue: 0,0:37:31.64,0:37:38.34,Padrão,,0,0,0,,O Garlic deve continuar vivendo lá para sempre.
+Dialogue: 0,0:37:38.34,0:37:42.87,Padrão,,0,0,0,,Ele deve estar se arrependendo de ter a vida eterna.
+Dialogue: 0,0:37:52.36,0:37:53.85,Padrão,,0,0,0,,Gohan!
+Dialogue: 0,0:37:54.69,0:37:59.53,Padrão,,0,0,0,,Papai, o senhor realmente veio me salvar!
+Dialogue: 0,0:38:03.17,0:38:05.17,Padrão,,0,0,0,,Gohan, você não se lembra?
+Dialogue: 0,0:38:05.17,0:38:08.33,Padrão,,0,0,0,,O meu pai é mesmo a pessoa mais forte do mundo.
+Dialogue: 0,0:38:17.68,0:38:20.62,Padrão,,0,0,0,,Gohan, foi uma experiência assustadora, não foi?
+Dialogue: 0,0:38:20.62,0:38:22.35,Padrão,,0,0,0,,Venha, vamos para a casa, para a sua mãe.
+Dialogue: 0,0:38:43.24,0:38:49.24,Padrão,,0,0,0,,Son Goku, um dia nós vamos acertar as contas.
+Dialogue: 0,0:38:50.72,0:38:56.86,Padrão,,0,0,0,,{\i1}Os planos do Garlic Jr. chegaram ao fim, como um sonho dentro de outro sonho,{\i0}
+Dialogue: 0,0:38:56.86,0:38:59.43,Padrão,,0,0,0,,{\i1}graças ao poder do Goku e dos outros.{\i0}
+Dialogue: 0,0:38:59.43,0:39:03.40,Padrão,,0,0,0,,{\i1}Goku estava pensando se contaria ou não à Chichi sobre como{\i0}
+Dialogue: 0,0:39:03.40,0:39:08.09,Padrão,,0,0,0,,{\i1}seu filho o salvou...{\i0}
+Dialogue: 0,0:39:12.24,0:39:14.83,Padrão,,0,0,0,,{\i1}A Chichi não acreditaria mesmo.{\i0}
+Dialogue: 0,0:39:15.47,0:39:18.44,Padrão,,0,0,0,,{\i1}Eu acho que vou contar ao Gohan quando ele crescer.{\i0}
+Dialogue: 0,0:39:45.77,0:39:49.78,Abertura - Tradução,,0,0,0,,{\i1}Lá vêm eles, monstros com cor de maçã.{\i0}
+Dialogue: 0,0:39:45.77,0:39:49.78,Abertura - Romaji,,0,0,0,,Kakete kuru yo appuru-iro monsutaa
+Dialogue: 0,0:39:49.78,0:39:55.78,Abertura - Tradução,,0,0,0,,{\i1}Eles vêm voando, alienígenas com cheiro de castanhas.{\i0}
+Dialogue: 0,0:39:49.78,0:39:55.78,Abertura - Romaji,,0,0,0,,Tonde kuru yo nattsu no kaori eirian
+Dialogue: 0,0:39:55.78,0:39:58.25,Abertura - Tradução,,0,0,0,,{\i1}É tão emocionante conhecê-los.{\i0}
+Dialogue: 0,0:39:55.78,0:39:58.25,Abertura - Romaji,,0,0,0,,Deatte dokkin-dokkin
+Dialogue: 0,0:40:01.45,0:40:06.86,Abertura - Tradução,,0,0,0,,{\i1}Brilha, brilha, a galáxia é como uma chuva de pipoca!{\i0}
+Dialogue: 0,0:40:01.45,0:40:06.86,Abertura - Romaji,,0,0,0,,Pika-pika ginga wa poppukoon shawaa
+Dialogue: 0,0:40:08.79,0:40:13.33,Abertura - Tradução,,0,0,0,,{\i1}Diga "tchau-tchau" para o passado (Gohan),{\i0}
+Dialogue: 0,0:40:08.79,0:40:13.33,Abertura - Romaji,,0,0,0,,Kinou ni bai-bai-bai (go - ha - n)
+Dialogue: 0,0:40:13.33,0:40:17.34,Abertura - Tradução,,0,0,0,,{\i1}Mistério (em todos lugares),{\i0}
+Dialogue: 0,0:40:13.33,0:40:17.34,Abertura - Romaji,,0,0,0,,Fu - shi - gi (ip - pa - i)
+Dialogue: 0,0:40:17.34,0:40:20.47,Abertura - Tradução,,0,0,0,,{\i1}Reúna a sua energia, (pode usar substitutos),{\i0}
+Dialogue: 0,0:40:17.34,0:40:20.47,Abertura - Romaji,,0,0,0,,Chikara wo komete (okawari OK)
+Dialogue: 0,0:40:20.47,0:40:23.60,Abertura - Tradução,,0,0,0,,{\i1}Venha aqui, lai, lai, lai!{\i0}
+Dialogue: 0,0:40:20.47,0:40:23.60,Abertura - Romaji,,0,0,0,,Kochira e lai-lai-lai
+Dialogue: 0,0:40:25.38,0:40:30.84,Abertura - Tradução,,0,0,0,,{\i1}O poder MÁXIMO milagroso!{\i0}
+Dialogue: 0,0:40:25.38,0:40:30.84,Abertura - Romaji,,0,0,0,,Woh... Mirakuru ZENKAI pawaa!
+Dialogue: 0,0:40:32.85,0:40:34.85,Abertura - Tradução,,0,0,0,,{\i1}Uma Kinto Un faminta,{\i0}
+Dialogue: 0,0:40:32.85,0:40:34.85,Abertura - Romaji,,0,0,0,,Haraheri wanpaku Kinto-Un
+Dialogue: 0,0:40:34.85,0:40:36.86,Abertura - Tradução,,0,0,0,,{\i1}Uma montanha de horizontes,{\i0}
+Dialogue: 0,0:40:34.85,0:40:36.86,Abertura - Romaji,,0,0,0,,Yama hodo takusan suiheisen
+Dialogue: 0,0:40:36.86,0:40:38.86,Abertura - Tradução,,0,0,0,,{\i1}Eles se encontram, eles se separam, eles se encontram, eles se separam,{\i0}
+Dialogue: 0,0:40:36.86,0:40:38.86,Abertura - Romaji,,0,0,0,,Deatte wakarete deatte wakarete
+Dialogue: 0,0:40:38.86,0:40:40.86,Abertura - Tradução,,0,0,0,,{\i1}Essa não!{\i0}
+Dialogue: 0,0:40:38.86,0:40:40.86,Abertura - Romaji,,0,0,0,,Ta - i - he - n
+Dialogue: 0,0:40:40.86,0:40:46.53,Abertura - Tradução,,0,0,0,,{\i1}Já basta! Não é fácil nem para Deus.{\i0}
+Dialogue: 0,0:40:40.86,0:40:46.53,Abertura - Romaji,,0,0,0,,Ah mou Kami-Sama mo tsurai yo ne!
+Dialogue: 0,0:40:46.53,0:40:48.53,Abertura - Tradução,,0,0,0,,{\i1}Sinto muito.{\i0}
+Dialogue: 0,0:40:46.53,0:40:48.53,Abertura - Romaji,,0,0,0,,{\i1}Gomen{\i0}
+Dialogue: 0,0:40:48.53,0:40:54.30,Abertura - Tradução,,0,0,0,,{\i1}Poder MÁXIMO totalmente recuperado!{\i0}
+Dialogue: 0,0:40:48.53,0:40:54.30,Abertura - Romaji,,0,0,0,,Woh... Manpuku ZENKAI pawaa!
+Dialogue: 0,0:40:56.54,0:41:02.41,Abertura - Tradução,,0,0,0,,{\i1}Vamos nessa, super poder MÁXIMO!{\i0}
+Dialogue: 0,0:40:56.54,0:41:02.41,Abertura - Romaji,,0,0,0,,Dete koi tobikiri ZENKAI pawaa!
