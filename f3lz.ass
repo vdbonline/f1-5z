@@ -1,0 +1,413 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Style1,Georgia,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,20,20,20,0
+Style: Notas-01,Arial,30,&H00FFFFFF,&H000000FF,&H14000000,&H00000000,-1,0,0,0,80,110,0,0,1,0,1.5,8,10,10,20,1
+Style: Notas-02,Arial,30,&H00FFFFFF,&H000000FF,&H96000000,&H00000000,0,-1,0,0,100,110,0,0,3,4,0,8,10,10,20,1
+Style: Types,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,110,0,0,1,1.5,0.5,2,10,10,20,1
+Style: Padrão,Arial,36,&H00FFFFFF,&H000000FF,&H23000000,&H96000000,-1,0,0,0,80,110,0,0,1,1.5,0.5,2,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:54.91,0:00:56.91,Padrão,,0000,0000,0000,,Mas o que é isso?
+Dialogue: 0,0:00:56.91,0:00:59.74,Padrão,,0000,0000,0000,,Desculpem pela demora, pessoal!
+Dialogue: 0,0:01:04.18,0:01:07.35,Padrão,,0000,0000,0000,,Gohan, que roupa é essa?
+Dialogue: 0,0:01:07.35,0:01:10.19,Padrão,,0000,0000,0000,,A mamãe disse que eu devia\N me arrumar bem para vir.
+Dialogue: 0,0:01:10.19,0:01:15.19,Padrão,,0000,0000,0000,,Nós só vamos acampar! O que\N a sua mãe está pensando?
+Dialogue: 0,0:01:15.19,0:01:19.87,Padrão,,0000,0000,0000,,E essa mochila é enorme. O\N que você está carregando aí?
+Dialogue: 0,0:01:19.87,0:01:24.54,Padrão,,0000,0000,0000,,A mamãe colocou muitas\N coisas para mim.
+Dialogue: 0,0:01:24.54,0:01:29.34,Padrão,,0000,0000,0000,,Linguística, aritmética, ciência,\N estudos sociais, livros de referência
+Dialogue: 0,0:01:29.34,0:01:31.88,Padrão,,0000,0000,0000,,e meu equipamento para\N aprender enquanto durmo.
+Dialogue: 0,0:01:31.88,0:01:37.55,Padrão,,0000,0000,0000,,Eu também tenho repelentes de mosquito, um\N aquecedor de barriga e um travesseiro.
+Dialogue: 0,0:01:37.55,0:01:41.99,Padrão,,0000,0000,0000,,Meu despertador... um\N sachê de curry...
+Dialogue: 0,0:01:41.99,0:01:44.89,Padrão,,0000,0000,0000,,e também trouxe\N essas coisas enlatadas...
+Dialogue: 0,0:01:44.89,0:01:50.23,Padrão,,0000,0000,0000,,Vejamos, também tenho...\N isso, aquilo, essa coisa...
+Dialogue: 0,0:02:59.90,0:03:01.06,Padrão,,0000,0000,0000,,Fogo!
+Dialogue: 0,0:03:18.85,0:03:21.52,Padrão,,0000,0000,0000,,Rápido! Nós precisamos\N ficar contra o fogo!
+Dialogue: 0,0:03:21.52,0:03:24.01,Padrão,,0000,0000,0000,,Para onde é isso?! Para onde?!
+Dialogue: 0,0:03:25.19,0:03:28.69,Padrão,,0000,0000,0000,,Gohan! Nós vamos apagar o\N fogo usando nosso {\i1}Ki{\i0}!
+Dialogue: 0,0:03:28.69,0:03:30.03,Padrão,,0000,0000,0000,,Você pode fazer isso?!
+Dialogue: 0,0:03:30.03,0:03:31.86,Padrão,,0000,0000,0000,,Sim!
+Dialogue: 0,0:03:31.86,0:03:32.85,Padrão,,0000,0000,0000,,Certo!
+Dialogue: 0,0:04:33.86,0:04:35.19,Padrão,,0000,0000,0000,,Essa é sua chance!
+Dialogue: 0,0:04:58.22,0:05:02.15,Padrão,,0000,0000,0000,,Por um minuto eu fiquei com medo\N do que poderia acontecer com a gente.
+Dialogue: 0,0:05:02.15,0:05:03.48,Padrão,,0000,0000,0000,,Ainda bem.
+Dialogue: 0,0:05:04.82,0:05:07.82,Padrão,,0000,0000,0000,,Os animais ficaram sem casa.
+Dialogue: 0,0:05:15.17,0:05:17.17,Padrão,,0000,0000,0000,,Pobrezinhos.
+Dialogue: 0,0:05:17.17,0:05:19.00,Padrão,,0000,0000,0000,,Gohan...
+Dialogue: 0,0:05:21.84,0:05:25.17,Padrão,,0000,0000,0000,,Bulma-{\i1}-san,{\i0} será que você pode\N nos emprestar o Radar do Dragão?
+Dialogue: 0,0:05:26.18,0:05:28.17,Padrão,,0000,0000,0000,,O Radar do Dragão?
+Dialogue: 0,0:05:30.52,0:05:32.01,Padrão,,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:05:35.19,0:05:37.18,Padrão,,0000,0000,0000,,Vocês são tão bonzinhos.
+Dialogue: 0,0:05:39.19,0:05:40.68,Padrão,,0000,0000,0000,,Kuririn{\i1}-san{\i0}!
+Dialogue: 0,0:08:08.14,0:08:09.81,Padrão,,0000,0000,0000,,Dragão Haiya!
+Dialogue: 0,0:08:09.81,0:08:11.47,Padrão,,0000,0000,0000,,Volte!
+Dialogue: 0,0:08:21.15,0:08:25.82,Padrão,,0000,0000,0000,,Não faça isso! O Shen Long vai\N fazer sua floresta voltar ao normal!
+Dialogue: 0,0:08:25.82,0:08:26.98,Padrão,,0000,0000,0000,,Certo?
+Dialogue: 0,0:08:30.50,0:08:33.06,Padrão,,0000,0000,0000,,O Shen Long tem um rosto\N assustador, isso é verdade.
+Dialogue: 0,0:08:33.06,0:08:36.16,Padrão,,0000,0000,0000,,É claro que o Dragão\N Haiya ficou assustado.
+Dialogue: 0,0:08:38.84,0:08:45.18,Padrão,,0000,0000,0000,,Agora, digam seu desejo. Eu o\N garantirei, desde que seja apenas um.
+Dialogue: 0,0:08:45.18,0:08:49.18,Padrão,,0000,0000,0000,,Por favor, faça essa floresta\N voltar à beleza de antes!
+Dialogue: 0,0:08:49.18,0:08:52.01,Padrão,,0000,0000,0000,,Isso é simples.
+Dialogue: 0,0:09:26.48,0:09:30.16,Padrão,,0000,0000,0000,,Eu garanti teu desejo.
+Dialogue: 0,0:09:30.16,0:09:33.82,Padrão,,0000,0000,0000,,Adeus!
+Dialogue: 0,0:10:06.52,0:10:08.52,Padrão,,0000,0000,0000,,Isso faz cócegas!
+Dialogue: 0,0:11:16.86,0:11:20.87,Padrão,,0000,0000,0000,,Tullece-{\i1}sama,{\i0} estamos recebendo leituras\N de vida vindas da Terra.
+Dialogue: 0,0:11:20.87,0:11:22.57,Padrão,,0000,0000,0000,,Não pode ser.
+Dialogue: 0,0:11:22.57,0:11:26.70,Padrão,,0000,0000,0000,,O Kakaroto foi enviado\N para o planeta Terra...
+Dialogue: 0,0:11:26.70,0:11:28.37,Padrão,,0000,0000,0000,,...há muito tempo.
+Dialogue: 0,0:11:30.04,0:11:33.03,Padrão,,0000,0000,0000,,Mesmo assim, ela é muito bela.
+Dialogue: 0,0:11:36.71,0:11:39.22,Padrão,,0000,0000,0000,,Tullece-{\i1}sama,{\i0} o\N senhor vai se alegrar.
+Dialogue: 0,0:11:39.22,0:11:43.71,Padrão,,0000,0000,0000,,O solo da Terra parece ser apropriado\N para a árvore {\i1}Shinseiju{\i0}.
+Dialogue: 0,0:11:49.56,0:11:53.56,Padrão,,0000,0000,0000,,Goku-{\i1}san,{\i0} como está a água?
+Dialogue: 0,0:11:53.56,0:11:55.90,Padrão,,0000,0000,0000,,Pode esquentar um pouco mais, Chichi.
+Dialogue: 0,0:11:55.90,0:11:57.80,Padrão,,0000,0000,0000,,Papai, vamos competir.
+Dialogue: 0,0:11:57.80,0:11:58.79,Padrão,,0000,0000,0000,,Certo!
+Dialogue: 0,0:12:18.86,0:12:20.85,Padrão,,0000,0000,0000,,Goku-{\i1}san{\i0}!
+Dialogue: 0,0:12:27.87,0:12:29.26,Padrão,,0000,0000,0000,,Eu perdi.
+Dialogue: 0,0:12:32.20,0:12:34.21,Padrão,,0000,0000,0000,,Dragão Haiya!
+Dialogue: 0,0:12:34.21,0:12:35.54,Padrão,,0000,0000,0000,,Gohan-{\i1}chan{\i0}!
+Dialogue: 0,0:12:35.54,0:12:38.88,Padrão,,0000,0000,0000,,Viu? Esse é o amigo do\N qual eu estava falando antes.
+Dialogue: 0,0:12:38.88,0:12:40.87,Padrão,,0000,0000,0000,,Que surpresa você ter\N encontrado minha casa.
+Dialogue: 0,0:12:45.88,0:12:46.88,Padrão,,0000,0000,0000,,Ele não é lindo?
+Dialogue: 0,0:12:46.88,0:12:48.89,Padrão,,0000,0000,0000,,Lindo onde?
+Dialogue: 0,0:12:48.89,0:12:50.89,Padrão,,0000,0000,0000,,Gohan-{\i1}chan{\i0}!
+Dialogue: 0,0:12:50.89,0:12:54.89,Padrão,,0000,0000,0000,,Francamente, Gohan-{\i1}chan,{\i0} você\N está se tornando um delinquente!
+Dialogue: 0,0:12:54.89,0:12:57.40,Padrão,,0000,0000,0000,,Desde que você começou a brincar\N com os amigos do Goku-{\i1}san{\i0},
+Dialogue: 0,0:12:57.40,0:12:59.73,Padrão,,0000,0000,0000,,abandonou totalmente os estudos!
+Dialogue: 0,0:12:59.73,0:13:01.83,Padrão,,0000,0000,0000,,Chichi, isso não é demais?
+Dialogue: 0,0:13:01.83,0:13:03.84,Padrão,,0000,0000,0000,,Goku-{\i1}san,{\i0} fique calado.
+Dialogue: 0,0:13:03.84,0:13:08.84,Padrão,,0000,0000,0000,,Chegando a esse ponto, eu\N não posso mais deixá-lo brincar.
+Dialogue: 0,0:13:08.84,0:13:11.18,Padrão,,0000,0000,0000,,Mas eu {\i1}estudo{\i0}.
+Dialogue: 0,0:13:11.18,0:13:13.85,Padrão,,0000,0000,0000,,É isso o que faz de\N você meu Gohan-{\i1}chan.{\i0}
+Dialogue: 0,0:13:13.85,0:13:17.18,Padrão,,0000,0000,0000,,Então eu posso ficar com\N o Dragão Haiya, certo?
+Dialogue: 0,0:13:17.18,0:13:19.85,Padrão,,0000,0000,0000,,Mande ele de volta para as montanhas!
+Dialogue: 0,0:13:19.85,0:13:23.19,Padrão,,0000,0000,0000,,Eu não consigo lidar com essas coisas.
+Dialogue: 0,0:13:23.19,0:13:24.19,Padrão,,0000,0000,0000,,Mas...
+Dialogue: 0,0:13:24.19,0:13:27.68,Padrão,,0000,0000,0000,,Você me entendeu?\N Mande-o de volta agora!
+Dialogue: 0,0:13:32.20,0:13:35.87,Padrão,,0000,0000,0000,,Eu sinto muito, mas você precisa\N voltar para as montanhas, certo?
+Dialogue: 0,0:13:35.87,0:13:37.46,Padrão,,0000,0000,0000,,Eu vou visitar você depois.
+Dialogue: 0,0:13:39.87,0:13:42.21,Padrão,,0000,0000,0000,,Por favor, dê tchau.
+Dialogue: 0,0:13:42.21,0:13:44.20,Padrão,,0000,0000,0000,,Eu já disse que não.
+Dialogue: 0,0:13:52.22,0:13:54.38,Padrão,,0000,0000,0000,,O que eu vou fazer com você?
+Dialogue: 0,0:13:55.72,0:13:56.88,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:14:15.17,0:14:17.51,Padrão,,0000,0000,0000,,Que tal, Gohan?
+Dialogue: 0,0:14:17.51,0:14:19.17,Padrão,,0000,0000,0000,,Obrigado, papai!
+Dialogue: 0,0:14:21.68,0:14:24.01,Padrão,,0000,0000,0000,,Mas não conte à sua mãe!
+Dialogue: 0,0:14:37.20,0:14:39.20,Padrão,,0000,0000,0000,,E então, Pu-erh, o que está achando?
+Dialogue: 0,0:14:39.20,0:14:40.70,Padrão,,0000,0000,0000,,Demais!
+Dialogue: 0,0:14:40.70,0:14:44.37,Padrão,,0000,0000,0000,,Não é? Eu comprei\N dividido em 15 anos!
+Dialogue: 0,0:14:44.37,0:14:46.86,Padrão,,0000,0000,0000,,Que surpresa alguém te\N oferecer tanto crédito assim.
+Dialogue: 0,0:14:48.87,0:14:53.88,Padrão,,0000,0000,0000,,Bem, eu fiquei famoso\N graças ao Torneio Tenkaichi.
+Dialogue: 0,0:14:53.88,0:14:56.55,Padrão,,0000,0000,0000,,Vão ficar todos surpresos quando\N nós aparecermos com isso!
+Dialogue: 0,0:14:56.55,0:14:57.88,Padrão,,0000,0000,0000,,Com certeza!
+Dialogue: 0,0:15:01.22,0:15:02.82,Padrão,,0000,0000,0000,,Yamcha{\i1}-sama...{\i0}
+Dialogue: 0,0:15:02.82,0:15:04.15,Padrão,,0000,0000,0000,,O que é esse {\i1}Ki{\i0}!?
+Dialogue: 0,0:15:06.49,0:15:09.82,Padrão,,0000,0000,0000,,Já faz um tempo que eu venho\N sentido um estranho {\i1}Ki...{\i0}
+Dialogue: 0,0:15:54.87,0:15:56.67,Padrão,,0000,0000,0000,,Cresça suas raízes.
+Dialogue: 0,0:16:02.15,0:16:04.81,Padrão,,0000,0000,0000,,Torne-se grande e dê frutos.
+Dialogue: 0,0:16:21.17,0:16:22.50,Padrão,,0000,0000,0000,,Isso é bom?
+Dialogue: 0,0:16:40.85,0:16:44.01,Padrão,,0000,0000,0000,,Gohan! Hora do jantar!
+Dialogue: 0,0:16:45.86,0:16:47.19,Padrão,,0000,0000,0000,,Certo!
+Dialogue: 0,0:16:47.19,0:16:50.18,Padrão,,0000,0000,0000,,Nós brincamos mais depois, certo?
+Dialogue: 0,0:16:51.36,0:16:52.52,Padrão,,0000,0000,0000,,Tchau!
+Dialogue: 0,0:17:47.85,0:17:53.19,Padrão,,0000,0000,0000,,{\i1}Em pensar que a Terra seria o lugar\N ideal para plantarmos a árvore Shinseiju...{\i0}
+Dialogue: 0,0:17:53.19,0:17:59.19,Padrão,,0000,0000,0000,,{\i1}Tudo graças ao Kakaroto que\N deixou o planeta inteiro.{\i0}
+Dialogue: 0,0:19:18.14,0:19:19.30,Padrão,,0000,0000,0000,,Socorro!
+Dialogue: 0,0:19:59.35,0:20:02.02,Padrão,,0000,0000,0000,,Você está com um\N problemão, não está?
+Dialogue: 0,0:20:02.02,0:20:05.68,Padrão,,0000,0000,0000,,Pode crer, meu empréstimo\N de 15 anos se foi.
+Dialogue: 0,0:20:07.86,0:20:12.53,Padrão,,0000,0000,0000,,Obrigado. Me desculpem por\N aparecer assim de repente.
+Dialogue: 0,0:20:12.53,0:20:15.43,Padrão,,0000,0000,0000,,Por que você comprou\N uma coisa tão cara?!
+Dialogue: 0,0:20:15.43,0:20:17.70,Padrão,,0000,0000,0000,,Tentando ser popular com\N as garotas novamente?!
+Dialogue: 0,0:20:17.70,0:20:19.54,Padrão,,0000,0000,0000,,Não, não é isso...
+Dialogue: 0,0:20:19.54,0:20:23.70,Padrão,,0000,0000,0000,,Você nunca pensa antes\N de comprar as coisas!
+Dialogue: 0,0:20:27.21,0:20:30.71,Padrão,,0000,0000,0000,,Chichi{\i1}-san{\i0}, obrigado por se dar a\N todo esse trabalho por nossa causa.
+Dialogue: 0,0:20:30.71,0:20:34.89,Padrão,,0000,0000,0000,,Não seja bobo. Desde que vocês não\N interfiram com os estudos do Gohan,
+Dialogue: 0,0:20:34.89,0:20:37.39,Padrão,,0000,0000,0000,,podem ficar o quanto quiserem.
+Dialogue: 0,0:20:37.39,0:20:40.22,Padrão,,0000,0000,0000,,Eu posso ensinar algumas\N coisas a ele, certo?
+Dialogue: 0,0:20:42.56,0:20:44.55,Padrão,,0000,0000,0000,,É disso que eu tenho medo.
+Dialogue: 0,0:20:54.24,0:20:56.23,Padrão,,0000,0000,0000,,Dragão Haiya!
+Dialogue: 0,0:20:58.58,0:21:02.51,Padrão,,0000,0000,0000,,Gohan{\i1}chan{\i0}! Você ainda\N não o mandou de volta?
+Dialogue: 0,0:21:02.51,0:21:04.50,Padrão,,0000,0000,0000,,Bem, sabe...
+Dialogue: 0,0:21:07.18,0:21:10.02,Padrão,,0000,0000,0000,,Qual o problema?
+Dialogue: 0,0:21:10.02,0:21:13.86,Padrão,,0000,0000,0000,,Goku-{\i1}san,{\i0} você está conspirando\N com o Gohan-{\i1}chan{\i0} novamente!
+Dialogue: 0,0:21:13.86,0:21:15.62,Padrão,,0000,0000,0000,,Não diga isso...
+Dialogue: 0,0:21:17.53,0:21:20.19,Padrão,,0000,0000,0000,,Nós não podemos fazer isso\N fora da caverna, você sabe!
+Dialogue: 0,0:21:24.20,0:21:26.70,Padrão,,0000,0000,0000,,- Qual o problema?\N  - Gohan-{\i1}chan{\i0}!
+Dialogue: 0,0:21:26.70,0:21:29.87,Padrão,,0000,0000,0000,,Nós temos convidados!\N Mande-o embora agora!
+Dialogue: 0,0:21:29.87,0:21:31.21,Padrão,,0000,0000,0000,,Certo!
+Dialogue: 0,0:21:31.21,0:21:33.70,Padrão,,0000,0000,0000,,Sinto muito, mas vá me\N esperar na caverna, certo?
+Dialogue: 0,0:21:35.55,0:21:38.74,Padrão,,0000,0000,0000,,Não, eu não posso brincar agora.
+Dialogue: 0,0:21:41.55,0:21:42.88,Padrão,,0000,0000,0000,,Não!
+Dialogue: 0,0:21:48.89,0:21:51.56,Padrão,,0000,0000,0000,,Ele parecia estar agindo\N estranhamente, não era?
+Dialogue: 0,0:21:51.56,0:21:53.23,Padrão,,0000,0000,0000,,Ele só queria brincar.
+Dialogue: 0,0:21:53.23,0:21:54.89,Padrão,,0000,0000,0000,,{\i1}Goku...{\i0}
+Dialogue: 0,0:21:55.90,0:21:57.57,Padrão,,0000,0000,0000,,Kaio-{\i1}sama{\i0}?
+Dialogue: 0,0:21:57.57,0:22:00.91,Padrão,,0000,0000,0000,,{\i1}Goku, uma coisa\N terrível aconteceu.{\i0}
+Dialogue: 0,0:22:00.91,0:22:02.34,Padrão,,0000,0000,0000,,Uma coisa terrível?
+Dialogue: 0,0:22:02.34,0:22:07.85,Padrão,,0000,0000,0000,,Uma árvore maligna conhecida como {\i1}Shinseiju{\i0}\N espalhou suas raízes por toda a Terra.
+Dialogue: 0,0:22:07.85,0:22:09.68,Padrão,,0000,0000,0000,,{\i1}Shinseiju{\i0}?
+Dialogue: 0,0:22:09.68,0:22:15.19,Padrão,,0000,0000,0000,,Normalmente, apenas os Kami-{\i1}sama{\i0}\N podem comer os frutos desta árvore.
+Dialogue: 0,0:22:15.19,0:22:17.52,Padrão,,0000,0000,0000,,Uma vez que uma {\i1}Shinseiju{\i0}\N firma suas raízes,
+Dialogue: 0,0:22:17.52,0:22:21.86,Padrão,,0000,0000,0000,,ela dará frutos até sugar\N todos os nutrientes da terra,
+Dialogue: 0,0:22:21.86,0:22:24.70,Padrão,,0000,0000,0000,,fazendo com que as plantas\N ao seu redor desapareçam.
+Dialogue: 0,0:22:24.70,0:22:27.70,Padrão,,0000,0000,0000,,O planeta se torna um deserto,
+Dialogue: 0,0:22:27.70,0:22:30.37,Padrão,,0000,0000,0000,,e dizem que nem sequer\N uma única folha de grama
+Dialogue: 0,0:22:30.37,0:22:33.20,Padrão,,0000,0000,0000,,irá crescer no solo durante séculos.
+Dialogue: 0,0:22:33.20,0:22:35.54,Padrão,,0000,0000,0000,,Como pode ser?
+Dialogue: 0,0:22:35.54,0:22:39.88,Padrão,,0000,0000,0000,,Em outras palavras, uma vez que suas raízes\N se instalem completamente, estará tudo perdido.
+Dialogue: 0,0:22:39.88,0:22:43.55,Padrão,,0000,0000,0000,,Seus frutos vão sugar todos\N os nutrientes da Terra e,
+Dialogue: 0,0:22:43.55,0:22:47.21,Padrão,,0000,0000,0000,,no fim, o planeta inteiro\N vai se tornar um deserto.
+Dialogue: 0,0:22:51.56,0:22:53.72,Padrão,,0000,0000,0000,,Então, nossa Terra está-
+Dialogue: 0,0:22:55.23,0:22:59.23,Padrão,,0000,0000,0000,,{\i1}Infelizmente, é\N tarde demais.{\i0}
+Dialogue: 0,0:22:59.23,0:23:01.72,Padrão,,0000,0000,0000,,Eu não posso acreditar nisso!
+Dialogue: 0,0:23:06.84,0:23:09.51,Padrão,,0000,0000,0000,,Só falta mais um pouco até\N ela começar a dar frutos.
+Dialogue: 0,0:23:09.51,0:23:13.18,Padrão,,0000,0000,0000,,Depois de comer as frutas\N que juntaram tanta energia,
+Dialogue: 0,0:23:13.18,0:23:16.51,Padrão,,0000,0000,0000,,nosso poder vai crescer novamente.
+Dialogue: 0,0:23:16.51,0:23:19.52,Padrão,,0000,0000,0000,,A Tropa Tullece Esmagador, a\N mais forte do universo,
+Dialogue: 0,0:23:19.52,0:23:22.85,Padrão,,0000,0000,0000,,vai ser invencível, onde quer que vá!
+Dialogue: 0,0:23:22.85,0:23:25.36,Padrão,,0000,0000,0000,,Nós vamos poder lidar\N facilmente até mesmo com o Freeza.
+Dialogue: 0,0:23:25.36,0:23:29.69,Padrão,,0000,0000,0000,,O Tullece-{\i1}sama{\i0} será o\N imperador de todo o universo!
+Dialogue: 0,0:23:29.69,0:23:30.85,Padrão,,0000,0000,0000,,{\i1}Da{\i0}!
+Dialogue: 0,0:23:32.20,0:23:36.20,Padrão,,0000,0000,0000,,Tudo graças aos frutos\N da árvore {\i1}Shinseiju{\i0}.
+Dialogue: 0,0:23:36.20,0:23:37.39,Padrão,,0000,0000,0000,,Não.
+Dialogue: 0,0:23:40.20,0:23:42.90,Padrão,,0000,0000,0000,,Tudo graças ao tolo do Kakaroto.
+Dialogue: 0,0:23:46.54,0:23:49.21,Padrão,,0000,0000,0000,,Todas as árvores vão morrer?!
+Dialogue: 0,0:23:49.21,0:23:51.20,Padrão,,0000,0000,0000,,E toda a água vai sumir?
+Dialogue: 0,0:23:52.55,0:23:54.38,Padrão,,0000,0000,0000,,Eu não sei.
+Dialogue: 0,0:23:56.05,0:23:59.72,Padrão,,0000,0000,0000,,Mas depois que ela finca raízes,\N está tudo acabado, não é?
+Dialogue: 0,0:24:01.06,0:24:03.49,Padrão,,0000,0000,0000,,Se nós juntarmos nossas forças,
+Dialogue: 0,0:24:03.49,0:24:06.50,Padrão,,0000,0000,0000,,nós devemos ser capazes de acabar com\N essa árvore, junto com suas raízes!
+Dialogue: 0,0:24:06.50,0:24:10.00,Padrão,,0000,0000,0000,,Isso mesmo! Vamos em frente, pessoal!
+Dialogue: 0,0:24:10.00,0:24:11.16,Padrão,,0000,0000,0000,,- Certo!\N - Beleza!
+Dialogue: 0,0:24:12.50,0:24:13.99,Padrão,,0000,0000,0000,,Vamos nessa!
+Dialogue: 0,0:24:16.51,0:24:19.53,Padrão,,0000,0000,0000,,Gohan, você não pode ir.
+Dialogue: 0,0:24:22.18,0:24:23.67,Padrão,,0000,0000,0000,,
+Dialogue: 0,0:24:33.52,0:24:37.19,Padrão,,0000,0000,0000,,E logo agora que o Shen Long teve o trabalho\N de fazer essa floresta voltar ao normal...
+Dialogue: 0,0:24:37.19,0:24:40.20,Padrão,,0000,0000,0000,,Quem faria isso?
+Dialogue: 0,0:24:40.20,0:24:42.36,Padrão,,0000,0000,0000,,Certo, vamos nessa!
+Dialogue: 0,0:25:13.83,0:25:15.50,Padrão,,0000,0000,0000,,Goku, vamos tentar de novo!
+Dialogue: 0,0:25:15.50,0:25:18.54,Padrão,,0000,0000,0000,,Não adianta! Parece que nós não\N podemos nos livrar dessas raízes
+Dialogue: 0,0:25:18.54,0:25:20.33,Padrão,,0000,0000,0000,,sem detonarmos a Terra junto!
+Dialogue: 0,0:25:43.19,0:25:48.53,Padrão,,0000,0000,0000,,Ninguém pode destruir\N a árvore {\i1}Shinseiju{\i0}.
+Dialogue: 0,0:25:48.53,0:25:51.14,Padrão,,0000,0000,0000,,Eu estou sentindo um {\i1}Ki{\i0}\N muito poderoso vindo deles.
+Dialogue: 0,0:25:51.14,0:25:54.20,Padrão,,0000,0000,0000,,Quem são esses caras?
+Dialogue: 0,0:25:54.20,0:25:58.21,Padrão,,0000,0000,0000,,Foram vocês que plantaram\N essa árvore, não foram?
+Dialogue: 0,0:25:58.21,0:26:03.98,Padrão,,0000,0000,0000,,Qualquer um que ficar em nosso\N caminho irá perder a vida.
+Dialogue: 0,0:26:03.98,0:26:07.99,Padrão,,0000,0000,0000,,Foram vocês que\N causaram aquela explosão?
+Dialogue: 0,0:26:07.99,0:26:11.32,Padrão,,0000,0000,0000,,Me devolvam meu carro\N novo, seus malditos!
+Dialogue: 0,0:26:11.32,0:26:12.66,Padrão,,0000,0000,0000,,{\i1}Da{\i0}!
+Dialogue: 0,0:26:12.66,0:26:18.49,Padrão,,0000,0000,0000,,Esses caras não se parecem com Saiyajins,\N mas eu estou com um mau pressentimento.
+Dialogue: 0,0:26:20.33,0:26:24.16,Padrão,,0000,0000,0000,,Será que ele não gosta mais de mim?
+Dialogue: 0,0:26:30.84,0:26:35.01,Padrão,,0000,0000,0000,,Talvez ele tenha voltado à floresta por\N eu ter ficado com tanta raiva dele.
+Dialogue: 0,0:26:40.18,0:26:41.67,Padrão,,0000,0000,0000,,Dragão Haiya!
+Dialogue: 0,0:26:57.37,0:26:59.36,Padrão,,0000,0000,0000,,Vocês vão pagar pelo meu empréstimo!
+Dialogue: 0,0:27:12.98,0:27:14.14,Padrão,,0000,0000,0000,,Chaos!
+Dialogue: 0,0:27:24.16,0:27:25.83,Padrão,,0000,0000,0000,,Raisin!
+Dialogue: 0,0:27:25.83,0:27:26.83,Padrão,,0000,0000,0000,,Rakasei!
+Dialogue: 0,0:27:26.83,0:27:29.83,Padrão,,0000,0000,0000,,Nós somos os gêmeos!
+Dialogue: 0,0:27:29.83,0:27:31.99,Padrão,,0000,0000,0000,,{\i1}Taiyo-ken!{\i0}!
+Dialogue: 0,0:27:44.85,0:27:46.68,Padrão,,0000,0000,0000,,{\i1}Kienzan!{\i0}!
+Dialogue: 0,0:27:59.20,0:28:00.20,Padrão,,0000,0000,0000,,Tome isso!
+Dialogue: 0,0:28:00.20,0:28:03.29,Padrão,,0000,0000,0000,,Se você quer vencer, precisa\N fazer algo {\i1}assim{\i0}!
+Dialogue: 0,0:28:21.49,0:28:22.82,Padrão,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:28:27.82,0:28:29.16,Padrão,,0000,0000,0000,,{\i1}Sokidan!{\i0}!
+Dialogue: 0,0:28:56.85,0:28:58.18,Padrão,,0000,0000,0000,,Yamcha!
+Dialogue: 0,0:29:01.19,0:29:03.96,Padrão,,0000,0000,0000,,O seu oponente será {\i1}eu{\i0}!
+Dialogue: 0,0:29:16.47,0:29:18.96,Padrão,,0000,0000,0000,,Vai tentar dar uma de esperto agora?!
+Dialogue: 0,0:29:27.15,0:29:28.49,Padrão,,0000,0000,0000,,Quem está aí?!
+Dialogue: 0,0:29:28.49,0:29:31.82,Padrão,,0000,0000,0000,,Parem de bagunçar com\N a floresta dos animais!
+Dialogue: 0,0:29:31.82,0:29:34.99,Padrão,,0000,0000,0000,,Esse não é meu dia\N de sorte, outro pirralho.
+Dialogue: 0,0:29:38.83,0:29:41.16,Padrão,,0000,0000,0000,,Ele é forte.
+Dialogue: 0,0:29:41.16,0:29:44.50,Padrão,,0000,0000,0000,,Esse garoto, não pode ser...
+Dialogue: 0,0:29:47.84,0:29:50.01,Padrão,,0000,0000,0000,,...um Saiyajin?
+Dialogue: 0,0:29:50.01,0:29:53.17,Padrão,,0000,0000,0000,,Dessa vez eu não\N vou me segurar! Prepare-se!
+Dialogue: 0,0:29:55.85,0:29:58.01,Padrão,,0000,0000,0000,,{\i1}Masenko!{\i0}!
+Dialogue: 0,0:30:08.19,0:30:10.85,Padrão,,0000,0000,0000,,O que aconteceu?
+Dialogue: 0,0:30:12.20,0:30:13.86,Padrão,,0000,0000,0000,,Para onde aquele pirralho foi?!
+Dialogue: 0,0:30:13.86,0:30:15.87,Padrão,,0000,0000,0000,,Aqui!
+Dialogue: 0,0:30:15.87,0:30:16.70,Padrão,,0000,0000,0000,,Como?!
+Dialogue: 0,0:30:21.87,0:30:23.03,Padrão,,0000,0000,0000,,Eu consegui!
+Dialogue: 0,0:30:25.71,0:30:29.20,Padrão,,0000,0000,0000,,Esse garoto é de verdade.
+Dialogue: 0,0:30:32.55,0:30:34.55,Padrão,,0000,0000,0000,,Que estranho.
+Dialogue: 0,0:30:34.55,0:30:37.89,Padrão,,0000,0000,0000,,Para onde será que\N o Dragão Haiya foi?
+Dialogue: 0,0:30:37.89,0:30:41.06,Padrão,,0000,0000,0000,,Será que ele está se\N escondendo em algum lugar?
+Dialogue: 0,0:30:41.06,0:30:42.89,Padrão,,0000,0000,0000,,Eu espero que ele esteja bem-
+Dialogue: 0,0:30:48.57,0:30:51.57,Padrão,,0000,0000,0000,,{\i1}Papai{\i0}?
+Dialogue: 0,0:30:51.57,0:30:54.73,Padrão,,0000,0000,0000,,Entendo, então você é\N o filho do Kakaroto?
+Dialogue: 0,0:30:56.91,0:30:58.07,Padrão,,0000,0000,0000,,Você não é meu pai!
+Dialogue: 0,0:31:02.85,0:31:07.18,Padrão,,0000,0000,0000,,Não é surpresa eu e\N o Kakaroto sermos parecidos.
+Dialogue: 0,0:31:07.18,0:31:11.68,Padrão,,0000,0000,0000,,Nós, soldados baixos,\N descartáveis, não somos muito diferentes.
+Dialogue: 0,0:31:15.53,0:31:17.89,Padrão,,0000,0000,0000,,Poder de luta de 10.000.
+Dialogue: 0,0:31:17.89,0:31:21.52,Padrão,,0000,0000,0000,,Já era de se esperar, tendo\N sangue de Saiyajin, como você tem.
+Dialogue: 0,0:31:22.87,0:31:24.53,Padrão,,0000,0000,0000,,Quem é você?!
+Dialogue: 0,0:31:24.53,0:31:27.54,Padrão,,0000,0000,0000,,Eu? Eu sou...
+Dialogue: 0,0:31:27.54,0:31:30.21,Padrão,,0000,0000,0000,,Um Saiyajin!
+Dialogue: 0,0:31:30.21,0:31:33.21,Padrão,,0000,0000,0000,,Sim. Meu nome é Tullece.
+Dialogue: 0,0:31:33.21,0:31:35.88,Padrão,,0000,0000,0000,,Tullece?
+Dialogue: 0,0:31:35.88,0:31:40.05,Padrão,,0000,0000,0000,,Ouça, garoto, você\N gostaria de vir comigo?
+Dialogue: 0,0:31:40.05,0:31:42.22,Padrão,,0000,0000,0000,,Nós vamos andar pelo espaço,\N por onde nós quisermos,
+Dialogue: 0,0:31:42.22,0:31:44.22,Padrão,,0000,0000,0000,,destruindo todos os\N planetas que quisermos,
+Dialogue: 0,0:31:44.22,0:31:47.22,Padrão,,0000,0000,0000,,comendo comidas deliciosas e\N bebendo vinhos deliciosos.
+Dialogue: 0,0:31:47.22,0:31:50.22,Padrão,,0000,0000,0000,,Não tem como a vida\N ficar melhor que isso.
+Dialogue: 0,0:31:54.56,0:31:56.90,Padrão,,0000,0000,0000,,Quem você acha que vai\N se juntar a você?!
+Dialogue: 0,0:31:58.57,0:32:03.17,Padrão,,0000,0000,0000,,Ei, vamos, não se apresse.
+Dialogue: 0,0:32:03.17,0:32:08.18,Padrão,,0000,0000,0000,,Nós somos uns dos poucos\N Saiyajins sobreviventes.
+Dialogue: 0,0:32:08.18,0:32:10.17,Padrão,,0000,0000,0000,,Vamos nos dar bem.
+Dialogue: 0,0:32:15.35,0:32:18.86,Padrão,,0000,0000,0000,,Esse belo planeta azul\N já está amaldiçoado
+Dialogue: 0,0:32:18.86,0:32:22.86,Padrão,,0000,0000,0000,,e vai se tornar um planeta\N seco, com cor de ferrugem.
+Dialogue: 0,0:32:22.86,0:32:29.03,Padrão,,0000,0000,0000,,É melhor você vir comigo.\N Ou você prefere morrer aqui?
+Dialogue: 0,0:32:32.70,0:32:37.04,Padrão,,0000,0000,0000,,Tem alguma coisa vindo. Poder\N de batalha de 18.000.
+Dialogue: 0,0:32:37.04,0:32:38.20,Padrão,,0000,0000,0000,,Quem é?
+Dialogue: 0,0:32:48.22,0:32:49.89,Padrão,,0000,0000,0000,,O que você quer?
+Dialogue: 0,0:32:49.89,0:32:53.56,Padrão,,0000,0000,0000,,Piccolo{\i1}-san{\i0}!
+Dialogue: 0,0:32:53.56,0:32:55.89,Padrão,,0000,0000,0000,,Tire as suas mãos do Gohan.
+Dialogue: 0,0:32:55.89,0:32:58.06,Padrão,,0000,0000,0000,,Eu sinto ter que recusar.
+Dialogue: 0,0:32:58.06,0:32:59.39,Padrão,,0000,0000,0000,,Não brinque comigo!
+Dialogue: 0,0:33:04.67,0:33:07.00,Padrão,,0000,0000,0000,,- Piccolo{\i1}-san{\i0}!\N - Você está bem?
+Dialogue: 0,0:33:07.00,0:33:08.33,Padrão,,0000,0000,0000,,Sim.
+Dialogue: 0,0:33:26.02,0:33:29.86,Padrão,,0000,0000,0000,,Você deveria levar sua vida\N como um Saiyajin de verdade.
+Dialogue: 0,0:33:31.86,0:33:35.35,Padrão,,0000,0000,0000,,Do contrário, essa sua\N bela cauda vai apodrecer.
+Dialogue: 0,0:33:42.04,0:33:46.54,Padrão,,0000,0000,0000,,Me deixe mostrar\N como usá-la corretamente.
+Dialogue: 0,0:33:46.54,0:33:48.88,Padrão,,0000,0000,0000,,Isso vai fazê-lo perceber
+Dialogue: 0,0:33:48.88,0:33:51.87,Padrão,,0000,0000,0000,,o quão Saiyajin você é!
+Dialogue: 0,0:34:03.33,0:34:05.50,Padrão,,0000,0000,0000,,Você sabe o que é isso?
+Dialogue: 0,0:34:05.50,0:34:07.16,Padrão,,0000,0000,0000,,É a lua.
+Dialogue: 0,0:34:11.84,0:34:13.67,Padrão,,0000,0000,0000,,Abra-se e una-se!
+Dialogue: 0,0:34:31.69,0:34:35.35,Padrão,,0000,0000,0000,,Garoto, mostre-me seu\N poder de Saiyajin!
+Dialogue: 0,0:34:44.20,0:34:45.53,Padrão,,0000,0000,0000,,Não olhe, Gohan!
+Dialogue: 0,0:35:08.16,0:35:10.99,Padrão,,0000,0000,0000,,Não posso arriscar me\N tornar um macaco também.
+Dialogue: 0,0:35:10.99,0:35:15.67,Padrão,,0000,0000,0000,,Mas os efeitos da minha bola de\N energia não vão durar muito tempo.
+Dialogue: 0,0:35:15.67,0:35:19.16,Padrão,,0000,0000,0000,,Agora, mostre-me sua verdadeira forma.
+Dialogue: 0,0:35:23.84,0:35:25.14,Padrão,,0000,0000,0000,,Deixe o meu Gohan em paz!
+Dialogue: 0,0:35:27.84,0:35:29.33,Padrão,,0000,0000,0000,,Morra!
+Dialogue: 0,0:35:46.03,0:35:47.19,Padrão,,0000,0000,0000,,Vocês...
+Dialogue: 0,0:35:48.53,0:35:50.19,Padrão,,0000,0000,0000,,...estão no meu caminho!
+Dialogue: 0,0:36:09.82,0:36:10.98,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:36:13.49,0:36:14.32,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:36:15.83,0:36:16.81,Padrão,,0000,0000,0000,,{\i1}Kaio-ken{\i0}!
+Dialogue: 0,0:36:32.51,0:36:33.50,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:36:51.53,0:36:54.86,Padrão,,0000,0000,0000,,As crianças matam os pais.\N Assim são os Saiyajins.
+Dialogue: 0,0:36:54.86,0:36:57.53,Padrão,,0000,0000,0000,,Kakaroto, após a sua morte,
+Dialogue: 0,0:36:57.53,0:37:00.54,Padrão,,0000,0000,0000,,eu vou cuidar do seu\N garoto, não se preocupe.
+Dialogue: 0,0:37:00.54,0:37:02.80,Padrão,,0000,0000,0000,,Son! Corte o rabo dele!
+Dialogue: 0,0:37:07.48,0:37:09.55,Padrão,,0000,0000,0000,,- Piccolo!\N - Não interfira!
+Dialogue: 0,0:37:09.55,0:37:11.48,Padrão,,0000,0000,0000,,Você não sabe quando morrer!
+Dialogue: 0,0:37:35.84,0:37:38.00,Padrão,,0000,0000,0000,,Gohan! Gohan!
+Dialogue: 0,0:38:04.13,0:38:06.97,Padrão,,0000,0000,0000,,Esmague ele nas pedras como um inseto!
+Dialogue: 0,0:39:11.97,0:39:13.47,Padrão,,0000,0000,0000,,Por que alguém como você,
+Dialogue: 0,0:39:13.47,0:39:16.97,Padrão,,0000,0000,0000,,que herdou o sangue dos mais\N poderosos guerreiros, os Saiyajins,
+Dialogue: 0,0:39:16.97,0:39:20.64,Padrão,,0000,0000,0000,,mostra piedade a uma forma\N inferior de vida como essa?
+Dialogue: 0,0:39:22.81,0:39:28.15,Padrão,,0000,0000,0000,,O Gohan e eu não somos\N Saiyajins! Nós somos terráqueos!
+Dialogue: 0,0:39:28.15,0:39:30.14,Padrão,,0000,0000,0000,,Você tem certeza?
+Dialogue: 0,0:39:47.17,0:39:48.16,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:39:52.18,0:39:55.51,Padrão,,0000,0000,0000,,E agora? Vai continuar dizendo\N que ele não é um Saiyajin?
+Dialogue: 0,0:40:06.36,0:40:08.85,Padrão,,0000,0000,0000,,Seu tolo! Você acha\N que pode me enfrentar?!
+Dialogue: 0,0:40:13.53,0:40:16.70,Padrão,,0000,0000,0000,,Parece que eu fui muito otimista
+Dialogue: 0,0:40:16.70,0:40:19.69,Padrão,,0000,0000,0000,,na minha ideia de levar\N o filho do Kakaroto comigo.
+Dialogue: 0,0:40:22.87,0:40:24.20,Padrão,,0000,0000,0000,,Morra!
+Dialogue: 0,0:40:25.21,0:40:26.70,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:40:51.57,0:40:53.87,Padrão,,0000,0000,0000,,Papai...
+Dialogue: 0,0:40:55.41,0:40:59.40,Padrão,,0000,0000,0000,,Papai, proteja a Terra...
+Dialogue: 0,0:41:01.24,0:41:02.34,Padrão,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:41:04.01,0:41:08.51,Padrão,,0000,0000,0000,,Eu não sei sobre a Terra, mas\N ao menos você eu irei proteger!
+Dialogue: 0,0:41:09.85,0:41:14.19,Padrão,,0000,0000,0000,,E eu vou derrotar aquele\N cara, custe o que custar!
+Dialogue: 0,0:42:12.85,0:42:16.19,Padrão,,0000,0000,0000,,Kakaroto, você é uma desgraça\N para a raça dos Saiyajins!
+Dialogue: 0,0:42:16.19,0:42:20.19,Padrão,,0000,0000,0000,,Eu não me chamo Kakaroro!\N Meu nome é Son Goku!
+Dialogue: 0,0:42:20.19,0:42:24.52,Padrão,,0000,0000,0000,,Tullece-{\i1}sama,{\i0} por favor,\N permita que nós cuidemos dele.
+Dialogue: 0,0:42:30.37,0:42:36.53,Padrão,,0000,0000,0000,,Aqueles caras lutavam muito bem, mas\N mesmo assim não eram páreo para nós.
+Dialogue: 0,0:42:42.21,0:42:44.71,Padrão,,0000,0000,0000,,Foi por pouco da outra vez.
+Dialogue: 0,0:42:44.71,0:42:47.05,Padrão,,0000,0000,0000,,Vocês não interfiram!
+Dialogue: 0,0:42:47.05,0:42:49.54,Padrão,,0000,0000,0000,,Não nos subestime!
+Dialogue: 0,0:43:05.84,0:43:08.83,Padrão,,0000,0000,0000,,Você deve gostar de ficar\N só assistindo, não é?!
+Dialogue: 0,0:43:26.19,0:43:27.92,Padrão,,0000,0000,0000,,Isso doeu um pouco.
+Dialogue: 0,0:43:35.20,0:43:37.19,Padrão,,0000,0000,0000,,Vocês estão no caminho!
+Dialogue: 0,0:43:56.22,0:44:00.06,Padrão,,0000,0000,0000,,Kakaroto, se você se\N ajoelhar e me pedir desculpas,
+Dialogue: 0,0:44:00.06,0:44:04.33,Padrão,,0000,0000,0000,,eu vou permitir que você e\N seu filho se juntem a mim.
+Dialogue: 0,0:44:04.33,0:44:07.33,Padrão,,0000,0000,0000,,Eu já te disse! Meu nome é Son Goku!
+Dialogue: 0,0:44:07.33,0:44:11.17,Padrão,,0000,0000,0000,,Eu já comi muitas vezes o\N fruto da árvore {\i1}Shinseiju{\i0}.
+Dialogue: 0,0:44:11.17,0:44:13.00,Padrão,,0000,0000,0000,,Você acha que pode me derrotar?
+Dialogue: 0,0:44:15.50,0:44:19.51,Padrão,,0000,0000,0000,,A diferença nos nossos poderes é como a\N diferença entre o céu e o inferno.
+Dialogue: 0,0:44:19.51,0:44:21.98,Padrão,,0000,0000,0000,,Você não pode dizer isso\N antes de me enfrentar!
+Dialogue: 0,0:45:02.39,0:45:07.16,Padrão,,0000,0000,0000,,Eu estou realmente feliz por ter batido\N com a cabeça quando era bebê!
+Dialogue: 0,0:45:07.16,0:45:10.15,Padrão,,0000,0000,0000,,Já que graças a isso eu\N pude crescer diferente de você!
+Dialogue: 0,0:45:12.83,0:45:16.83,Padrão,,0000,0000,0000,,Eu não posso deixar você\N fazer o que quiser!
+Dialogue: 0,0:45:16.83,0:45:19.49,Padrão,,0000,0000,0000,,Poder de batalha de 30.000!
+Dialogue: 0,0:45:28.51,0:45:32.00,Padrão,,0000,0000,0000,,{\i1}O que é esse cara? O poder\N de batalha dele é surpreendente{\i0}!
+Dialogue: 0,0:45:58.87,0:46:00.97,Padrão,,0000,0000,0000,,Eu ganhei.
+Dialogue: 0,0:46:25.17,0:46:29.84,Padrão,,0000,0000,0000,,Você não é páreo para mim\N com esse poder de batalha.
+Dialogue: 0,0:46:29.84,0:46:32.51,Padrão,,0000,0000,0000,,Eu vou abrir uma cova para\N você no meio deste planeta,
+Dialogue: 0,0:46:32.51,0:46:34.84,Padrão,,0000,0000,0000,,quando ele se tornar um deserto.
+Dialogue: 0,0:46:38.85,0:46:43.34,Padrão,,0000,0000,0000,,É o mínimo que eu posso fazer\N por você, meu irmão Saiyajin.
+Dialogue: 0,0:46:50.36,0:46:52.53,Padrão,,0000,0000,0000,,Esse é todo o seu poder?!
+Dialogue: 0,0:46:52.53,0:46:55.02,Padrão,,0000,0000,0000,,Tente me divertir um pouco mais!
+Dialogue: 0,0:46:56.87,0:47:01.13,Padrão,,0000,0000,0000,,{\i1}Kaio-ken...\N multiplicado dez vezes{\i0}!
+Dialogue: 0,0:47:21.09,0:47:23.16,Padrão,,0000,0000,0000,,Ajoelhe-se...
+Dialogue: 0,0:47:23.16,0:47:26.16,Padrão,,0000,0000,0000,,Se você se ajoelhar e implorar\N pela sua vida, eu vou perdoá-lo.
+Dialogue: 0,0:47:26.16,0:47:32.44,Padrão,,0000,0000,0000,,Eu prometi ao Gohan...\N Eu não vou perder...
+Dialogue: 0,0:47:32.44,0:47:33.84,Padrão,,0000,0000,0000,,O que vai ser, Kakaroto?
+Dialogue: 0,0:47:33.84,0:47:37.51,Padrão,,0000,0000,0000,,Meu nome é... Son Goku!
+Dialogue: 0,0:47:37.51,0:47:39.57,Padrão,,0000,0000,0000,,Se é assim, morra!
+Dialogue: 0,0:47:55.36,0:47:59.70,Padrão,,0000,0000,0000,,Afinal, você não passa de um guerreiro\N de nível inferior. Uma desgraça.
+Dialogue: 0,0:47:59.70,0:48:01.96,Padrão,,0000,0000,0000,,Mas eu não sou como você.
+Dialogue: 0,0:48:01.96,0:48:03.13,Padrão,,0000,0000,0000,,Usando os frutos da\N árvore {\i1}Shinseiju{\i0},
+Dialogue: 0,0:48:03.13,0:48:06.12,Padrão,,0000,0000,0000,,eu vou fazer ajoelhar todo o universo!
+Dialogue: 0,0:48:15.11,0:48:19.82,Padrão,,0000,0000,0000,,{\i1}Goku... a Genki Dama...{\i0}
+Dialogue: 0,0:48:19.82,0:48:23.49,Padrão,,0000,0000,0000,,{\i1}Acerte ele com\N a Genki Dama...{\i0}
+Dialogue: 0,0:48:23.49,0:48:26.99,Padrão,,0000,0000,0000,,{\i1}Piccolo... Yamcha...{\i0}
+Dialogue: 0,0:48:26.99,0:48:31.83,Padrão,,0000,0000,0000,,{\i1}Eu não posso... eu\N não tenho mais forças...{\i0}
+Dialogue: 0,0:48:31.83,0:48:37.67,Padrão,,0000,0000,0000,,{\i1}Goku... não se esqueça,\N eu também estou aqui...{\i0}
+Dialogue: 0,0:48:37.67,0:48:40.17,Padrão,,0000,0000,0000,,{\i1}Eu também...{\i0}
+Dialogue: 0,0:48:40.17,0:48:43.51,Padrão,,0000,0000,0000,,{\i1}Kuririn... Chaos...{\i0}
+Dialogue: 0,0:48:43.51,0:48:47.84,Padrão,,0000,0000,0000,,{\i1}Eu também ainda estou vivo{\i0}!
+Dialogue: 0,0:48:47.84,0:48:50.68,Padrão,,0000,0000,0000,,{\i1}Papai...{\i0}
+Dialogue: 0,0:48:50.68,0:48:52.01,Padrão,,0000,0000,0000,,{\i1}Gohan{\i0}!
+Dialogue: 0,0:48:55.85,0:48:57.68,Padrão,,0000,0000,0000,,Pessoal...
+Dialogue: 0,0:49:08.30,0:49:10.63,Padrão,,0000,0000,0000,,Você ainda está vivo?
+Dialogue: 0,0:49:14.30,0:49:16.13,Padrão,,0000,0000,0000,,Você {\i1}é mesmo{\i0} persistente.
+Dialogue: 0,0:49:20.31,0:49:23.15,Padrão,,0000,0000,0000,,A terra...
+Dialogue: 0,0:49:23.15,0:49:25.81,Padrão,,0000,0000,0000,,Os mares...
+Dialogue: 0,0:49:25.81,0:49:26.97,Padrão,,0000,0000,0000,,Os céus...
+Dialogue: 0,0:49:30.82,0:49:35.82,Padrão,,0000,0000,0000,,...todos os seres\N vivos deste planeta...
+Dialogue: 0,0:49:35.82,0:49:38.49,Padrão,,0000,0000,0000,,...dividam seu {\i1}Genki{\i0} comigo!
+Dialogue: 0,0:49:38.49,0:49:41.99,Padrão,,0000,0000,0000,,Pelo seu próprio bem...\N pelo bem da Terra...
+Dialogue: 0,0:49:43.83,0:49:47.17,Padrão,,0000,0000,0000,,...me deem seu {\i1}Genki{\i0}!
+Dialogue: 0,0:49:49.84,0:49:51.17,Padrão,,0000,0000,0000,,Kakaroto?
+Dialogue: 0,0:50:06.86,0:50:08.35,Padrão,,0000,0000,0000,,Saia da frente!
+Dialogue: 0,0:50:42.56,0:50:43.72,Padrão,,0000,0000,0000,,Está pronta!
+Dialogue: 0,0:50:49.90,0:50:52.74,Padrão,,0000,0000,0000,,Como?
+Dialogue: 0,0:50:52.74,0:50:57.73,Padrão,,0000,0000,0000,,Você não vai sair\N impune! Tullece, tome isso!
+Dialogue: 0,0:51:22.70,0:51:27.04,Padrão,,0000,0000,0000,,A energia {\i1}Genki{\i0} da Terra foi\N absorvida pela árvore {\i1}Shinseiju{\i0},
+Dialogue: 0,0:51:27.04,0:51:30.21,Padrão,,0000,0000,0000,,então a {\i1}Genki{\i0} da {\i1}Genki\N Dama{\i0} não foi suficiente.
+Dialogue: 0,0:51:30.21,0:51:32.87,Padrão,,0000,0000,0000,,Está tudo acabado agora...
+Dialogue: 0,0:51:40.88,0:51:43.88,Padrão,,0000,0000,0000,,Com tudo isso, eu não\N preciso temer mais nada.
+Dialogue: 0,0:52:49.22,0:52:53.21,Padrão,,0000,0000,0000,,Tão quente... o que é isso?
+Dialogue: 0,0:53:10.84,0:53:12.83,Padrão,,0000,0000,0000,,Son...
+Dialogue: 0,0:53:14.18,0:53:19.34,Padrão,,0000,0000,0000,,O Goku está reunindo o\N {\i1}Ki{\i0} da {\i1}Shinseiju...{\i0}
+Dialogue: 0,0:53:46.21,0:53:47.87,Padrão,,0000,0000,0000,,Tão quente...
+Dialogue: 0,0:53:55.55,0:53:56.71,Padrão,,0000,0000,0000,,Tullece!
+Dialogue: 0,0:54:03.83,0:54:06.16,Padrão,,0000,0000,0000,,Kakaroto, você ainda está aqui?!
+Dialogue: 0,0:54:06.16,0:54:09.15,Padrão,,0000,0000,0000,,Você não vai escapar.
+Dialogue: 0,0:57:22.82,0:57:24.66,Padrão,,0000,0000,0000,,Dragão Haiya!
+Dialogue: 0,0:57:26.33,0:57:31.49,Padrão,,0000,0000,0000,,Já que a {\i1}Shinseiju{\i0} está\N morrendo, a Terra pode ser poupada.
+Dialogue: 0,0:57:32.83,0:57:37.17,Padrão,,0000,0000,0000,,Graças à {\i1}Shinseiju{\i0} ter compartilhado\N sua energia com o Son Goku,
+Dialogue: 0,0:57:37.17,0:57:41.84,Padrão,,0000,0000,0000,,a mesma {\i1}Shinseiju{\i0} que havia\N absorvido a energia da Terra,
+Dialogue: 0,0:57:41.84,0:57:45.51,Padrão,,0000,0000,0000,,foi graças a isso que ele foi capaz\N de criar uma super {\i1}Genki Dama.{\i0}
+Dialogue: 0,0:57:45.51,0:57:52.85,Padrão,,0000,0000,0000,,E com essa massa de nutrientes\N  agora caindo como uma chuva,
+Dialogue: 0,0:57:52.85,0:57:57.85,Padrão,,0000,0000,0000,,todos os seres vivos estão\N recuperando suas energias.
+Dialogue: 0,0:58:33.50,0:58:36.50,Padrão,,0000,0000,0000,,Son{\i1}-kun,{\i0} foi mesmo bom\N você ter batido a cabeça
+Dialogue: 0,0:58:36.50,0:58:38.50,Padrão,,0000,0000,0000,,quando era um bebê, não foi?
+Dialogue: 0,0:58:38.50,0:58:40.00,Padrão,,0000,0000,0000,,Com certeza.
+Dialogue: 0,0:58:40.00,0:58:42.84,Padrão,,0000,0000,0000,,Do contrário, você podia\N ter se juntado ao Tullece
+Dialogue: 0,0:58:42.84,0:58:45.83,Padrão,,0000,0000,0000,,para destruir o universo.
+Dialogue: 0,0:58:47.18,0:58:51.51,Padrão,,0000,0000,0000,,E como resultado, eu\N ainda tenho a cicatriz.
+Dialogue: 0,0:58:51.51,0:58:55.18,Padrão,,0000,0000,0000,,Ei, Dragão Haiya, eu soube que você\N foi muito importante na coisa toda.
+Dialogue: 0,0:58:55.18,0:58:58.35,Padrão,,0000,0000,0000,,Você tem muita coragem, não tem?
+Dialogue: 0,0:59:00.69,0:59:05.46,Padrão,,0000,0000,0000,,Esse cara é igual ao Piccolo! Ele\N só baixa a guarda perto do Gohan!
+Dialogue: 0,0:59:05.46,0:59:07.62,Padrão,,0000,0000,0000,,Essa foi por pouco, por pouco!
