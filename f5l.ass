@@ -1,0 +1,481 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Brush Script Std,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:09.53,fonte legenda,,0000,0000,0000,,Agora, tudo vai mudar!
+Dialogue: 0,0:00:11.46,0:00:14.50,fonte legenda,,0000,0000,0000,,Meu próprio destino...
+Dialogue: 0,0:00:14.53,0:00:17.66,fonte legenda,,0000,0000,0000,,...o de Kakarotto...
+Dialogue: 0,0:00:17.70,0:00:23.26,fonte legenda,,0000,0000,0000,,...e o seu também!
+Dialogue: 0,0:00:28.60,0:00:32.80,fonte legenda,,0000,0000,0000,,Sabendo que Freeza planejava\Nexterminar todos os Saiya-jins,
+Dialogue: 0,0:00:32.83,0:00:37.53,fonte legenda,,0000,0000,0000,,junto com o planeta Vegeta,
+Dialogue: 0,0:00:37.56,0:00:48.16,fonte legenda,,0000,0000,0000,,Bardock, o pai de Goku, enfrentou\Nsozinho e com determinação Freeza.
+Dialogue: 0,0:00:52.80,0:00:55.10,fonte legenda,,0000,0000,0000,,Enquanto isso,
+Dialogue: 0,0:00:55.13,0:00:59.33,fonte legenda,,0000,0000,0000,,uma nave espacial carregando o recém\Nnascido guerreiro de classe baixa Goku
+Dialogue: 0,0:00:59.36,0:01:06.13,fonte legenda,,0000,0000,0000,,foi lançada em direção à Terra.
+Dialogue: 0,0:01:10.86,0:01:13.46,fonte legenda,,0000,0000,0000,,Este será o seu fim!
+Dialogue: 0,0:01:18.90,0:01:20.00,fonte legenda,,0000,0000,0000,,O-O quê!?
+Dialogue: 0,0:01:36.50,0:01:40.16,fonte legenda,,0000,0000,0000,,Este é o fim dos Saiya-jins, então?
+Dialogue: 0,0:01:40.20,0:01:44.00,fonte legenda,,0000,0000,0000,,É. Freeza-sama é brilhante.
+Dialogue: 0,0:01:44.03,0:01:50.30,fonte legenda,,0000,0000,0000,,O que é aquela cápsula?\NConfirmação no monitor!
+Dialogue: 0,0:01:54.36,0:01:57.00,fonte legenda,,0000,0000,0000,,É um garoto Saiya-jin!
+Dialogue: 0,0:01:57.03,0:02:01.63,fonte legenda,,0000,0000,0000,,Ele está seguindo para o planeta\NTerra, bem longe daqui.
+Dialogue: 0,0:02:01.66,0:02:02.76,fonte legenda,,0000,0000,0000,,Devo derrubá-lo?
+Dialogue: 0,0:02:02.80,0:02:03.26,fonte legenda,,0000,0000,0000,,Sim.
+Dialogue: 0,0:02:03.30,0:02:05.43,fonte legenda,,0000,0000,0000,,Não dêem importância.
+Dialogue: 0,0:02:08.56,0:02:10.90,fonte legenda,,0000,0000,0000,,Esta zona foi confiada a Freeza.
+Dialogue: 0,0:02:10.93,0:02:12.60,fonte legenda,,0000,0000,0000,,Isso é problema dele.
+Dialogue: 0,0:02:12.66,0:02:14.40,fonte legenda,,0000,0000,0000,,Deixem ele mesmo cuidar disso.
+Dialogue: 0,0:02:17.23,0:02:21.50,fonte legenda,,0000,0000,0000,,Ainda temos que dominar mais\Nsete planetas antes do fim do dia.
+Dialogue: 0,0:02:24.93,0:02:31.36,fonte legenda,,0000,0000,0000,,Entretanto, mesmo sendo um bebê,\Nnão acredito que um Saiya-jin escapou...
+Dialogue: 0,0:02:31.40,0:02:37.03,fonte legenda,,0000,0000,0000,,O plano para exterminar os Saiya-jins\Ne tomar o controle desse distrito
+Dialogue: 0,0:02:37.06,0:02:41.53,fonte legenda,,0000,0000,0000,,estava muito atrasado graças\Nà ambição de Freeza!
+Dialogue: 0,0:02:43.90,0:02:47.36,fonte legenda,,0000,0000,0000,,Freeza ainda é muito, muito descuidado.
+Dialogue: 0,0:03:02.06,0:03:10.26,legenda para anuncio de episódio e creditos,,0000,0000,0000,,OS GRANDES RIVAIS.\NLEGENDA: MAZZOCATO\NEDIÇÃO: HUGOKAMUS
+Dialogue: 0,0:03:23.26,0:03:28.36,legenda para abertura e encerramento,,0000,0000,0000,,Passe pelas nuvens brilhantes\Ne Fly Away (Fly Away)
+Dialogue: 0,0:03:28.40,0:03:35.46,legenda para abertura e encerramento,,0000,0000,0000,,Como um panorama que\Nse espalha por todo o meu ser
+Dialogue: 0,0:03:35.50,0:03:40.86,legenda para abertura e encerramento,,0000,0000,0000,,A Terra em seu rosto\Nferido se enfurece (enfurece)
+Dialogue: 0,0:03:40.90,0:03:47.50,legenda para abertura e encerramento,,0000,0000,0000,,E faz um vulcão explodir
+Dialogue: 0,0:03:47.56,0:03:54.16,legenda para abertura e encerramento,,0000,0000,0000,,E bem no fundo derretendo o gelo
+Dialogue: 0,0:03:54.20,0:04:03.00,legenda para abertura e encerramento,,0000,0000,0000,,eu acho um dinossauro, quero\Nensiná-lo a se equilibrar sobre uma bola
+Dialogue: 0,0:04:03.03,0:04:06.60,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD CHA-LA
+Dialogue: 0,0:04:06.63,0:04:15.53,legenda para abertura e encerramento,,0000,0000,0000,,Não importa o que aconteça\Nsinto como se nada pudesse me incomodar
+Dialogue: 0,0:04:15.56,0:04:19.36,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD CHA-LA
+Dialogue: 0,0:04:19.40,0:04:24.93,legenda para abertura e encerramento,,0000,0000,0000,,Meu coração está batendo tão forte,\Na Genki-Dama irá rugir!
+Dialogue: 0,0:04:25.00,0:04:28.43,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD CHA-LA
+Dialogue: 0,0:04:28.50,0:04:37.40,legenda para abertura e encerramento,,0000,0000,0000,,Quanto mais vazia sua cabeça é,\Nmais espaço tem para preencher com sonhos
+Dialogue: 0,0:04:37.43,0:04:40.96,legenda para abertura e encerramento,,0000,0000,0000,,CHA-LA HEAD CHA-LA
+Dialogue: 0,0:04:41.00,0:04:48.00,legenda para abertura e encerramento,,0000,0000,0000,,Com uma cara alegre e um Ultra-Z,\Nhoje está ai-yai-yai-yai-yai...
+Dialogue: 0,0:04:48.03,0:04:50.83,legenda para abertura e encerramento,,0000,0000,0000,,Sparking!
+Dialogue: 0,0:05:10.40,0:05:13.36,fonte legenda,,0000,0000,0000,,Goku! Já chega de tanto treino!
+Dialogue: 0,0:05:13.40,0:05:16.80,fonte legenda,,0000,0000,0000,,Não, mestre, ainda tenho que treinar mais!
+Dialogue: 0,0:05:19.73,0:05:26.33,fonte legenda,,0000,0000,0000,,Goku ficou ainda mais forte\Ndesde que voltou de Namekusei.
+Dialogue: 0,0:05:34.76,0:05:41.70,fonte legenda,,0000,0000,0000,,Huh, primeiro assim...
+Dialogue: 0,0:05:41.76,0:05:45.70,fonte legenda,,0000,0000,0000,,Gohan-chan, está tudo tranqüilo, hein?
+Dialogue: 0,0:05:45.76,0:05:48.06,fonte legenda,,0000,0000,0000,,Ah, você veio aqui de novo!?
+Dialogue: 0,0:05:48.10,0:05:50.73,fonte legenda,,0000,0000,0000,,Não pode ficar! Gohan-chan está...
+Dialogue: 0,0:05:50.76,0:05:55.73,fonte legenda,,0000,0000,0000,,Grande Dragão!\NNão atrapalhe os estudos de Gohan!
+Dialogue: 0,0:05:55.76,0:06:00.50,fonte legenda,,0000,0000,0000,,Quê!? Goku-san realmente disse para ele\Nnão atrapalhar seus estudos?
+Dialogue: 0,0:06:01.36,0:06:04.00,fonte legenda,,0000,0000,0000,,Goku-san!\NVocê está com febre ou algo do gênero!?
+Dialogue: 0,0:06:04.03,0:06:07.00,fonte legenda,,0000,0000,0000,,Não, não estou com febre!
+Dialogue: 0,0:06:07.03,0:06:11.00,fonte legenda,,0000,0000,0000,,Não, Goku-san.\NTenho certeza de que você não está bem!
+Dialogue: 0,0:06:11.06,0:06:14.36,fonte legenda,,0000,0000,0000,,Já disse que não tenho nada!\NGohan, se apresse por aí!
+Dialogue: 0,0:06:14.40,0:06:18.70,fonte legenda,,0000,0000,0000,,Isso é realmente estranho!\NGoku-san falando para você estudar...
+Dialogue: 0,0:06:18.73,0:06:21.56,fonte legenda,,0000,0000,0000,,Ele não havia dito\Nisso nenhuma vez antes!
+Dialogue: 0,0:06:25.73,0:06:32.36,fonte legenda,,0000,0000,0000,,Você não acha que Goku-san\Nficou louco por ter lutado tanto?
+Dialogue: 0,0:06:32.40,0:06:36.03,fonte legenda,,0000,0000,0000,,É isso! É isso com certeza!
+Dialogue: 0,0:06:40.06,0:06:42.46,fonte legenda,,0000,0000,0000,,Goku-san finalmente...
+Dialogue: 0,0:06:46.43,0:06:49.03,fonte legenda,,0000,0000,0000,,Não pode ser...
+Dialogue: 0,0:06:49.10,0:06:51.73,fonte legenda,,0000,0000,0000,,Gohan! Faça logo a sua lição!
+Dialogue: 0,0:06:51.76,0:06:53.73,fonte legenda,,0000,0000,0000,,Goku-san...
+Dialogue: 0,0:06:53.76,0:06:55.73,fonte legenda,,0000,0000,0000,,...por favor, seja forte!
+Dialogue: 0,0:06:55.76,0:06:59.06,fonte legenda,,0000,0000,0000,,Goku-san!
+Dialogue: 0,0:06:59.10,0:07:02.66,fonte legenda,,0000,0000,0000,,Gohan!\NTermine logo para a gente ir acampar!
+Dialogue: 0,0:07:02.70,0:07:06.33,fonte legenda,,0000,0000,0000,,Chi-Chi, o que está fazendo?
+Dialogue: 0,0:07:06.36,0:07:10.33,fonte legenda,,0000,0000,0000,,Então era isso, hein?\NEu fui tola por me preocupar.
+Dialogue: 0,0:07:10.36,0:07:13.40,fonte legenda,,0000,0000,0000,,Hm? Gohan, termine logo a lição!
+Dialogue: 0,0:07:13.43,0:07:15.66,fonte legenda,,0000,0000,0000,,Não podemos fazer todos esperarem.
+Dialogue: 0,0:07:15.73,0:07:17.06,fonte legenda,,0000,0000,0000,,Todos?
+Dialogue: 0,0:07:19.73,0:07:21.33,fonte legenda,,0000,0000,0000,,Olá!
+Dialogue: 0,0:07:21.40,0:07:24.36,fonte legenda,,0000,0000,0000,,Goku-san, como você é...!
+Dialogue: 0,0:07:24.40,0:07:27.03,fonte legenda,,0000,0000,0000,,Entre acampar e estudar,\Nqual é mais importante?
+Dialogue: 0,0:07:27.06,0:07:28.63,fonte legenda,,0000,0000,0000,,E não é óbvio!?
+Dialogue: 0,0:07:32.73,0:07:36.03,fonte legenda,,0000,0000,0000,,A resposta é acampar!
+Dialogue: 0,0:07:50.10,0:07:57.03,fonte legenda,,0000,0000,0000,,O quê!? Freeza, que tinha nosso glorioso\Nsangue, foi morto por um Saiya-jin!?
+Dialogue: 0,0:07:57.10,0:08:01.00,fonte legenda,,0000,0000,0000,,S-sim. É difícil de acreditar,
+Dialogue: 0,0:08:01.03,0:08:06.00,fonte legenda,,0000,0000,0000,,mas um Saiya-jin vindo da Terra, chamado\NSon Goku ou algo assim, o derrotou.
+Dialogue: 0,0:08:06.03,0:08:08.23,fonte legenda,,0000,0000,0000,,Freeza, seu maldito idiota!
+Dialogue: 0,0:08:08.26,0:08:12.90,fonte legenda,,0000,0000,0000,,Sempre soube que você era flexível, mas\Nser vencido por um mero macaco?
+Dialogue: 0,0:08:19.03,0:08:22.66,fonte legenda,,0000,0000,0000,,Espero que não seja\Num Super Saiya-jin... - Sauzer!
+Dialogue: 0,0:08:24.06,0:08:26.36,fonte legenda,,0000,0000,0000,,Vamos para a Terra imediatamente!
+Dialogue: 0,0:08:26.40,0:08:30.43,fonte legenda,,0000,0000,0000,,Eu vou exterminar o Saiya-jin,\Ne destruir o planeta completamente!
+Dialogue: 0,0:08:32.73,0:08:34.86,fonte legenda,,0000,0000,0000,,Como fizemos com este aqui!
+Dialogue: 0,0:08:48.40,0:08:50.36,fonte legenda,,0000,0000,0000,,Que cheiro bom!
+Dialogue: 0,0:08:50.40,0:08:53.70,fonte legenda,,0000,0000,0000,,Curry fica melhor ainda quando acampamos!
+Dialogue: 0,0:08:53.73,0:08:57.03,fonte legenda,,0000,0000,0000,,Tudo que falta é fritar o\Npeixe que o Goku vai trazer.
+Dialogue: 0,0:08:57.10,0:08:59.06,fonte legenda,,0000,0000,0000,,Gohan, busque lenha, por favor?
+Dialogue: 0,0:08:59.10,0:08:59.53,fonte legenda,,0000,0000,0000,,Sim!
+Dialogue: 0,0:09:03.36,0:09:06.43,fonte legenda,,0000,0000,0000,,Está pronto!
+Dialogue: 0,0:09:34.06,0:09:38.06,fonte legenda,,0000,0000,0000,,Com um enorme assim, dá pra todos,\Naté para o estomago gigante do Oolong!
+Dialogue: 0,0:09:43.40,0:09:46.70,fonte legenda,,0000,0000,0000,,Aqui, Kuririn-san!
+Dialogue: 0,0:09:46.73,0:09:50.36,fonte legenda,,0000,0000,0000,,Ótimo, deixe aí para mim.
+Dialogue: 0,0:09:50.40,0:09:51.13,fonte legenda,,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:09:53.40,0:09:56.03,fonte legenda,,0000,0000,0000,,Hey, o quê? O que é isso?
+Dialogue: 0,0:10:07.70,0:10:08.83,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:10:10.70,0:10:12.60,fonte legenda,,0000,0000,0000,,Kuririn-
+Dialogue: 0,0:10:18.70,0:10:19.70,fonte legenda,,0000,0000,0000,,-san...
+Dialogue: 0,0:10:24.36,0:10:27.33,fonte legenda,,0000,0000,0000,,Isso é um Super Saiya-jin?
+Dialogue: 0,0:10:27.36,0:10:30.66,fonte legenda,,0000,0000,0000,,Seu poder de luta é de apenas 50.
+Dialogue: 0,0:10:30.70,0:10:34.66,fonte legenda,,0000,0000,0000,,Mesmo com o fato de que Ore está\Nsegurando sua cauda, é um número patético.
+Dialogue: 0,0:10:34.70,0:10:37.00,fonte legenda,,0000,0000,0000,,Hey, hey, hey!
+Dialogue: 0,0:10:37.06,0:10:41.00,fonte legenda,,0000,0000,0000,,Unh, o que está fazendo!?
+Dialogue: 0,0:10:41.06,0:10:44.03,fonte legenda,,0000,0000,0000,,Vamos sair daqui, agora!
+Dialogue: 0,0:10:44.06,0:10:45.70,fonte legenda,,0000,0000,0000,,Hey, pare! Pare com isso!
+Dialogue: 0,0:10:45.73,0:10:49.66,fonte legenda,,0000,0000,0000,,Espere!
+Dialogue: 0,0:10:50.40,0:10:52.70,fonte legenda,,0000,0000,0000,,Quem é você!?
+Dialogue: 0,0:10:52.73,0:10:56.36,fonte legenda,,0000,0000,0000,,Sou Son Goku! Deixe o Gohan em paz!
+Dialogue: 0,0:10:56.40,0:11:00.63,fonte legenda,,0000,0000,0000,,Son Goku? Isso significa que\Nvocê derrotou o Freeza-sama?
+Dialogue: 0,0:11:00.66,0:11:03.86,fonte legenda,,0000,0000,0000,,Então, é você?
+Dialogue: 0,0:11:05.33,0:11:08.30,fonte legenda,,0000,0000,0000,,Não tem um grande poder de luta.
+Dialogue: 0,0:11:08.33,0:11:11.63,fonte legenda,,0000,0000,0000,,Ele provavelmente aumenta\Nmomentaneamente seu poder.
+Dialogue: 0,0:11:11.70,0:11:15.30,fonte legenda,,0000,0000,0000,,Saberemos assim que o testarmos.
+Dialogue: 0,0:11:15.36,0:11:18.00,fonte legenda,,0000,0000,0000,,E quem são vocês?
+Dialogue: 0,0:11:18.03,0:11:19.76,fonte legenda,,0000,0000,0000,,As Forças Armadas de Koola!!
+Dialogue: 0,0:11:22.36,0:11:24.10,fonte legenda,,0000,0000,0000,,Gohan! Cuide do Kuririn!
+Dialogue: 0,0:11:26.36,0:11:27.53,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:11:38.36,0:11:41.33,fonte legenda,,0000,0000,0000,,Kuririn-san! Kuririn-san!
+Dialogue: 0,0:11:41.36,0:11:43.86,fonte legenda,,0000,0000,0000,,Hmph, nada mal.
+Dialogue: 0,0:11:57.73,0:12:01.96,fonte legenda,,0000,0000,0000,,Seu macaco nojento!
+Dialogue: 0,0:12:02.00,0:12:03.03,fonte legenda,,0000,0000,0000,,Seu idiota!
+Dialogue: 0,0:12:09.66,0:12:12.50,fonte legenda,,0000,0000,0000,,Isso aconteceu porque você não segurou firme!
+Dialogue: 0,0:12:19.70,0:12:22.13,fonte legenda,,0000,0000,0000,,Como se atreve a me assustar!?
+Dialogue: 0,0:12:27.70,0:12:29.63,fonte legenda,,0000,0000,0000,,K-Koola-sama!
+Dialogue: 0,0:12:41.70,0:12:42.66,fonte legenda,,0000,0000,0000,,Freeza!?
+Dialogue: 0,0:12:45.70,0:12:47.46,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:12:49.06,0:12:50.53,fonte legenda,,0000,0000,0000,,Não se aproxime, Gohan!
+Dialogue: 0,0:12:54.06,0:12:56.73,fonte legenda,,0000,0000,0000,,Todos os Saiya-jins devem morrer!
+Dialogue: 0,0:12:59.73,0:13:00.86,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:13:37.36,0:13:40.10,fonte legenda,,0000,0000,0000,,Para ele conseguir revidar\No meu ataque daquela posição...
+Dialogue: 0,0:13:40.13,0:13:43.66,fonte legenda,,0000,0000,0000,,deve ter sido ele que derrotou Freeza.
+Dialogue: 0,0:13:43.70,0:13:47.00,fonte legenda,,0000,0000,0000,,Que grande feito,\NKoola-sama! Meus parabéns!
+Dialogue: 0,0:13:47.03,0:13:52.10,fonte legenda,,0000,0000,0000,,Isso significa que todos os Saiya-jins\Ndeste mundo já foram eliminados!
+Dialogue: 0,0:13:52.36,0:13:54.66,fonte legenda,,0000,0000,0000,,Idiota!
+Dialogue: 0,0:13:54.70,0:13:57.26,fonte legenda,,0000,0000,0000,,Depois de tomar o meu\Nraio destruidor diretamente,
+Dialogue: 0,0:13:57.33,0:14:02.63,fonte legenda,,0000,0000,0000,,foi capaz de revidá-lo contra mim\Ncom aquela forte explosão de Ki!
+Dialogue: 0,0:14:02.66,0:14:06.10,fonte legenda,,0000,0000,0000,,Ele ainda está vivo. Ache-o imediatamente!
+Dialogue: 0,0:14:18.33,0:14:19.30,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:14:20.33,0:14:21.96,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:14:22.00,0:14:23.46,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:14:27.33,0:14:31.30,fonte legenda,,0000,0000,0000,,Droga! Não há um\Nrastro deles no rastreador!
+Dialogue: 0,0:14:31.36,0:14:32.96,fonte legenda,,0000,0000,0000,,Onde eles foram!?
+Dialogue: 0,0:14:33.03,0:14:36.50,fonte legenda,,0000,0000,0000,,Inacreditável! Não tem\Ncomo ele ter sobrevivido
+Dialogue: 0,0:14:36.56,0:14:39.33,fonte legenda,,0000,0000,0000,,depois de tomar o\Nraio destrutivo do Koola-sama!
+Dialogue: 0,0:14:44.03,0:14:46.66,fonte legenda,,0000,0000,0000,,Está finalmente acordando, huh?
+Dialogue: 0,0:14:46.70,0:14:50.70,fonte legenda,,0000,0000,0000,,Grande Dragão! Oolong!\NOnde estão Gohan e Goku?
+Dialogue: 0,0:14:56.36,0:14:59.73,fonte legenda,,0000,0000,0000,,Papai! Papai!
+Dialogue: 0,0:15:00.80,0:15:01.86,fonte legenda,,0000,0000,0000,,Papai...
+Dialogue: 0,0:15:04.06,0:15:05.33,fonte legenda,,0000,0000,0000,,G-Gohan...
+Dialogue: 0,0:15:05.40,0:15:06.36,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:15:08.73,0:15:11.70,fonte legenda,,0000,0000,0000,,Meu corpo...
+Dialogue: 0,0:15:11.73,0:15:12.53,fonte legenda,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:15:24.73,0:15:28.70,fonte legenda,,0000,0000,0000,,Saia se ainda está vivo, Saiya-jin!
+Dialogue: 0,0:15:28.73,0:15:31.80,fonte legenda,,0000,0000,0000,,Se não sair vamos explodir\Ntodo esse planeta!
+Dialogue: 0,0:15:48.10,0:15:49.16,fonte legenda,,0000,0000,0000,,Gohan...
+Dialogue: 0,0:16:12.06,0:16:14.43,fonte legenda,,0000,0000,0000,,Se estiverem vivos, estão\Ndeformados, como aberrações!
+Dialogue: 0,0:16:14.46,0:16:17.33,fonte legenda,,0000,0000,0000,,Mesmo assim, nós exageramos um pouco.
+Dialogue: 0,0:16:17.36,0:16:20.70,fonte legenda,,0000,0000,0000,,Vai ser um trabalho\Nachar seus cadáveres em tudo isso
+Dialogue: 0,0:16:20.73,0:16:23.20,fonte legenda,,0000,0000,0000,,Ele ainda não está morto.
+Dialogue: 0,0:16:23.23,0:16:25.26,fonte legenda,,0000,0000,0000,,Faça o que for necessário para\Nachá-lo, e traga-o para mim.
+Dialogue: 0,0:16:25.30,0:16:29.06,fonte legenda,,0000,0000,0000,,Seria mais fácil explodi-lo\Njunto com todo esse planeta,
+Dialogue: 0,0:16:29.10,0:16:30.90,fonte legenda,,0000,0000,0000,,mas meu orgulho não permitirá isso.
+Dialogue: 0,0:16:30.93,0:16:31.76,fonte legenda,,0000,0000,0000,,S-Sim!
+Dialogue: 0,0:16:31.80,0:16:34.43,fonte legenda,,0000,0000,0000,,Não vim para vingar meu irmão,
+Dialogue: 0,0:16:34.46,0:16:39.90,fonte legenda,,0000,0000,0000,,mas para acabar com o Saiya-jin que\Nferiu nossa honra e jogou lama nela.
+Dialogue: 0,0:16:39.93,0:16:43.30,fonte legenda,,0000,0000,0000,,Entendem isso, certo?
+Dialogue: 0,0:16:50.70,0:16:51.26,fonte legenda,,0000,0000,0000,,Vamos!
+Dialogue: 0,0:16:58.26,0:16:59.30,fonte legenda,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:17:00.63,0:17:01.93,fonte legenda,,0000,0000,0000,,Pode sentir o cheiro de Gohan?
+Dialogue: 0,0:17:01.96,0:17:04.43,fonte legenda,,0000,0000,0000,,Embaixo dessa pedra, certo ?
+Dialogue: 0,0:17:04.46,0:17:06.00,fonte legenda,,0000,0000,0000,,Gohan! Gohan!
+Dialogue: 0,0:17:06.03,0:17:07.33,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:17:07.36,0:17:09.40,fonte legenda,,0000,0000,0000,,Gohan! Está tudo bem?
+Dialogue: 0,0:17:09.43,0:17:11.73,fonte legenda,,0000,0000,0000,,Sim, mas meu pai...
+Dialogue: 0,0:17:11.76,0:17:13.53,fonte legenda,,0000,0000,0000,,Goku está aí com você?
+Dialogue: 0,0:17:13.56,0:17:15.50,fonte legenda,,0000,0000,0000,,Sim, e severamente machucado!
+Dialogue: 0,0:17:15.56,0:17:17.86,fonte legenda,,0000,0000,0000,,Certo! Vou tirar essas\Npedras do caminho agora mesmo!
+Dialogue: 0,0:17:17.93,0:17:22.36,fonte legenda,,0000,0000,0000,,Kuririn-san, por favor tenha cuidado\Npara não ser detectado pelos rastreadores!
+Dialogue: 0,0:17:22.40,0:17:23.50,fonte legenda,,0000,0000,0000,,Pode deixar.
+Dialogue: 0,0:17:23.56,0:17:25.46,fonte legenda,,0000,0000,0000,,Vocês dois, ajudem os outros animais.
+Dialogue: 0,0:17:25.50,0:17:26.40,fonte legenda,,0000,0000,0000,,Você manda!
+Dialogue: 0,0:17:29.96,0:17:35.03,fonte legenda,,0000,0000,0000,,Kuririn, estou bem.\NCuide dos animais primeiro.
+Dialogue: 0,0:17:35.06,0:17:38.83,fonte legenda,,0000,0000,0000,,Sim, o Oolong e o Grande Dragão\Nos estão ajudando. Não se preocupe!
+Dialogue: 0,0:17:47.73,0:17:48.80,fonte legenda,,0000,0000,0000,,Kuririn!
+Dialogue: 0,0:17:50.06,0:17:50.90,fonte legenda,,0000,0000,0000,,Socorro!
+Dialogue: 0,0:17:55.46,0:17:56.83,fonte legenda,,0000,0000,0000,,Estou salvo!
+Dialogue: 0,0:17:56.86,0:17:58.16,fonte legenda,,0000,0000,0000,,Vão nos descobrir!
+Dialogue: 0,0:17:58.20,0:17:59.66,fonte legenda,,0000,0000,0000,,Lá estão!
+Dialogue: 0,0:18:04.20,0:18:04.90,fonte legenda,,0000,0000,0000,,O quê...?
+Dialogue: 0,0:18:04.93,0:18:07.96,fonte legenda,,0000,0000,0000,,O rastreador captou aquela coisa!?
+Dialogue: 0,0:18:08.00,0:18:09.70,fonte legenda,,0000,0000,0000,,Não me assuste desse jeito!
+Dialogue: 0,0:18:09.73,0:18:13.76,fonte legenda,,0000,0000,0000,,Droga. Provavelmente já nos descobriram.
+Dialogue: 0,0:18:13.80,0:18:16.53,fonte legenda,,0000,0000,0000,,Temos que sair daqui rápido.
+Dialogue: 0,0:18:16.56,0:18:18.93,fonte legenda,,0000,0000,0000,,Gohan, eu cuidarei do Goku,
+Dialogue: 0,0:18:18.96,0:18:21.83,fonte legenda,,0000,0000,0000,,Você vá à torre do Karin-sama\Ne traga algumas Senzu, ok?
+Dialogue: 0,0:18:21.86,0:18:23.66,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:18:23.73,0:18:25.93,fonte legenda,,0000,0000,0000,,Entretanto, você não\Npode usar a técnica de voar!
+Dialogue: 0,0:18:26.00,0:18:30.86,fonte legenda,,0000,0000,0000,,Sim, já sei. Posso contar\Ncom o Grande Dragão, certo?
+Dialogue: 0,0:18:30.90,0:18:33.36,fonte legenda,,0000,0000,0000,,Bem pensado, Gohan!\NContamos com você!
+Dialogue: 0,0:18:33.40,0:18:34.46,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:18:34.50,0:18:37.96,fonte legenda,,0000,0000,0000,,Voe o mais alto que conseguir,\Npara não ser visto por eles!
+Dialogue: 0,0:18:38.00,0:18:38.86,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:18:38.90,0:18:41.66,fonte legenda,,0000,0000,0000,,Vamos nos esconder nos arredores, ok?
+Dialogue: 0,0:18:41.70,0:18:42.46,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:18:46.40,0:18:49.33,fonte legenda,,0000,0000,0000,,Dessa forma, o dia já vai amanhecer!
+Dialogue: 0,0:18:51.90,0:18:54.66,fonte legenda,,0000,0000,0000,,Certo, eles não nos acharam!
+Dialogue: 0,0:18:54.70,0:18:57.83,fonte legenda,,0000,0000,0000,,Vai, Grande Dragão!
+Dialogue: 0,0:19:02.03,0:19:04.10,fonte legenda,,0000,0000,0000,,Rápido, Rápido! É assim mesmo!
+Dialogue: 0,0:19:12.93,0:19:14.73,fonte legenda,,0000,0000,0000,,Depende de você, Gohan.
+Dialogue: 0,0:19:18.23,0:19:20.76,fonte legenda,,0000,0000,0000,,Grande Dragão, continue assim!
+Dialogue: 0,0:19:27.30,0:19:30.13,fonte legenda,,0000,0000,0000,,Já podemos ver! Só mais um pouco!
+Dialogue: 0,0:19:30.20,0:19:31.66,fonte legenda,,0000,0000,0000,,Agüenta firme, Grande Dragão!
+Dialogue: 0,0:19:37.50,0:19:39.06,fonte legenda,,0000,0000,0000,,Obrigado, Grande Dragão!
+Dialogue: 0,0:19:39.13,0:19:42.00,fonte legenda,,0000,0000,0000,,Eu já volto, espere por mim, ok?
+Dialogue: 0,0:19:42.93,0:19:44.03,fonte legenda,,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:47.73,0:19:51.33,fonte legenda,,0000,0000,0000,,Papai, agüente, ok? Está quase acabando.
+Dialogue: 0,0:19:57.76,0:20:00.50,fonte legenda,,0000,0000,0000,,Ótimo, já dá pra ver!
+Dialogue: 0,0:20:12.66,0:20:13.60,fonte legenda,,0000,0000,0000,,Karin-sama!
+Dialogue: 0,0:20:14.13,0:20:18.60,fonte legenda,,0000,0000,0000,,Karin-sama, está aí?
+Dialogue: 0,0:20:18.63,0:20:20.33,fonte legenda,,0000,0000,0000,,Será o filho de Goku?
+Dialogue: 0,0:20:20.36,0:20:24.03,fonte legenda,,0000,0000,0000,,Sim. Eu, hum, quero saber se\Nvocê pode me dar algumas Senzus.
+Dialogue: 0,0:20:24.06,0:20:27.63,fonte legenda,,0000,0000,0000,,Você começou a subir\Nna torre Karin pelo meio, não foi?
+Dialogue: 0,0:20:27.66,0:20:30.03,fonte legenda,,0000,0000,0000,,Trapaça, não pode trapacear.
+Dialogue: 0,0:20:30.06,0:20:31.76,fonte legenda,,0000,0000,0000,,Tem que subir de novo.
+Dialogue: 0,0:20:31.80,0:20:34.53,fonte legenda,,0000,0000,0000,,Hum, mas meu pai está muito ferido, e...
+Dialogue: 0,0:20:34.56,0:20:37.23,fonte legenda,,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:20:37.30,0:20:39.93,fonte legenda,,0000,0000,0000,,Eu vou subir mais uma vez.
+Dialogue: 0,0:20:40.00,0:20:42.66,fonte legenda,,0000,0000,0000,,Hey, garoto!
+Dialogue: 0,0:20:42.76,0:20:45.96,fonte legenda,,0000,0000,0000,,Leve isso com você!
+Dialogue: 0,0:20:46.00,0:20:46.86,fonte legenda,,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:20:46.90,0:20:49.13,fonte legenda,,0000,0000,0000,,Senzu, é claro!
+Dialogue: 0,0:20:49.16,0:20:50.60,fonte legenda,,0000,0000,0000,,Yajirobe!
+Dialogue: 0,0:20:50.63,0:20:53.66,fonte legenda,,0000,0000,0000,,Não seja tão rígido,\Nseu velho ermitão teimoso!
+Dialogue: 0,0:20:53.70,0:20:54.63,fonte legenda,,0000,0000,0000,,O que você disse!?
+Dialogue: 0,0:20:54.66,0:20:56.86,fonte legenda,,0000,0000,0000,,Você continua comendo\Nminha comida conforme sua vontade!
+Dialogue: 0,0:20:56.90,0:20:59.76,fonte legenda,,0000,0000,0000,,Isso não tem nada a ver com o garoto.
+Dialogue: 0,0:20:59.80,0:21:01.63,fonte legenda,,0000,0000,0000,,Um, e quanto a isso?
+Dialogue: 0,0:21:01.66,0:21:06.13,fonte legenda,,0000,0000,0000,,Bem, pra ser honesto,\Neu vou abrir uma exceção dessa vez.
+Dialogue: 0,0:21:06.16,0:21:08.96,fonte legenda,,0000,0000,0000,,Você planejava fazer isso\Ndesde o começo, não é mesmo?
+Dialogue: 0,0:21:09.00,0:21:10.30,fonte legenda,,0000,0000,0000,,Cale a boca!
+Dialogue: 0,0:21:10.36,0:21:13.56,fonte legenda,,0000,0000,0000,,Muito obrigado mesmo!
+Dialogue: 0,0:21:13.63,0:21:16.23,fonte legenda,,0000,0000,0000,,Eu nunca vou esquecer sua\Ngentileza enquanto viver, mestre!
+Dialogue: 0,0:21:18.16,0:21:19.13,fonte legenda,,0000,0000,0000,,Eu quero uma...
+Dialogue: 0,0:21:21.33,0:21:23.60,fonte legenda,,0000,0000,0000,,Garoto, leva essa também!
+Dialogue: 0,0:21:26.63,0:21:28.40,fonte legenda,,0000,0000,0000,,Muito Obrigado!
+Dialogue: 0,0:21:28.43,0:21:31.20,fonte legenda,,0000,0000,0000,,Eu não dei nem mesmo uma semente para ele!
+Dialogue: 0,0:21:31.23,0:21:33.66,fonte legenda,,0000,0000,0000,,Apesar de tudo você tem um bom coração.
+Dialogue: 0,0:21:33.70,0:21:36.56,fonte legenda,,0000,0000,0000,,Se me derem licença...
+Dialogue: 0,0:21:40.80,0:21:42.46,fonte legenda,,0000,0000,0000,,Grande Dragão!
+Dialogue: 0,0:21:46.23,0:21:47.26,fonte legenda,,0000,0000,0000,,Desculpe por te fazer esperar.
+Dialogue: 0,0:21:47.33,0:21:49.30,fonte legenda,,0000,0000,0000,,Tudo bem, vamos depressa até meu pai!
+Dialogue: 0,0:21:49.36,0:21:51.20,fonte legenda,,0000,0000,0000,,Grande Dragão, agüente firme!
+Dialogue: 0,0:21:54.40,0:21:58.50,fonte legenda,,0000,0000,0000,,Goku foi abençoado\Ncom um bom filho, hein?
+Dialogue: 0,0:22:04.00,0:22:06.20,fonte legenda,,0000,0000,0000,,Grande Dragão, não desanime!
+Dialogue: 0,0:22:12.00,0:22:12.90,fonte legenda,,0000,0000,0000,,Goku!
+Dialogue: 0,0:22:14.00,0:22:15.03,fonte legenda,,0000,0000,0000,,Goku!
+Dialogue: 0,0:22:15.66,0:22:18.66,fonte legenda,,0000,0000,0000,,Goku!!
+Dialogue: 0,0:22:18.70,0:22:21.13,fonte legenda,,0000,0000,0000,,Tudo bem, ainda estou vivo.
+Dialogue: 0,0:22:23.36,0:22:26.33,fonte legenda,,0000,0000,0000,,Goku, Gohan vai\Nestar voltando logo, ok?
+Dialogue: 0,0:22:26.36,0:22:27.70,fonte legenda,,0000,0000,0000,,Resista mais um pouco!
+Dialogue: 0,0:22:27.73,0:22:28.56,fonte legenda,,0000,0000,0000,,Sim...
+Dialogue: 0,0:22:33.03,0:22:35.63,fonte legenda,,0000,0000,0000,,Gohan, por favor apresse-se!
+Dialogue: 0,0:22:35.66,0:22:38.83,fonte legenda,,0000,0000,0000,,Hey, já amanheceu!
+Dialogue: 0,0:22:38.86,0:22:41.16,fonte legenda,,0000,0000,0000,,Será que ele está realmente vivo!?
+Dialogue: 0,0:22:41.20,0:22:43.40,fonte legenda,,0000,0000,0000,,Temos certeza de que ele\Nnão explodiu em pedacinhos!?
+Dialogue: 0,0:22:44.46,0:22:47.43,fonte legenda,,0000,0000,0000,,Grande Dragão, só mais um pouco!
+Dialogue: 0,0:22:50.40,0:22:52.86,fonte legenda,,0000,0000,0000,,Agüente firme! Estamos quase lá!
+Dialogue: 0,0:22:55.43,0:22:57.86,fonte legenda,,0000,0000,0000,,Eu sei!
+Dialogue: 0,0:22:57.90,0:22:59.60,fonte legenda,,0000,0000,0000,,Aqui, come isso.
+Dialogue: 0,0:23:10.66,0:23:12.43,fonte legenda,,0000,0000,0000,,Que veloz, que veloz!
+Dialogue: 0,0:23:15.00,0:23:16.63,fonte legenda,,0000,0000,0000,,Lá está ele!
+Dialogue: 0,0:23:16.66,0:23:20.96,fonte legenda,,0000,0000,0000,,Continue assim, Grande Dragão!
+Dialogue: 0,0:23:21.00,0:23:24.63,fonte legenda,,0000,0000,0000,,Garoto! está vivo depois de tudo, então?
+Dialogue: 0,0:23:24.70,0:23:25.66,fonte legenda,,0000,0000,0000,,Whoops!
+Dialogue: 0,0:23:25.70,0:23:27.66,fonte legenda,,0000,0000,0000,,A Senzu aumentou seus\Npoderes mais do que devia!
+Dialogue: 0,0:23:43.70,0:23:44.60,fonte legenda,,0000,0000,0000,,Grande Dragão!
+Dialogue: 0,0:23:57.06,0:23:59.03,fonte legenda,,0000,0000,0000,,Esse garoto está segurando algo!
+Dialogue: 0,0:23:59.06,0:24:03.00,fonte legenda,,0000,0000,0000,,Hey, o que você\Ntem aí? Dê logo para mim!
+Dialogue: 0,0:24:04.66,0:24:07.36,fonte legenda,,0000,0000,0000,,Oh, bem. Vou te matar agora mesmo.
+Dialogue: 0,0:24:14.66,0:24:16.63,fonte legenda,,0000,0000,0000,,Ore!
+Dialogue: 0,0:24:16.66,0:24:17.53,fonte legenda,,0000,0000,0000,,Q-Quem está aí!?
+Dialogue: 0,0:24:22.00,0:24:25.30,fonte legenda,,0000,0000,0000,,Um Namekusei-jin?
+Dialogue: 0,0:24:25.33,0:24:27.63,fonte legenda,,0000,0000,0000,,Agora outro cara\Nestranhou apareceu!
+Dialogue: 0,0:24:27.66,0:24:30.30,fonte legenda,,0000,0000,0000,,Gohan! Se apresse e entregue essas Senzus!
+Dialogue: 0,0:24:30.36,0:24:32.63,fonte legenda,,0000,0000,0000,,P-Piccolo-san!
+Dialogue: 0,0:24:32.70,0:24:35.30,fonte legenda,,0000,0000,0000,,Você vai pagar por isso!
+Dialogue: 0,0:24:35.36,0:24:39.00,fonte legenda,,0000,0000,0000,,Então, vocês parecem ter alguma capacidade.
+Dialogue: 0,0:24:39.03,0:24:40.76,fonte legenda,,0000,0000,0000,,Não zombe de mim!
+Dialogue: 0,0:24:55.70,0:24:59.00,fonte legenda,,0000,0000,0000,,Gohan, o que está fazendo!?
+Dialogue: 0,0:24:59.03,0:25:01.33,fonte legenda,,0000,0000,0000,,Apresse-se e vá!
+Dialogue: 0,0:25:01.36,0:25:03.66,fonte legenda,,0000,0000,0000,,Certo! Obrigado, Piccolo-san!
+Dialogue: 0,0:25:03.73,0:25:06.63,fonte legenda,,0000,0000,0000,,Seu rato! Você não vai fugir!
+Dialogue: 0,0:25:15.06,0:25:16.10,fonte legenda,,0000,0000,0000,,Seu tolo!
+Dialogue: 0,0:25:18.40,0:25:19.70,fonte legenda,,0000,0000,0000,,Ore, atrás de você!
+Dialogue: 0,0:25:19.73,0:25:20.43,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:25:41.10,0:25:43.86,fonte legenda,,0000,0000,0000,,Eu vou segurar isso e...
+Dialogue: 0,0:25:50.43,0:25:53.30,fonte legenda,,0000,0000,0000,,Ore!! Seu maldito!
+Dialogue: 0,0:25:58.10,0:26:01.00,fonte legenda,,0000,0000,0000,,Sauzer!
+Dialogue: 0,0:26:01.03,0:26:02.20,fonte legenda,,0000,0000,0000,,Tome isso!
+Dialogue: 0,0:26:07.03,0:26:09.66,fonte legenda,,0000,0000,0000,,Tudo bem, Naise,\Ndeixarei o resto com você!
+Dialogue: 0,0:26:09.73,0:26:11.80,fonte legenda,,0000,0000,0000,,Garoto, você não vai escapar!
+Dialogue: 0,0:26:13.06,0:26:15.50,fonte legenda,,0000,0000,0000,,Agora será o seu fim!
+Dialogue: 0,0:26:16.73,0:26:19.36,fonte legenda,,0000,0000,0000,,Então, quantos\Nsegundos a mais você irá durar?
+Dialogue: 0,0:26:19.40,0:26:20.33,fonte legenda,,0000,0000,0000,,Boa pergunta.
+Dialogue: 0,0:26:36.73,0:26:39.36,fonte legenda,,0000,0000,0000,,Seu maldito...
+Dialogue: 0,0:26:39.40,0:26:40.20,fonte legenda,,0000,0000,0000,,Maldição!
+Dialogue: 0,0:27:32.73,0:27:33.50,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:27:38.73,0:27:40.36,fonte legenda,,0000,0000,0000,,Miserável...
+Dialogue: 0,0:27:40.40,0:27:41.70,fonte legenda,,0000,0000,0000,,Sauzer!
+Dialogue: 0,0:27:41.73,0:27:43.26,fonte legenda,,0000,0000,0000,,Vá atrás do garoto!
+Dialogue: 0,0:27:59.10,0:28:00.40,fonte legenda,,0000,0000,0000,,Freeza...!
+Dialogue: 0,0:28:04.70,0:28:07.16,fonte legenda,,0000,0000,0000,,Gohan está demorando muito.
+Dialogue: 0,0:28:09.03,0:28:11.43,fonte legenda,,0000,0000,0000,,Goku, agüente firme!
+Dialogue: 0,0:28:11.46,0:28:13.20,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:28:13.23,0:28:14.96,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:28:15.00,0:28:16.26,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:28:16.30,0:28:17.80,fonte legenda,,0000,0000,0000,,Onde está o Grande Dragão?
+Dialogue: 0,0:28:17.83,0:28:21.36,fonte legenda,,0000,0000,0000,,Fomos encontrados por aqueles caras,\Ne ele foi derrubado por eles!
+Dialogue: 0,0:28:21.40,0:28:23.76,fonte legenda,,0000,0000,0000,,Mas eu trouxe as Senzus!
+Dialogue: 0,0:28:23.83,0:28:26.93,fonte legenda,,0000,0000,0000,,Ótimo! Agora Goku vai ficar bem!
+Dialogue: 0,0:28:27.00,0:28:30.60,fonte legenda,,0000,0000,0000,,G- Gohan, te devo uma...
+Dialogue: 0,0:28:30.66,0:28:33.56,fonte legenda,,0000,0000,0000,,Eu vou procurar o Grande Dragão agora!
+Dialogue: 0,0:28:33.60,0:28:35.23,fonte legenda,,0000,0000,0000,,Ok! Deixe o resto conosco!
+Dialogue: 0,0:28:39.86,0:28:41.93,fonte legenda,,0000,0000,0000,,Então é aqui que estavam, hein?
+Dialogue: 0,0:28:41.96,0:28:45.10,fonte legenda,,0000,0000,0000,,Ah não, eu fui seguido!
+Dialogue: 0,0:28:45.13,0:28:49.23,fonte legenda,,0000,0000,0000,,Maldição,\Nestávamos tão perto! Miserável!
+Dialogue: 0,0:28:49.26,0:28:52.56,fonte legenda,,0000,0000,0000,,Se você ao menos não tivesse vindo...!
+Dialogue: 0,0:28:55.73,0:28:59.20,fonte legenda,,0000,0000,0000,,É esse o fim?
+Dialogue: 0,0:28:59.23,0:29:02.10,fonte legenda,,0000,0000,0000,,Ah, droga!
+Dialogue: 0,0:29:02.13,0:29:05.06,fonte legenda,,0000,0000,0000,,Garoto, leva essa também!
+Dialogue: 0,0:29:05.10,0:29:06.70,fonte legenda,,0000,0000,0000,,Aqui está!
+Dialogue: 0,0:29:06.73,0:29:08.50,fonte legenda,,0000,0000,0000,,Papai, aqui!
+Dialogue: 0,0:29:08.53,0:29:11.43,fonte legenda,,0000,0000,0000,,G-Gohan, o que é isso?
+Dialogue: 0,0:29:11.46,0:29:13.70,fonte legenda,,0000,0000,0000,,Está tudo bem, coma!
+Dialogue: 0,0:29:19.43,0:29:20.20,fonte legenda,,0000,0000,0000,,Droga!
+Dialogue: 0,0:29:31.36,0:29:32.70,fonte legenda,,0000,0000,0000,,Kuririn-san!
+Dialogue: 0,0:29:32.76,0:29:34.60,fonte legenda,,0000,0000,0000,,Como pôde!?
+Dialogue: 0,0:29:41.33,0:29:44.03,fonte legenda,,0000,0000,0000,,Garoto problemático!
+Dialogue: 0,0:29:44.06,0:29:45.70,fonte legenda,,0000,0000,0000,,Quem vocês pensam que são?
+Dialogue: 0,0:29:45.73,0:29:47.76,fonte legenda,,0000,0000,0000,,Agora então,\Nvou acabar com o resto do lixo...
+Dialogue: 0,0:29:47.80,0:29:49.86,fonte legenda,,0000,0000,0000,,Isso será fácil.
+Dialogue: 0,0:29:59.70,0:30:02.30,fonte legenda,,0000,0000,0000,,De onde vem esse sinal?
+Dialogue: 0,0:30:02.33,0:30:06.10,fonte legenda,,0000,0000,0000,,O poder está aumentando rapidamente!
+Dialogue: 0,0:30:06.16,0:30:07.66,fonte legenda,,0000,0000,0000,,É impossível!
+Dialogue: 0,0:30:07.73,0:30:11.46,fonte legenda,,0000,0000,0000,,Não pode haver alguém tão poderoso aí dentro!
+Dialogue: 0,0:30:11.50,0:30:13.23,fonte legenda,,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:30:27.36,0:30:29.60,fonte legenda,,0000,0000,0000,,G-Goku...
+Dialogue: 0,0:30:32.03,0:30:33.00,fonte legenda,,0000,0000,0000,,Kuririn!
+Dialogue: 0,0:30:34.70,0:30:38.00,fonte legenda,,0000,0000,0000,,P-Papai...
+Dialogue: 0,0:30:38.06,0:30:39.66,fonte legenda,,0000,0000,0000,,Gohan!
+Dialogue: 0,0:30:39.73,0:30:41.46,fonte legenda,,0000,0000,0000,,Você... como...!?
+Dialogue: 0,0:30:44.40,0:30:47.03,fonte legenda,,0000,0000,0000,,Isso é impossível!
+Dialogue: 0,0:30:47.06,0:30:49.53,fonte legenda,,0000,0000,0000,,Você não serve pra lutar comigo.
+Dialogue: 0,0:30:49.56,0:30:52.03,fonte legenda,,0000,0000,0000,,Volte para o seu planeta!
+Dialogue: 0,0:30:52.06,0:30:56.60,fonte legenda,,0000,0000,0000,,Oh, você finalmente saiu, hein, Saiya-jin?
+Dialogue: 0,0:30:56.63,0:30:57.63,fonte legenda,,0000,0000,0000,,Coola-sama!
+Dialogue: 0,0:31:01.66,0:31:03.96,fonte legenda,,0000,0000,0000,,Esse cara é um dos seus amigos, também?
+Dialogue: 0,0:31:04.00,0:31:06.03,fonte legenda,,0000,0000,0000,,Piccolo!
+Dialogue: 0,0:31:08.26,0:31:11.83,fonte legenda,,0000,0000,0000,,Você é um tolo! Sair foi uma péssima idéia!
+Dialogue: 0,0:31:11.90,0:31:14.36,fonte legenda,,0000,0000,0000,,Se ao menos aquele Namekusei-jin\Nnão tivesse protegido aquele garoto,
+Dialogue: 0,0:31:14.43,0:31:19.53,fonte legenda,,0000,0000,0000,,ele não teria que ter passado por tudo isso!
+Dialogue: 0,0:31:19.56,0:31:20.80,fonte legenda,,0000,0000,0000,,Pegue!
+Dialogue: 0,0:31:50.73,0:31:52.03,fonte legenda,,0000,0000,0000,,Seu miserável...
+Dialogue: 0,0:31:52.06,0:31:56.70,fonte legenda,,0000,0000,0000,,Por minha causa, você\Nmachucou até mesmo em Piccolo!?
+Dialogue: 0,0:31:56.73,0:32:00.96,fonte legenda,,0000,0000,0000,,Um Saiya-jin, nascido apenas\Npara lutar, tem tais sentimentos?
+Dialogue: 0,0:32:01.00,0:32:03.66,fonte legenda,,0000,0000,0000,,Sou um Saiya-jin criado na Terra!!
+Dialogue: 0,0:32:07.66,0:32:10.30,fonte legenda,,0000,0000,0000,,Então você era aquele garoto na cápsula.
+Dialogue: 0,0:32:10.33,0:32:13.63,fonte legenda,,0000,0000,0000,,Desgraçado!
+Dialogue: 0,0:32:13.66,0:32:19.96,fonte legenda,,0000,0000,0000,,Vamos, me mostre esse\Ntão falado poder de Super Saiya-jin!
+Dialogue: 0,0:32:20.03,0:32:21.63,fonte legenda,,0000,0000,0000,,Você vai pagar!
+Dialogue: 0,0:32:39.36,0:32:41.66,fonte legenda,,0000,0000,0000,,Não vou ser derrotado como meu irmão.
+Dialogue: 0,0:33:25.70,0:33:28.30,fonte legenda,,0000,0000,0000,,Hmph, você luta como eu esperava.
+Dialogue: 0,0:33:28.36,0:33:31.66,fonte legenda,,0000,0000,0000,,Suficiente para derrotar meu irmão.
+Dialogue: 0,0:33:31.70,0:33:35.33,fonte legenda,,0000,0000,0000,,Entretanto,\No verdadeiro inferno começa agora!
+Dialogue: 0,0:33:35.36,0:33:41.66,fonte legenda,,0000,0000,0000,,Assim que ver o inferno, não vou\Nter piedade, não interessa o quanto grite!
+Dialogue: 0,0:33:41.70,0:33:47.33,fonte legenda,,0000,0000,0000,,Não até que esteja em pedaços.
+Dialogue: 0,0:33:47.36,0:33:51.66,fonte legenda,,0000,0000,0000,,Só mais uma.
+Dialogue: 0,0:33:51.70,0:33:57.33,fonte legenda,,0000,0000,0000,,Posso me transformar\Numa vez a mais do que o meu irmão.
+Dialogue: 0,0:33:57.40,0:33:58.66,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:33:58.73,0:34:01.20,fonte legenda,,0000,0000,0000,,Devia se considerar honrado.
+Dialogue: 0,0:34:01.23,0:34:06.60,fonte legenda,,0000,0000,0000,,Você será o primeiro e último\Na ver minha última transformação!!
+Dialogue: 0,0:34:36.03,0:34:41.10,fonte legenda,,0000,0000,0000,,Inacreditável...\NSeu Ki é ainda maior que o de Freeza!
+Dialogue: 0,0:34:49.70,0:34:52.43,fonte legenda,,0000,0000,0000,,Então, podemos começar?
+Dialogue: 0,0:35:40.43,0:35:42.46,fonte legenda,,0000,0000,0000,,Exatamente o que\Neu esperaria de um Saiya-jin!
+Dialogue: 0,0:36:07.70,0:36:08.80,fonte legenda,,0000,0000,0000,,O que foi?
+Dialogue: 0,0:36:08.83,0:36:12.13,fonte legenda,,0000,0000,0000,,Esse é todo o poder\Nque tem um Super Saiya-jin?
+Dialogue: 0,0:36:57.43,0:36:59.43,fonte legenda,,0000,0000,0000,,Você me diverte!
+Dialogue: 0,0:37:19.40,0:37:20.06,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:37:36.73,0:37:38.83,fonte legenda,,0000,0000,0000,,Hmph, que idiota!
+Dialogue: 0,0:37:38.86,0:37:44.70,fonte legenda,,0000,0000,0000,,Acho que Super Saiya-jins\Nexistem apenas nas lendas depois de tudo.
+Dialogue: 0,0:37:44.73,0:37:49.70,fonte legenda,,0000,0000,0000,,Vou te transformar, juntamente\Ncom todo esse planeta em poeira espacial!
+Dialogue: 0,0:37:49.73,0:37:52.90,fonte legenda,,0000,0000,0000,,Não há ninguém no\Nuniverso que possa me vencer!
+Dialogue: 0,0:37:55.43,0:37:57.63,fonte legenda,,0000,0000,0000,,Eu sou o mais forte do universo!
+Dialogue: 0,0:38:07.70,0:38:09.63,fonte legenda,,0000,0000,0000,,O que está acontecendo!?
+Dialogue: 0,0:38:17.03,0:38:19.66,fonte legenda,,0000,0000,0000,,G-Goku...
+Dialogue: 0,0:38:19.70,0:38:22.66,fonte legenda,,0000,0000,0000,,P-Papai...
+Dialogue: 0,0:38:22.70,0:38:25.50,fonte legenda,,0000,0000,0000,,Kuririn... Gohan...
+Dialogue: 0,0:38:28.06,0:38:29.53,fonte legenda,,0000,0000,0000,,Piccolo...
+Dialogue: 0,0:38:42.40,0:38:48.13,fonte legenda,,0000,0000,0000,,Me desculpem, todos...\Nisso é tudo por minha causa...
+Dialogue: 0,0:39:16.70,0:39:19.56,fonte legenda,,0000,0000,0000,,O que é isso!? O que está acontecendo!?
+Dialogue: 0,0:39:22.70,0:39:24.16,fonte legenda,,0000,0000,0000,,O que é essa mudança?
+Dialogue: 0,0:39:29.70,0:39:31.16,fonte legenda,,0000,0000,0000,,Vou acabar com você!!
+Dialogue: 0,0:39:33.73,0:39:37.36,fonte legenda,,0000,0000,0000,,Já basta. Como ousa brincar com esse planeta!
+Dialogue: 0,0:39:40.73,0:39:46.36,fonte legenda,,0000,0000,0000,,Quantos planetas vocês\Nvão destruir até ficarem satisfeitos?
+Dialogue: 0,0:39:46.40,0:39:47.40,fonte legenda,,0000,0000,0000,,Impossível!
+Dialogue: 0,0:39:51.06,0:39:55.63,fonte legenda,,0000,0000,0000,,Não vou mais te perdoar, mesmo\Nque você peça desculpas, seu bando de lixo!!
+Dialogue: 0,0:40:12.70,0:40:16.33,fonte legenda,,0000,0000,0000,,Entendo! É por isso que\Nmeu irmão não conseguiu vencê-lo!
+Dialogue: 0,0:40:16.36,0:40:17.43,fonte legenda,,0000,0000,0000,,No entanto...
+Dialogue: 0,0:40:33.36,0:40:35.13,fonte legenda,,0000,0000,0000,,Você foi descuidado!
+Dialogue: 0,0:40:35.16,0:40:37.33,fonte legenda,,0000,0000,0000,,Eu disse que era diferente\Ndo meu irmão, não disse!?
+Dialogue: 0,0:40:37.36,0:40:40.86,fonte legenda,,0000,0000,0000,,Você e seu planeta, evaporem no espaço!!
+Dialogue: 0,0:41:00.00,0:41:05.90,fonte legenda,,0000,0000,0000,,Seu tolo! Eu gostaria de dizer que você luta\Nbem, mas sou o mais poderoso do universo!
+Dialogue: 0,0:41:10.36,0:41:14.16,fonte legenda,,0000,0000,0000,,E-Eu não vou deixar isso cair na Terra!
+Dialogue: 0,0:41:26.70,0:41:28.66,fonte legenda,,0000,0000,0000,,Este é o fim do seu planeta!
+Dialogue: 0,0:41:28.70,0:41:32.26,fonte legenda,,0000,0000,0000,,E o melhor, os Saiya-jins agora\Ntambém desaparecerão deste mundo!
+Dialogue: 0,0:41:55.73,0:41:56.40,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:42:07.33,0:42:11.30,fonte legenda,,0000,0000,0000,,Eu não serei vencido\Npor esse poder insignificante!
+Dialogue: 0,0:42:22.70,0:42:24.20,fonte legenda,,0000,0000,0000,,O quê!?
+Dialogue: 0,0:42:34.70,0:42:37.33,fonte legenda,,0000,0000,0000,,Coola-sama, devo derrubá-lo?
+Dialogue: 0,0:42:38.70,0:42:42.16,fonte legenda,,0000,0000,0000,,Não dêem importância. Isso é problema dele.
+Dialogue: 0,0:42:42.20,0:42:44.66,fonte legenda,,0000,0000,0000,,Deixem ele mesmo cuidar disso.
+Dialogue: 0,0:42:44.70,0:42:48.76,fonte legenda,,0000,0000,0000,,Freeza ainda é muito, muito descuidado.
+Dialogue: 0,0:42:51.06,0:42:54.03,fonte legenda,,0000,0000,0000,,Se eu ao menos\No tivesse derrubado aquela vez...
+Dialogue: 0,0:42:54.06,0:42:57.83,fonte legenda,,0000,0000,0000,,Freeza não foi o\Núnico que foi muito descuidado...!
+Dialogue: 0,0:43:43.36,0:43:47.60,fonte legenda,,0000,0000,0000,,P-Pessoal, eu consegui!
+Dialogue: 0,0:43:49.70,0:43:50.30,fonte legenda,,0000,0000,0000,,Goku!
+Dialogue: 0,0:43:52.70,0:43:54.00,fonte legenda,,0000,0000,0000,,Papai!
+Dialogue: 0,0:43:54.03,0:43:57.66,fonte legenda,,0000,0000,0000,,P-Pessoal... Grande Dragão...
+Dialogue: 0,0:43:57.73,0:44:01.26,fonte legenda,,0000,0000,0000,,Q-Que alívio!
+Dialogue: 0,0:44:01.33,0:44:04.93,fonte legenda,,0000,0000,0000,,Mas Piccolo-san não está em lugar algum.
+Dialogue: 0,0:44:05.00,0:44:08.63,fonte legenda,,0000,0000,0000,,Conhecendo ele,\Nele vai aparecer inesperadamente.
+Dialogue: 0,0:44:08.66,0:44:10.53,fonte legenda,,0000,0000,0000,,É, tem razão.
+Dialogue: 0,0:44:15.00,0:44:16.16,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:44:47.36,0:44:48.60,fonte legenda,,0000,0000,0000,,Piccolo-san?
+Dialogue: 0,0:44:52.36,0:44:53.80,fonte legenda,,0000,0000,0000,,Piccolo-san...
+Dialogue: 0,0:44:59.70,0:45:02.63,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:45:11.73,0:45:15.70,fonte legenda,,0000,0000,0000,,Piccolo-san!
+Dialogue: 0,0:45:20.52,0:45:24.09,legenda para abertura e encerramento,,0000,0000,0000,,Ajude! Ajude! Ajude! Ajude!
+Dialogue: 0,0:45:24.16,0:45:27.96,legenda para abertura e encerramento,,0000,0000,0000,,Ajude! Ajude! Ajude! Ajude!
+Dialogue: 0,0:45:27.99,0:45:31.62,legenda para abertura e encerramento,,0000,0000,0000,,Ajude! Ajude! Ajude! Ajude!
+Dialogue: 0,0:45:31.66,0:45:35.42,legenda para abertura e encerramento,,0000,0000,0000,,Ajude! Ajude! Ajude! Ajude!
+Dialogue: 0,0:45:35.46,0:45:37.22,legenda para abertura e encerramento,,0000,0000,0000,,Ajude! Ajude!
+Dialogue: 0,0:45:39.56,0:45:46.19,legenda para abertura e encerramento,,0000,0000,0000,,Um após o outro, continuam vindo até mim,
+Dialogue: 0,0:45:46.22,0:45:52.62,legenda para abertura e encerramento,,0000,0000,0000,,Nessa jornada de conflitos sem fim!
+Dialogue: 0,0:45:54.92,0:46:00.22,legenda para abertura e encerramento,,0000,0000,0000,,Um após o outro, continua ficando mais quente,
+Dialogue: 0,0:46:00.26,0:46:08.52,legenda para abertura e encerramento,,0000,0000,0000,,O sangue, cheio de fúria, dentro do meu peito!
+Dialogue: 0,0:46:09.86,0:46:13.49,legenda para abertura e encerramento,,0000,0000,0000,,Aqueles de nós criados na Terra,
+Dialogue: 0,0:46:13.52,0:46:16.49,legenda para abertura e encerramento,,0000,0000,0000,,Põe sua fé em você,
+Dialogue: 0,0:46:16.52,0:46:24.49,legenda para abertura e encerramento,,0000,0000,0000,,Então nos devolva os sorrisos que perdemos!
+Dialogue: 0,0:46:24.52,0:46:26.16,legenda para abertura e encerramento,,0000,0000,0000,,Acima e além, Acima e além!
+Dialogue: 0,0:46:26.19,0:46:28.49,legenda para abertura e encerramento,,0000,0000,0000,,Cresça mais forte!
+Dialogue: 0,0:46:28.56,0:46:29.82,legenda para abertura e encerramento,,0000,0000,0000,,Acima e além, Acima e além!
+Dialogue: 0,0:46:29.89,0:46:31.86,legenda para abertura e encerramento,,0000,0000,0000,,Cresça mais que os outros!
+Dialogue: 0,0:46:31.89,0:46:38.69,legenda para abertura e encerramento,,0000,0000,0000,,Agora é a hora de liberar o vento mais forte!
+Dialogue: 0,0:46:39.89,0:46:41.19,legenda para abertura e encerramento,,0000,0000,0000,,Acima e além, Acima e além!
+Dialogue: 0,0:46:41.22,0:46:43.52,legenda para abertura e encerramento,,0000,0000,0000,,Pegue aqueles que são fortes,
+Dialogue: 0,0:46:43.56,0:46:44.86,legenda para abertura e encerramento,,0000,0000,0000,,Acima e além, Acima e além!
+Dialogue: 0,0:46:44.89,0:46:47.19,legenda para abertura e encerramento,,0000,0000,0000,,E faça-os ouvir um som de batida!
+Dialogue: 0,0:46:47.22,0:46:51.89,legenda para abertura e encerramento,,0000,0000,0000,,Está na hora de colocá-lo em\Nprática: o seu poder mais forte!
+Dialogue: 0,0:46:53.31,0:46:57.19,legenda para anuncio de episódio e creditos,,0000,0000,0000,,LEGENDA: MAZZOCATO\NEDIÇÃO: HUGOKAMUS
